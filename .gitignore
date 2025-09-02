@@ -1,0 +1,3 @@
+.venv
+voip_service/__pycache__
+voip_service/sip/__pycache__

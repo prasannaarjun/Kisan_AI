@@ -38,6 +38,30 @@ class BaresipDriver:
 
     async def answer(self, call_id: str):
         await self.send_command(f"/accept {call_id}")
+        self.logger.info(f"Answered call with ID: {call_id}")
 
     async def hangup(self, call_id: str):
         await self.send_command(f"/hangup {call_id}")
+
+    async def listen_for_events(self):
+        while True:
+            response = await self.read_response()
+            if "incoming call" in response:
+                call_id = self.extract_call_id(response)
+                self.logger.info(f"Incoming call detected: {call_id}")
+                await self.answer(call_id)
+
+    def extract_call_id(self, response: str) -> str:
+        # Extract the call ID from the response string
+        # Example: "incoming call from sip:1234@sip_server;call-id=abcd1234"
+        parts = response.split(";")
+        for part in parts:
+            if part.startswith("call-id="):
+                return part.split("=")[1]
+        return ""
+
+    async def stop(self):
+        if self.writer:
+            self.writer.close()
+            await self.writer.wait_closed()
+            self.logger.info("Connection to Baresip closed.")

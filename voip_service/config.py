@@ -5,3 +5,5 @@ class Config:
         self.sip_server = "your_sip_server"
         self.audio_format = "pcm"
         self.downstream_service_url = "http://downstream-service-url"
+        self.baresip_host = "127.0.0.1"
+        self.baresip_port = 4444
