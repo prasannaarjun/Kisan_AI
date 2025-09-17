@@ -1,6 +1,12 @@
-
+.idea
 .venv/
 .env
 voip_service/__pycache__/
 voip_service/sip/__pycache__/
 __pycache__/
+twilio_2FA_recovery_code.txt
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+backend\__pycache__
