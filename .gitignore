@@ -1,5 +1,6 @@
 
 .venv/
+.env
 voip_service/__pycache__/
 voip_service/sip/__pycache__/
 __pycache__/
