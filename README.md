@@ -5,12 +5,13 @@ A full-stack speech-to-text conversational agent designed specifically for agric
 ## 🚀 Features
 
 - **Multilingual Speech-to-Text**: Uses `ai4bharat/indic-conformer-600m-multilingual` for accurate transcription in multiple Indian languages
-- **Advanced LLM Integration**: Powered by Gemma 3n for intelligent agricultural advice
+- **Advanced LLM Integration**: Powered by Gemma 2 9B for intelligent agricultural advice
 - **RAG Knowledge Base**: Retrieval-Augmented Generation with agricultural knowledge
 - **Real-time Voice Interaction**: WebSocket-based streaming audio processing
 - **Session Management**: Persistent chat history with SQLite
 - **Modern React Frontend**: Intuitive UI with microphone control and live transcription
 - **LangGraph Orchestration**: Modular pipeline for conversation flow
+- **Virtual Environment Support**: Automatic virtual environment detection and activation
 
 ## 🏗️ Architecture
 
@@ -23,7 +24,7 @@ backend/
 ├── rag_store.py             # FAISS-based knowledge retrieval
 ├── graph_definition.py      # LangGraph pipeline
 ├── persistence.py           # SQLite chat persistence
-└── requirements.txt         # Python dependencies
+└── tts_engine.py           # Text-to-Speech engine
 ```
 
 ### Frontend (React)
@@ -34,84 +35,198 @@ frontend/
 │   ├── components/
 │   │   ├── MicButton.jsx    # Microphone control
 │   │   ├── TranscriptPanel.jsx # Live transcription display
-│   │   └── ChatHistory.jsx  # Message history
+│   │   ├── ChatHistory.jsx  # Message history
+│   │   ├── ContextPanel.jsx # Context display
+│   │   └── StatsPanel.jsx   # Statistics panel
 │   └── api.js              # Backend API client
 └── package.json            # Node.js dependencies
 ```
 
+## 📋 Prerequisites
+
+### System Requirements
+- **Python**: 3.8+ (3.9+ recommended)
+- **Node.js**: 16+ (18+ recommended)
+- **Git**: Latest version
+- **FFmpeg**: Required for audio processing
+- **RAM**: Minimum 8GB (16GB+ recommended for optimal performance)
+- **Storage**: At least 10GB free space for models and dependencies
+
+### Platform-Specific Requirements
+
+#### Windows
+- Windows 10/11 (64-bit)
+- PowerShell 5.1+ or Windows Terminal
+- Visual Studio Build Tools (for some Python packages)
+
+#### macOS
+- macOS 10.15+ (Catalina or later)
+- Xcode Command Line Tools
+- Homebrew (recommended for package management)
+
 ## 🛠️ Installation & Setup
 
-### Prerequisites
-- Python 3.8+
-- Node.js 16+
-- Git
-- FFmpeg (for audio processing) - See [AUDIO_SETUP.md](AUDIO_SETUP.md)
+### Step 1: Clone the Repository
 
-### Quick Start
-
-1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/prasannaarjun/Kisan_AI.git
 cd Kisan_AI
 ```
 
-2. **Install FFmpeg (Required for audio processing)**
-```bash
-# Windows (automatic installer)
-python install_ffmpeg_windows.py
+### Step 2: Install FFmpeg
 
-# Or install manually - see AUDIO_SETUP.md for details
+#### Windows
+```powershell
+# Option 1: Using Chocolatey (recommended)
+choco install ffmpeg
+
+# Option 2: Using winget
+winget install ffmpeg
+
+# Option 3: Manual installation
+# Download from https://ffmpeg.org/download.html
+# Add to PATH: C:\ffmpeg\bin
 ```
 
-3. **Start the Backend**
+#### macOS
 ```bash
+# Using Homebrew (recommended)
+brew install ffmpeg
+
+# Using MacPorts
+sudo port install ffmpeg
+
+# Verify installation
+ffmpeg -version
+```
+
+### Step 3: Set Up Python Environment
+
+#### Windows
+```powershell
+# Create virtual environment
+python -m venv .venv
+
+# Activate virtual environment
+.venv\Scripts\activate
+
+# Upgrade pip
+python -m pip install --upgrade pip
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+#### macOS
+```bash
+# Create virtual environment
+python3 -m venv .venv
+
+# Activate virtual environment
+source .venv/bin/activate
+
+# Upgrade pip
+python -m pip install --upgrade pip
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+### Step 4: Set Up Node.js Environment
+
+#### Both Platforms
+```bash
+# Navigate to frontend directory
+cd frontend
+
+# Install dependencies
+npm install
+
+# Return to project root
+cd ..
+```
+
+## 🚀 Running the Application
+
+### Option 1: Quick Start (Recommended)
+
+Use the integrated launcher that starts both backend and frontend:
+
+```bash
+# Activate virtual environment first
+# Windows:
+.venv\Scripts\activate
+
+# macOS:
+source .venv/bin/activate
+
+# Start both services
+python run_kisan_ai.py
+```
+
+This will:
+- ✅ Automatically detect and activate virtual environment
+- ✅ Start backend server on `http://localhost:8000`
+- ✅ Start frontend server on `http://localhost:3000`
+- ✅ Provide real-time status updates
+- ✅ Handle graceful shutdown with Ctrl+C
+
+### Option 2: Manual Start
+
+#### Start Backend (Terminal 1)
+```bash
+# Activate virtual environment
+# Windows:
+.venv\Scripts\activate
+# macOS:
+source .venv/bin/activate
+
+# Start backend
 python start_backend.py
 ```
-This will:
-- Install Python dependencies
-- Download required models
-- Start the FastAPI server on `http://localhost:8000`
 
-3. **Start the Frontend** (in a new terminal)
+#### Start Frontend (Terminal 2)
 ```bash
+# Activate virtual environment
+# Windows:
+.venv\Scripts\activate
+# macOS:
+source .venv/bin/activate
+
+# Start frontend
 python start_frontend.py
 ```
-This will:
-- Install Node.js dependencies
-- Start the React development server on `http://localhost:3000`
 
-4. **Access the Application**
-- Open `http://localhost:3000` in your browser
-- Click the microphone button to start speaking
-- The system will transcribe your speech and provide AI responses
+### Option 3: Direct Execution
 
-### Manual Setup
-
-#### Backend Setup
+#### Backend Only
 ```bash
 cd backend
-pip install -r requirements.txt
 python app.py
 ```
 
-#### Frontend Setup
+#### Frontend Only
 ```bash
 cd frontend
-npm install
 npm start
 ```
 
-## 🎯 Usage
+## 🌐 Accessing the Application
+
+1. **Open your browser** and navigate to `http://localhost:3000`
+2. **Allow microphone permissions** when prompted
+3. **Click the microphone button** to start speaking
+4. **Speak your agricultural question** in any supported language
+5. **View the response** and continue the conversation
+
+## 🎯 Usage Guide
 
 ### Starting a Conversation
-1. Click the microphone button to start recording
-2. Speak your agricultural question in any supported language
-3. The system will:
-   - Transcribe your speech
-   - Detect the language
-   - Retrieve relevant knowledge from the RAG store
-   - Generate an AI response using Gemma
-   - Save the conversation to the database
+1. **Click the microphone button** to start recording
+2. **Speak clearly** in any supported language
+3. **Wait for transcription** to appear
+4. **Review the AI response** based on agricultural knowledge
+5. **Continue the conversation** as needed
 
 ### Supported Languages
 - Hindi (हिंदी)
@@ -127,23 +242,17 @@ npm start
 - Odia (ଓଡ଼ିଆ)
 - Assamese (অসমীয়া)
 
-### API Endpoints
-
-#### REST API
-- `GET /` - Health check
-- `POST /start_session` - Create new conversation session
-- `GET /sessions` - List all sessions
-- `GET /sessions/{session_id}/history` - Get session history
-- `DELETE /sessions/{session_id}` - Delete session
-- `GET /stats` - Get database statistics
-
-#### WebSocket
-- `WS /conversation/{session_id}` - Real-time conversation
+### Features Available
+- **Real-time Transcription**: See your speech converted to text
+- **Language Detection**: Automatic detection of spoken language
+- **Agricultural Knowledge**: AI responses based on agricultural expertise
+- **Session Management**: Save and resume conversations
+- **Voice Feedback**: Text-to-speech responses (optional)
 
 ## 🔧 Configuration
 
 ### Environment Variables
-Create a `.env` file in the backend directory:
+Create a `.env` file in the project root:
 
 ```env
 # Server Configuration
@@ -153,7 +262,7 @@ LOG_LEVEL=INFO
 
 # Model Configuration
 ASR_MODEL=ai4bharat/indic-conformer-600m-multilingual
-LLM_MODEL=google/gemma-2-2b-it
+LLM_MODEL=google/gemma-2-9b-it
 EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
 
 # RAG Configuration
@@ -163,7 +272,7 @@ RAG_INDEX_PATH=./rag_index
 
 ### Model Configuration
 - **STT Model**: `ai4bharat/indic-conformer-600m-multilingual`
-- **LLM Model**: `google/gemma-2-2b-it` (with fallback to DialoGPT)
+- **LLM Model**: `google/gemma-2-9b-it`
 - **Embedding Model**: `sentence-transformers/all-MiniLM-L6-v2`
 
 ## 📊 Knowledge Base
@@ -175,6 +284,8 @@ The system includes a pre-loaded agricultural knowledge base covering:
 - Irrigation best practices
 - Fertilization guidelines
 - Crop rotation advice
+- Weather impact on agriculture
+- Market information and pricing
 
 ## 🔄 Conversation Flow
 
@@ -188,27 +299,19 @@ graph TD
     E --> F[Response Formatting]
     F --> G[Database Storage]
     F --> H[WebSocket Response]
-```
-
-## 🚀 Deployment
-
-### Production Deployment
-1. **Backend**: Use Gunicorn or similar WSGI server
-2. **Frontend**: Build and serve static files
-3. **Database**: Use PostgreSQL for production
-4. **Models**: Consider using model serving infrastructure
-
-### Docker Deployment
-```bash
-# Build and run with Docker Compose
-docker-compose up --build
+    F --> I[TTS Generation]
+    I --> J[Audio Output]
 ```
 
 ## 🧪 Testing
 
 ### Backend Testing
 ```bash
-cd backend
+# Activate virtual environment
+# Windows: .venv\Scripts\activate
+# macOS: source .venv/bin/activate
+
+# Run tests
 python -m pytest tests/
 ```
 
@@ -218,24 +321,133 @@ cd frontend
 npm test
 ```
 
-## 📈 Performance
+## 🚀 Deployment
+
+### Production Deployment
+
+#### Backend
+```bash
+# Install production dependencies
+pip install gunicorn
+
+# Run with Gunicorn
+gunicorn backend.app:app -w 4 -k uvicorn.workers.UvicornWorker
+```
+
+#### Frontend
+```bash
+cd frontend
+npm run build
+# Serve the build directory with a web server
+```
+
+### Docker Deployment
+```bash
+# Build and run with Docker Compose
+docker-compose up --build
+```
+
+## 🐛 Troubleshooting
+
+### Common Issues
+
+#### 1. Virtual Environment Not Found
+```bash
+# Create virtual environment
+python -m venv .venv
+
+# Activate it
+# Windows: .venv\Scripts\activate
+# macOS: source .venv/bin/activate
+```
+
+#### 2. FFmpeg Not Found
+```bash
+# Windows
+choco install ffmpeg
+# or download from https://ffmpeg.org/
+
+# macOS
+brew install ffmpeg
+```
+
+#### 3. Port Already in Use
+```bash
+# Kill process using port 8000
+# Windows
+netstat -ano | findstr :8000
+taskkill /PID <PID> /F
+
+# macOS
+lsof -ti:8000 | xargs kill -9
+```
+
+#### 4. Module Import Errors
+```bash
+# Ensure you're in the project root
+cd Kisan_AI
+
+# Activate virtual environment
+# Windows: .venv\Scripts\activate
+# macOS: source .venv/bin/activate
+
+# Reinstall dependencies
+pip install -r requirements.txt
+```
+
+#### 5. Node.js Dependencies Issues
+```bash
+cd frontend
+rm -rf node_modules package-lock.json
+npm install
+```
+
+### Performance Optimization
+
+#### For Better Performance
+1. **Increase RAM**: Use 16GB+ for optimal model loading
+2. **SSD Storage**: Use SSD for faster model loading
+3. **GPU Support**: Install CUDA for GPU acceleration (optional)
+4. **Close Other Applications**: Free up system resources
+
+#### For Lower Resource Usage
+1. **Use Smaller Models**: Modify model configuration
+2. **Reduce Batch Size**: Adjust processing parameters
+3. **Disable TTS**: Turn off text-to-speech if not needed
+
+## 📈 Performance Metrics
 
 - **Audio Processing**: 200ms chunks for real-time streaming
 - **Transcription**: ~1-2 seconds per 5-second audio clip
 - **LLM Response**: ~2-5 seconds depending on model size
 - **Database**: SQLite for development, PostgreSQL for production
+- **Memory Usage**: ~4-8GB RAM for full functionality
 
 ## 🤝 Contributing
 
 1. Fork the repository
-2. Create a feature branch
+2. Create a feature branch: `git checkout -b feature-name`
 3. Make your changes
-4. Add tests
-5. Submit a pull request
+4. Add tests for new functionality
+5. Commit your changes: `git commit -m "Add feature"`
+6. Push to the branch: `git push origin feature-name`
+7. Submit a pull request
+
+### Development Setup
+```bash
+# Install development dependencies
+pip install -r requirements-dev.txt
+
+# Run pre-commit hooks
+pre-commit install
+
+# Run tests
+python -m pytest tests/ -v
+```
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -244,14 +456,26 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [LangChain](https://langchain.com/) for LLM orchestration
 - [FastAPI](https://fastapi.tiangolo.com/) for the backend framework
 - [React](https://reactjs.org/) for the frontend framework
+- [Hugging Face](https://huggingface.co/) for model hosting
 
 ## 📞 Support
 
 For support and questions:
-- Create an issue on GitHub
-- Contact the development team
-- Check the documentation
+- 📧 Create an issue on [GitHub](https://github.com/prasannaarjun/Kisan_AI/issues)
+- 📖 Check the [documentation](https://github.com/prasannaarjun/Kisan_AI/wiki)
+- 💬 Join our community discussions
+- 📧 Contact the development team
+
+## 🔗 Useful Links
+
+- [API Documentation](http://localhost:8000/docs) (when running)
+- [Frontend Application](http://localhost:3000) (when running)
+- [Model Documentation](https://huggingface.co/ai4bharat/indic-conformer-600m-multilingual)
+- [FastAPI Documentation](https://fastapi.tiangolo.com/)
+- [React Documentation](https://reactjs.org/docs/)
 
 ---
 
 **Built with ❤️ for the agricultural community**
+
+*Empowering farmers with AI-driven agricultural assistance in their native languages.*
