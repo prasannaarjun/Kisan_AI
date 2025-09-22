@@ -8,6 +8,7 @@ import sys
 import subprocess
 import time
 import signal
+import platform
 from pathlib import Path
 
 class KisanAILauncher:
@@ -15,6 +16,49 @@ class KisanAILauncher:
         self.backend_process = None
         self.frontend_process = None
         self.running = False
+        self.venv_activated = False
+        
+    def activate_virtual_environment(self):
+        """Activate virtual environment if it exists"""
+        venv_path = Path('.venv')
+        if venv_path.exists():
+            if platform.system() == "Windows":
+                activate_script = venv_path / "Scripts" / "activate.bat"
+                if activate_script.exists():
+                    print("✓ Virtual environment found, activating...")
+                    # Set environment variables for Windows
+                    os.environ['VIRTUAL_ENV'] = str(venv_path.absolute())
+                    python_exe = venv_path / "Scripts" / "python.exe"
+                    if python_exe.exists():
+                        sys.executable = str(python_exe)
+                        print(f"✓ Using Python from virtual environment: {python_exe}")
+                        # Add Scripts directory to PATH for npm and other tools
+                        scripts_path = str(venv_path / "Scripts")
+                        current_path = os.environ.get('PATH', '')
+                        if scripts_path not in current_path:
+                            os.environ['PATH'] = scripts_path + os.pathsep + current_path
+                        self.venv_activated = True
+                        return True
+            else:
+                activate_script = venv_path / "bin" / "activate"
+                if activate_script.exists():
+                    print("✓ Virtual environment found, activating...")
+                    # Set environment variables for Unix-like systems
+                    os.environ['VIRTUAL_ENV'] = str(venv_path.absolute())
+                    python_exe = venv_path / "bin" / "python"
+                    if python_exe.exists():
+                        sys.executable = str(python_exe)
+                        print(f"✓ Using Python from virtual environment: {python_exe}")
+                        # Add bin directory to PATH for npm and other tools
+                        bin_path = str(venv_path / "bin")
+                        current_path = os.environ.get('PATH', '')
+                        if bin_path not in current_path:
+                            os.environ['PATH'] = bin_path + os.pathsep + current_path
+                        self.venv_activated = True
+                        return True
+        else:
+            print("⚠️  No virtual environment found, using system Python")
+        return False
         
     def check_dependencies(self):
         """Check if all dependencies are available"""
@@ -104,9 +148,17 @@ class KisanAILauncher:
         """Start the backend server"""
         print("\n🚀 Starting backend server...")
         try:
+            # Add current directory to Python path for module imports
+            current_dir = os.getcwd()
+            sys.path.insert(0, current_dir)
+            
+            # Use module approach with proper environment
+            env = os.environ.copy()
+            env['PYTHONPATH'] = current_dir
+            
             self.backend_process = subprocess.Popen([
                 sys.executable, '-m', 'backend.app'
-            ])
+            ], env=env)
             
             # Wait a moment for server to start
             time.sleep(3)
@@ -125,9 +177,15 @@ class KisanAILauncher:
         """Start the frontend development server"""
         print("\n🚀 Starting frontend server...")
         try:
-            self.frontend_process = subprocess.Popen([
-                'npm', 'start'
-            ], cwd='frontend')
+            # Use shell=True on Windows to properly handle npm commands
+            if platform.system() == "Windows":
+                self.frontend_process = subprocess.Popen([
+                    'npm', 'start'
+                ], cwd='frontend', shell=True)
+            else:
+                self.frontend_process = subprocess.Popen([
+                    'npm', 'start'
+                ], cwd='frontend')
             
             # Wait a moment for server to start
             time.sleep(5)
@@ -180,6 +238,9 @@ class KisanAILauncher:
         # Set up signal handlers
         signal.signal(signal.SIGINT, self.signal_handler)
         signal.signal(signal.SIGTERM, self.signal_handler)
+        
+        # Activate virtual environment
+        self.activate_virtual_environment()
         
         # Skip dependency checks and installation
         print("⚠️  Skipping dependency checks and installation...")
