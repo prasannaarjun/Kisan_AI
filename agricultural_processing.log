@@ -1,0 +1,310 @@
+2025-09-22 04:41:19,115 - __main__ - INFO - Initializing text processor...
+2025-09-22 04:41:19,115 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-09-22 04:41:19,115 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-09-22 04:41:25,541 - huggingface_hub.file_download - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-09-22 04:45:41,419 - __main__ - INFO - Initializing text processor...
+2025-09-22 04:45:41,427 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-09-22 04:45:41,427 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-22 04:45:45,152 - __main__ - INFO - Processing text files in data/extracted_text/content/extracted_text...
+2025-09-22 04:45:45,154 - text_processor - INFO - Found 11 text files in data/extracted_text/content/extracted_text
+2025-09-22 04:45:45,161 - text_processor - INFO - Processed 1.1Agriculture (1).txt: 0 chunks created
+2025-09-22 04:45:45,170 - text_processor - INFO - Processed 1.1Agriculture.txt: 0 chunks created
+2025-09-22 04:45:45,173 - text_processor - ERROR - Error processing data\extracted_text\content\extracted_text\AGRICULTURAL-EXTENSION-IN-KERALA-.txt: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Prasanna Arjun/nltk_data'
+    - 'E:\\Kisan_AI\\.venv\\nltk_data'
+    - 'E:\\Kisan_AI\\.venv\\share\\nltk_data'
+    - 'E:\\Kisan_AI\\.venv\\lib\\nltk_data'
+    - 'C:\\Users\\Prasanna Arjun\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-09-22 04:45:45,177 - text_processor - ERROR - Error processing data\extracted_text\content\extracted_text\CDS_Report_on_Agrobiodiversity_in_Kerala.txt: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Prasanna Arjun/nltk_data'
+    - 'E:\\Kisan_AI\\.venv\\nltk_data'
+    - 'E:\\Kisan_AI\\.venv\\share\\nltk_data'
+    - 'E:\\Kisan_AI\\.venv\\lib\\nltk_data'
+    - 'C:\\Users\\Prasanna Arjun\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-09-22 04:45:45,191 - text_processor - ERROR - Error processing data\extracted_text\content\extracted_text\GAP-WI-2023-24.txt: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Prasanna Arjun/nltk_data'
+    - 'E:\\Kisan_AI\\.venv\\nltk_data'
+    - 'E:\\Kisan_AI\\.venv\\share\\nltk_data'
+    - 'E:\\Kisan_AI\\.venv\\lib\\nltk_data'
+    - 'C:\\Users\\Prasanna Arjun\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-09-22 04:45:45,196 - text_processor - INFO - Processed How can Kerala double its vegetable production in the next five years.txt: 0 chunks created
+2025-09-22 04:45:45,201 - text_processor - ERROR - Error processing data\extracted_text\content\extracted_text\IJCRT2103012.txt: missing ), unterminated subpattern at position 23
+2025-09-22 04:45:45,230 - text_processor - INFO - Processed Manual-Published-min.txt: 0 chunks created
+2025-09-22 04:45:45,236 - text_processor - ERROR - Error processing data\extracted_text\content\extracted_text\organicfarmingpolicyenglish.txt: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Prasanna Arjun/nltk_data'
+    - 'E:\\Kisan_AI\\.venv\\nltk_data'
+    - 'E:\\Kisan_AI\\.venv\\share\\nltk_data'
+    - 'E:\\Kisan_AI\\.venv\\lib\\nltk_data'
+    - 'C:\\Users\\Prasanna Arjun\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-09-22 04:45:45,240 - text_processor - INFO - Processed PCRT_Kerala.txt: 0 chunks created
+2025-09-22 04:45:45,263 - text_processor - INFO - Processed pop2016-8.txt: 0 chunks created
+2025-09-22 04:45:45,264 - text_processor - INFO - Total chunks created: 0
+2025-09-22 04:45:45,265 - __main__ - ERROR - No chunks were processed
+2025-09-22 04:47:40,874 - __main__ - INFO - Initializing text processor...
+2025-09-22 04:47:40,874 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-09-22 04:47:40,874 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-22 04:47:44,573 - __main__ - INFO - Processing text files in data/extracted_text/content/extracted_text...
+2025-09-22 04:47:44,573 - text_processor - INFO - Found 11 text files in data/extracted_text/content/extracted_text
+2025-09-22 04:47:44,573 - text_processor - INFO - Processed 1.1Agriculture (1).txt: 0 chunks created
+2025-09-22 04:47:44,588 - text_processor - INFO - Processed 1.1Agriculture.txt: 0 chunks created
+2025-09-22 04:47:44,698 - text_processor - INFO - Processed AGRICULTURAL-EXTENSION-IN-KERALA-.txt: 7 chunks created
+2025-09-22 04:47:45,050 - text_processor - INFO - Processed CDS_Report_on_Agrobiodiversity_in_Kerala.txt: 66 chunks created
+2025-09-22 04:47:45,135 - text_processor - INFO - Processed GAP-WI-2023-24.txt: 18 chunks created
+2025-09-22 04:47:45,135 - text_processor - INFO - Processed How can Kerala double its vegetable production in the next five years.txt: 0 chunks created
+2025-09-22 04:47:45,152 - text_processor - WARNING - Regex error in research section extraction for conclusion: missing ), unterminated subpattern at position 23
+2025-09-22 04:47:45,152 - text_processor - INFO - Processed IJCRT2103012.txt: 0 chunks created
+2025-09-22 04:47:45,175 - text_processor - INFO - Processed Manual-Published-min.txt: 0 chunks created
+2025-09-22 04:47:45,218 - text_processor - INFO - Processed organicfarmingpolicyenglish.txt: 28 chunks created
+2025-09-22 04:47:45,221 - text_processor - INFO - Processed PCRT_Kerala.txt: 0 chunks created
+2025-09-22 04:47:45,242 - text_processor - INFO - Processed pop2016-8.txt: 0 chunks created
+2025-09-22 04:47:45,242 - text_processor - INFO - Total chunks created: 119
+2025-09-22 04:47:45,242 - __main__ - INFO - Creating embeddings...
+2025-09-22 04:47:47,773 - __main__ - INFO - Saving processed chunks to processed_agricultural_chunks.json...
+2025-09-22 04:47:47,849 - __main__ - INFO - Saved 119 processed chunks to processed_agricultural_chunks.json
+2025-09-22 04:47:47,849 - __main__ - INFO - Initializing enhanced RAG store...
+2025-09-22 04:47:47,849 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-09-22 04:47:47,849 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-22 04:47:52,181 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-09-22 04:47:52,181 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-22 04:47:56,699 - __main__ - INFO - Loading chunks into RAG store...
+2025-09-22 04:47:56,753 - enhanced_rag_store - INFO - FAISS index initialized
+2025-09-22 04:47:56,753 - enhanced_rag_store - INFO - Loaded 119 processed chunks from processed_agricultural_chunks.json
+2025-09-22 04:47:56,753 - __main__ - INFO - Saving RAG store index to agricultural_rag_index...
+2025-09-22 04:47:56,767 - enhanced_rag_store - INFO - Saved enhanced RAG store to agricultural_rag_index
+2025-09-22 04:47:56,769 - __main__ - INFO - Processing completed successfully!
+2025-09-22 04:47:56,769 - __main__ - INFO - Total documents: 119
+2025-09-22 04:47:56,769 - __main__ - INFO - Document types: {'extension': 7, 'report': 66, 'technical': 18, 'policy': 28}
+2025-09-22 04:47:56,769 - __main__ - INFO - Crop types: {'rice': 24, 'tea': 22, 'wheat': 2, 'coconut': 12, 'rubber': 5, 'cashew': 5, 'pepper': 11, 'cardamom': 5, 'coffee': 4, 'maize': 1, 'arecanut': 1}
+2025-09-22 04:47:56,770 - __main__ - INFO - Practice types: {'organic farming': 38, 'irrigation': 4, 'crop rotation': 3, 'fertilization': 1, 'pest control': 1}
+2025-09-22 04:47:56,770 - __main__ - INFO - Source files: 4
+2025-09-22 04:47:56,770 - __main__ - INFO - 
+Testing search functionality...
+2025-09-22 04:47:56,770 - __main__ - INFO - 
+Searching for: 'organic farming practices'
+2025-09-22 04:47:56,801 - __main__ - INFO -   1. Score: 0.661
+2025-09-22 04:47:56,802 - __main__ - INFO -      Text: Strategy 2 
+Implementation of organic farming policy in a phased manner 
+Action 
+2.1  Conduct an ini...
+2025-09-22 04:47:56,802 - __main__ - INFO -      Type: policy
+2025-09-22 04:47:56,802 - __main__ - INFO -   2. Score: 0.658
+2025-09-22 04:47:56,802 - __main__ - INFO -      Text: Strategy 11  
+Develop Model Sustainable Organic Farms in the State 
+Action 
+11.1  Every Local Self G...
+2025-09-22 04:47:56,802 - __main__ - INFO -      Type: policy
+2025-09-22 04:47:56,802 - __main__ - INFO - 
+Searching for: 'crop diseases and treatment'
+2025-09-22 04:47:56,821 - __main__ - INFO -   1. Score: 0.477
+2025-09-22 04:47:56,821 - __main__ - INFO -      Text: : 56 of 2013 Crop Name: Rice Botanical Name: Oryza sativa L. Date of Grant: 
+26.03.2013 Applicant De...
+2025-09-22 04:47:56,821 - __main__ - INFO -      Type: report
+2025-09-22 04:47:56,821 - __main__ - INFO -   2. Score: 0.453
+2025-09-22 04:47:56,821 - __main__ - INFO -      Text: This may indirectly 
+benefit the sustenance of 
+agrobiodiversity 
+ 
+ 
+ 
+Target 7 
+Policy 126: Kerala...
+2025-09-22 04:47:56,821 - __main__ - INFO -      Type: report
+2025-09-22 04:47:56,821 - __main__ - INFO - 
+Searching for: 'soil management techniques'
+2025-09-22 04:47:56,840 - __main__ - INFO -   1. Score: 0.488
+2025-09-22 04:47:56,841 - __main__ - INFO -      Text: It must be noted that they can interrupt pest life cycles, suppress
+weeds, provide and recycle ferti...
+2025-09-22 04:47:56,841 - __main__ - INFO -      Type: technical
+2025-09-22 04:47:56,842 - __main__ - INFO -   2. Score: 0.454
+2025-09-22 04:47:56,842 - __main__ - INFO -      Text: Strategy 8 
+Ensure availability of quality organic manure to the farmers 
+Action 
+8.1  Encourage, wi...
+2025-09-22 04:47:56,842 - __main__ - INFO -      Type: policy
+2025-09-22 04:47:56,842 - __main__ - INFO - 
+Searching for: 'irrigation methods'
+2025-09-22 04:47:56,858 - __main__ - INFO -   1. Score: 0.490
+2025-09-22 04:47:56,858 - __main__ - INFO -      Text: Strategy 4  
+Strengthen soil and ensure water conservation measures  
+Action 
+4.1 Declare the existi...
+2025-09-22 04:47:56,858 - __main__ - INFO -      Type: policy
+2025-09-22 04:47:56,858 - __main__ - INFO -   2. Score: 0.461
+2025-09-22 04:47:56,858 - __main__ - INFO -      Text: As per the PBR data, nearly 140 varieties of agricultural crops have been cultivated including 
+food...
+2025-09-22 04:47:56,858 - __main__ - INFO -      Type: report
+2025-09-22 04:47:56,858 - __main__ - INFO - 
+Searching for: 'pest control strategies'
+2025-09-22 04:47:56,877 - __main__ - INFO -   1. Score: 0.513
+2025-09-22 04:47:56,877 - __main__ - INFO -      Text: Strategy 22 
+Phase out Chemical Pesticides and Fertilizers from the farming sector  
+Action 
+22.1  E...
+2025-09-22 04:47:56,878 - __main__ - INFO -      Type: policy
+2025-09-22 04:47:56,878 - __main__ - INFO -   2. Score: 0.413
+2025-09-22 04:47:56,878 - __main__ - INFO -      Text: Strategy 5 
+ 
+Promote a mixed farming approach for livelihood  
+10
+ 
+security and ecological sustain...
+2025-09-22 04:47:56,878 - __main__ - INFO -      Type: policy
+2025-09-22 05:52:05,234 - __main__ - INFO - Initializing text processor...
+2025-09-22 05:52:05,234 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-22 05:52:06,199 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-09-22 05:52:06,199 - __main__ - INFO - Processing text files in data/extracted_text/content/extracted_text...
+2025-09-22 05:52:06,199 - text_processor - INFO - Found 11 text files in data/extracted_text/content/extracted_text
+2025-09-22 05:52:06,199 - text_processor - INFO - Processed 1.1Agriculture (1).txt: 0 chunks created using multiple strategies
+2025-09-22 05:52:06,213 - text_processor - INFO - Processed 1.1Agriculture.txt: 0 chunks created using multiple strategies
+2025-09-22 05:52:06,357 - text_processor - INFO - Processed AGRICULTURAL-EXTENSION-IN-KERALA-.txt: 125 chunks created using multiple strategies
+2025-09-22 05:52:08,024 - text_processor - INFO - Processed CDS_Report_on_Agrobiodiversity_in_Kerala.txt: 339 chunks created using multiple strategies
+2025-09-22 05:52:08,441 - text_processor - INFO - Processed GAP-WI-2023-24.txt: 350 chunks created using multiple strategies
+2025-09-22 05:52:08,449 - text_processor - INFO - Processed How can Kerala double its vegetable production in the next five years.txt: 0 chunks created using multiple strategies
+2025-09-22 05:52:08,455 - text_processor - WARNING - Regex error in research section extraction for conclusion: missing ), unterminated subpattern at position 23
+2025-09-22 05:52:08,455 - text_processor - INFO - Processed IJCRT2103012.txt: 0 chunks created using multiple strategies
+2025-09-22 05:52:08,477 - text_processor - INFO - Processed Manual-Published-min.txt: 0 chunks created using multiple strategies
+2025-09-22 05:52:08,611 - text_processor - INFO - Processed organicfarmingpolicyenglish.txt: 212 chunks created using multiple strategies
+2025-09-22 05:52:08,615 - text_processor - INFO - Processed PCRT_Kerala.txt: 0 chunks created using multiple strategies
+2025-09-22 05:52:08,642 - text_processor - INFO - Processed pop2016-8.txt: 0 chunks created using multiple strategies
+2025-09-22 05:52:08,643 - text_processor - INFO - Total chunks created before deduplication: 1026
+2025-09-22 05:52:30,060 - text_processor - INFO - Deduplication: 1026 -> 761 chunks
+2025-09-22 05:52:30,060 - text_processor - INFO - Total unique chunks after deduplication: 761
+2025-09-22 05:52:30,060 - __main__ - INFO - Creating embeddings...
+2025-09-22 05:52:40,880 - __main__ - INFO - Saving processed chunks to processed_agricultural_chunks.json...
+2025-09-22 05:52:41,333 - __main__ - INFO - Saved 761 processed chunks to processed_agricultural_chunks.json
+2025-09-22 05:52:41,333 - __main__ - INFO - Initializing enhanced RAG store...
+2025-09-22 05:52:41,333 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-22 05:52:41,534 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-09-22 05:52:41,534 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-09-22 05:52:41,713 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-09-22 05:52:41,713 - __main__ - INFO - Loading chunks into RAG store...
+2025-09-22 05:52:41,951 - enhanced_rag_store - INFO - FAISS index initialized
+2025-09-22 05:52:41,953 - enhanced_rag_store - INFO - Loaded 761 processed chunks from processed_agricultural_chunks.json
+2025-09-22 05:52:41,957 - __main__ - INFO - Saving RAG store index to agricultural_rag_index...
+2025-09-22 05:52:41,997 - enhanced_rag_store - INFO - Saved enhanced RAG store to agricultural_rag_index
+2025-09-22 05:52:41,998 - __main__ - INFO - Processing completed successfully!
+2025-09-22 05:52:41,998 - __main__ - INFO - Total documents: 761
+2025-09-22 05:52:41,998 - __main__ - INFO - Document types: {'extension': 101, 'report': 226, 'technical': 303, 'policy': 131}
+2025-09-22 05:52:41,998 - __main__ - INFO - Crop types: {'rice': 48, 'tea': 39, 'wheat': 4, 'coconut': 22, 'rubber': 13, 'cashew': 10, 'pepper': 16, 'cardamom': 10, 'coffee': 10, 'maize': 2, 'arecanut': 3}
+2025-09-22 05:52:41,998 - __main__ - INFO - Practice types: {'organic farming': 94, 'irrigation': 9, 'crop rotation': 9, 'fertilization': 2, 'pest control': 2}
+2025-09-22 05:52:41,999 - __main__ - INFO - Source files: 4
+2025-09-22 05:52:41,999 - __main__ - INFO - 
+Testing search functionality...
+2025-09-22 05:52:42,000 - __main__ - INFO - 
+Searching for: 'organic farming practices'
+2025-09-22 05:52:42,021 - __main__ - INFO -   1. Score: 0.784
+2025-09-22 05:52:42,021 - __main__ - INFO -      Text: Organic farming is a holistic system that relies on sound practices
+focused on preventative strategi...
+2025-09-22 05:52:42,021 - __main__ - INFO -      Type: technical
+2025-09-22 05:52:42,021 - __main__ - INFO -   2. Score: 0.747
+2025-09-22 05:52:42,023 - __main__ - INFO -      Text: 10.4  Create awareness on organic farming practices among the agriculture officers in the 
+Agricultu...
+2025-09-22 05:52:42,023 - __main__ - INFO -      Type: policy
+2025-09-22 05:52:42,023 - __main__ - INFO - 
+Searching for: 'crop diseases and treatment'
+2025-09-22 05:52:42,051 - __main__ - INFO -   1. Score: 0.569
+2025-09-22 05:52:42,051 - __main__ - INFO -      Text: It is important to know the crop’s most common pests (includes disease
+and weeds also), their life c...
+2025-09-22 05:52:42,051 - __main__ - INFO -      Type: technical
+2025-09-22 05:52:42,051 - __main__ - INFO -   2. Score: 0.523
+2025-09-22 05:52:42,051 - __main__ - INFO -      Text: The other schemes of the Department such as ‘Soil & Root
+Health Management and Crop Health Managemen...
+2025-09-22 05:52:42,051 - __main__ - INFO -      Type: technical
+2025-09-22 05:52:42,051 - __main__ - INFO - 
+Searching for: 'soil management techniques'
+2025-09-22 05:52:42,079 - __main__ - INFO -   1. Score: 0.581
+2025-09-22 05:52:42,080 - __main__ - INFO -      Text: The other schemes of the Department such as ‘Soil & Root
+Health Management and Crop Health Managemen...
+2025-09-22 05:52:42,080 - __main__ - INFO -      Type: technical
+2025-09-22 05:52:42,080 - __main__ - INFO -   2. Score: 0.575
+2025-09-22 05:52:42,080 - __main__ - INFO -      Text: Since soil is the heart of the organic farming system, it is crucial that new
+entrants understand th...
+2025-09-22 05:52:42,081 - __main__ - INFO -      Type: technical
+2025-09-22 05:52:42,081 - __main__ - INFO - 
+Searching for: 'irrigation methods'
+2025-09-22 05:52:42,107 - __main__ - INFO -   1. Score: 0.654
+2025-09-22 05:52:42,107 - __main__ - INFO -      Text: v. Water (Irrigation/Fertigation) - The water available for irrigation/fertigation shall
+be free fro...
+2025-09-22 05:52:42,108 - __main__ - INFO -      Type: technical
+2025-09-22 05:52:42,108 - __main__ - INFO -   2. Score: 0.527
+2025-09-22 05:52:42,109 - __main__ - INFO -      Text: v. Water (Irrigation/Fertigation) - The water available for irrigation/fertigation shall
+be free fro...
+2025-09-22 05:52:42,109 - __main__ - INFO -      Type: technical
+2025-09-22 05:52:42,109 - __main__ - INFO - 
+Searching for: 'pest control strategies'
+2025-09-22 05:52:42,136 - __main__ - INFO -   1. Score: 0.667
+2025-09-22 05:52:42,136 - __main__ - INFO -      Text: There are several
+measures available to reduce pest pressure: crop rotation, variety selection, sani...
+2025-09-22 05:52:42,137 - __main__ - INFO -      Type: technical
+2025-09-22 05:52:42,137 - __main__ - INFO -   2. Score: 0.584
+2025-09-22 05:52:42,137 - __main__ - INFO -      Text: It must be noted that they can interrupt pest life cycles, suppress
+weeds, provide and recycle ferti...
+2025-09-22 05:52:42,137 - __main__ - INFO -      Type: technical

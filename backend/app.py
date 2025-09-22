@@ -14,8 +14,8 @@ from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 import uvicorn
 
-from graph_definition import ConversationGraph
-from persistence import ChatPersistence
+from .graph_definition import ConversationGraph
+from .persistence import ChatPersistence
 
 # Configure logging
 logging.basicConfig(
@@ -206,10 +206,20 @@ async def conversation_websocket(websocket: WebSocket, session_id: str):
                 language="auto"
             )
             
-            # Send response back to client
+            # Send response back to client (without audio_response to avoid JSON serialization issues)
+            response_data = result.copy()
+            if "audio_response" in response_data:
+                # Encode audio as base64 for JSON serialization
+                import base64
+                audio_base64 = base64.b64encode(response_data["audio_response"]).decode('utf-8')
+                response_data["audio_response"] = audio_base64
+            
+            # Debug logging
+            logger.info(f"Sending conversation response: user_text='{result.get('user_text', '')[:50]}...', ai_text='{result.get('ai_text', '')[:50]}...', audio_length={len(result.get('audio_response', b''))}")
+            
             await manager.send_message(session_id, {
                 "type": "conversation_response",
-                "data": result
+                "data": response_data
             })
             
             # Send partial transcription if available
@@ -225,11 +235,33 @@ async def conversation_websocket(websocket: WebSocket, session_id: str):
             
             # Send AI response
             if result.get("ai_text"):
+                logger.info(f"Sending AI response: '{result['ai_text'][:100]}...'")
                 await manager.send_message(session_id, {
                     "type": "ai_response",
                     "data": {
                         "text": result["ai_text"],
                         "language": result["language"]
+                    }
+                })
+            
+            # Send audio response
+            if result.get("audio_response"):
+                # Encode audio data as base64 for JSON serialization
+                import base64
+                audio_base64 = base64.b64encode(result["audio_response"]).decode('utf-8')
+                
+                # Get the actual sample rate from the TTS result
+                # The TTS engine now returns the correct sample rate
+                sample_rate = result.get('audio_sample_rate', 22050)  # Default fallback
+                
+                logger.info(f"Sending audio response: {len(result['audio_response'])} bytes, sample rate: {sample_rate}Hz")
+                
+                await manager.send_message(session_id, {
+                    "type": "audio_response",
+                    "data": {
+                        "audio_data": audio_base64,
+                        "language": result["language"],
+                        "sample_rate": sample_rate
                     }
                 })
             

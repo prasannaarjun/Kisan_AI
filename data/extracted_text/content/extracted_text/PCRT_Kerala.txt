@@ -1,0 +1,3114 @@
+i
+National Innovations in Climate Resilient Agriculture
+ICAR-Central Research Institute for Dryland Agriculture, Hyderabad
+ICAR-Agricultural Technology Application Research Institute, Bengaluru
+Natural Resource Management & Agricultural Extension Divisions
+Indian Council of Agricultural Research (ICAR), New Delhi
+Promising Climate Resilient Technologies 
+for 
+KERALA
+VK Singh, G Pratibha, JVNS Prasad, G Venkatesh, PK Pankaj, DVS Reddy, 
+V Venkatasubramanian, M Prabhakar, Rajbir Singh, US Gautam and SK Chaudhari 
+ii
+Citation:Singh, V.K., Pratibha, G., Prasad, J.V.N.S., Venkatesh, G., Pankaj, P. K., Reddy 
+D. V. S., V Venkatasubramanian, Prabhakar, M., Rajbir Singh, Gautam U.S. and Chaudhari, 
+S.K. (Editors) 2023. Promising Climate Resilient Technologies for Kerala. ICAR-Central 
+Research Institute for Dryland Agriculture, Hyderabad. p.94
+Copies : 150
+Febraury, 2024
+© Copyright 2024 ICAR – Central Research Institute for Dryland Agriculture, Hyderabad, 
+All rights reserved
+Facilitated by 
+Agricultural Technology Application Research Institute (ATARI) – Bengaluru
+KVKs – ATARI Bengaluru
+Editorial assistance (Research Associates/Fellow)
+ICAR-CRIDA: Rajashree, N Gangadhar, PS Prabhamani, Raghava Sarma
+ATARI: Savitha M. S.
+Published by
+The Director
+ICAR-Central Research Institute for Dryland Agriculture (CRIDA)
+Santoshnagar, Hyderabad-500 059. Ph: 040-24530177 Fax: 040-24531802
+E-mail: director.crida@icar.gov.in
+http://www.icar-crida.res.in/; http://www.nicra-icar.in 
+Front Cover: Interventions of NICRA - TDC in the Kerala. 
+Back Cover: 151 districts involved in NICRA -TDC and their climatic vulnerabilities
+Printed at :
+PRINTOGRAPHY, 
+5-4-114 TO 116, Ranigunj, M G Road, Secunderabad – 500003, Telangana, INDIA
+Mobile: +91 98489 24254
+iii
+ 
+ 
+MkW- fgeka’kq ikBd 
+DR. HIMANSHU PATHAK 
+lfpo (Ms;j) ,oa egkfuns’kd (vkbZlh,vkj) 
+Secretary (DARE) &  
+Director General (ICAR) 
+Hkkjr ljdkj 
+d`f”k vuqla/kku vkSj f’k{kk foHkkx ,oa  
+Hkkjrh; d`f”k vuqla/kku ifj”kn  
+d`f”k ,oa fdlku dY;k.k ea=ky;] d`f”k Hkou] ubZ fnYyh&110 001 
+ 
+GOVERNMENT OF INDIA 
+DEPARTMENT OF AGRICULTURAL RESEARCH AND EDUCATION (DARE) 
+AND  
+INDIAN COUNCIL OF AGRICULTURAL RESEARCH (ICAR) 
+MINISTRY OF AGRICULTURE AND FARMERS WELFARE  
+ Krishi Bhavan, New Delhi 110 001 
+ 
+Tel: 23382629 / 23386711 Fax: 91-11-23384773 
+E-mail: dg.icar@nic.in 
+Foreword 
+ 
+Climate change has emerged as a formidable challenge, particularly for the agrarian 
+communities in the developing world, jeopardizing their livelihoods and food security. In 
+response to this pressing issue, the Indian Council of Agricultural Research (ICAR) has taken 
+a commendable stride by launching the National Innovations in Climate Resilient Agriculture 
+(NICRA) program. This comprehensive initiative seeks to address the diverse facets of climate 
+change and its impacts on agriculture, aiming to fortify the adaptive capacities of farmers across 
+the nation. A pivotal component of NICRA is the Technology Demonstration, an initiative 
+demonstrating location-specific, proven technologies developed by the National Agricultural 
+Research System (NARS). Implemented in 446 villages across 151 climatically vulnerable 
+districts, this participatory approach engages farmers directly, fostering resilience and adaptive 
+capabilities. The success of this endeavour is not only enhancing the livelihoods of farmers but 
+also showcasing a replicable model for adoption in other regions of the country. 
+The State of Kerala, confronting the challenges of flood, dry spells have been an active 
+participant in the NICRA program. In six districts, a focused effort has been made to identify 
+and demonstrate proven technologies that mitigate the impacts of dry spells and floods during 
+stress years and enhance agricultural production and profitability during normal years. 
+Mitigating the impact of climate change on agriculture in Kerala requires the implementation 
+of sustainable practices, crop diversification, and the integration of climate-resilient 
+technologies. A comprehensive strategy, combining government initiatives with community-
+led efforts, is essential to protect the state's agricultural sector and ensure food security for its 
+inhabitants. This book showcases various improved crop production, natural resource 
+management, livestock production technologies, and institutional interventions. The detailed 
+documentation of these demonstrated technologies is presented in this book. This publication 
+serves as a repository, documenting technologies that hold the potential for upscaling in similar 
+farming situations and resource endowments. A critical aspect of this initiative is the provision 
+of institutional support through the establishment of custom hiring centers, seed and fodder 
+production systems. These measures aim to facilitate the widespread adoption of proven 
+technologies in NICRA villages, ensuring the sustained resilience of farming communities. By 
+disseminating these innovations, we not only empower farmers but also contribute to the 
+overarching goal of climate-resilient agriculture. 
+I compliment the authors for their exceptional contribution in bringing out this book. 
+  
+ 
+(Himanshu Pathak) 
+8th January, 2024 
+New Delhi 
+v
+PREFACE
+In the face of escalating climate change challenges, the quest for viable solutions has never 
+been more urgent. “Promising Climate Resilient Technologies for Kerala” embarks on 
+a journey into the realm of innovative technologies, exploring a spectrum of tools and 
+strategies tailored to fortify Kerala against the impacts of a changing climate. Kerala, with 
+its diverse ecosystems and susceptibility to climate-related events, is at the forefront of the 
+battle for resilience. This book is an exploration into the promising technologies that can 
+be harnessed to safeguard communities, ecosystems, and economies against the escalating 
+threats posed by climate change.
+The aim is to offer a comprehensive resource for policymakers, scientists, technologists, and 
+concerned citizens. Each chapter within this volume is crafted to unravel the complexities 
+of climate change, elucidate the unique challenges faced by Kerala, and present cutting-
+edge technologies that hold the promise of building resilience and fostering sustainable 
+development. The narrative unfolds by setting the stage with an overview of the current 
+climate scenario, emphasizing the need for immediate action. From there, we delve into 
+a myriad of climate-resilient technologies, ranging from sustainable agriculture practices 
+and water management systems to renewable energy solutions and smart urban planning
+One of the guiding principles of this exploration is the understanding that no single solution 
+fits all. The book underscores the importance of an integrated approach, where technology, 
+community engagement, and policy frameworks converge to create a resilient and adaptable 
+Kerala. Moreover, the ethical considerations, socioeconomic implications, and the role of 
+community participation are examined to ensure a holistic understanding of the proposed 
+solutions. This book not only serves as a guide for stakeholders in Kerala but also inspires 
+a broader dialogue on climate change adaptation. Together, let us embark on a journey 
+towards a more resilient and sustainable future for Kerala and beyond.
+We would like to express our sincere gratitude for the continuous guidance and support 
+provided by Dr. Himanshu Pathak, Secretary (DARE) & Director General (ICAR), as well 
+as the members of the High-Level Monitoring Committee, Chairmen and members of Zonal 
+Monitoring Committees, and Directors of Extension at State Agricultural and Veterinary 
+Universities. Our appreciation extends to the officials of Development Departments and 
+KVKs of the state. We also want to acknowledge with gratitude the significant contributions 
+made by farmers, members of VCRMC, and other stakeholders involved in the project.
+-Authors
+vii
+CONTRIBUTORS
+KVK
+Name of the PI
+(Designation)
+Name of the Co-PI
+(Designation)
+Name of the SRF
+ATARI 
+Bengaluru
+Dr. D V Srinivasa Reddy
+-
+Savitha M S
+Alapphuza
+Dr. P Muralidharan
+(Senior Scientist and Head)
+Dr. S Ravi
+(Scientist)
+Muhammed Ijaz N
+Kannur
+Dr. Jayaraj P
+(Senior Scientist and Head)
+Dr. Parvathy A
+(Scientist)
+Anjali C
+Kottayam
+Dr. Jayalekshmi G   
+(Senior Scientist and Head)
+Bhindhu P S 
+(Scientist)
+Minnu john
+Kozhikode
+Dr. P Radha Krishnan  
+(Senior Scientist and Head)
+ Dr. P S Manoj
+(Scientist)
+Anjana K P
+Palakkad
+Dr. Sumiya K V
+(Senior Scientist and Head)
+Dr. Sreelakshmi K 
+(Scientist)
+Sreelakshmi
+Wayanad
+Dr. Safia N E
+(Senior Scientist and Head)
+Dr. Arularasan G S
+(Scientist)
+Alaka S Balan
+ix
+CONTENTS
+S.No.	                                                  Particulars	
+Page No.
+	
+Foreword	
+iii
+	
+Preface	
+v
+	
+Contributors	
+vii
+1	
+Introduction	.............................................................................................................03
+	
+1.1	
+Introduction..................................................................................................03
+	
+1.2	
+Overview of selected districts under NICRA-TDC ....................................07
+	
+1.2.1	
+Alappuzha  ..................................................................................................07
+	
+1.2.2	
+Kannur ........................................................................................................10
+	
+1.2.3	
+Kottayam  ....................................................................................................13
+	
+1.2.4	
+Kozhikode  ..................................................................................................16
+	
+1.2.5	
+Palakkad  .....................................................................................................19
+	
+1.2.6	
+Wayanad  .....................................................................................................22
+	
+	
+2	
+Promising Climate Resilient Technologies..............................................................25
+	
+2.1	
+Promising Natural Resource Management Technologies............................27
+	
+2.2	
+Promising Crop Production Technologies...................................................47
+	
+2.3	
+Promising Livestock and Fisheries Production Technologies.....................77
+3	
+Climate Resilient Technologies for risk prone districts of Kerala and 
+	
+approaches for upscaling..........................................................................................89
+4	
+Literature cited.........................................................................................................94
+x
+LIST OF ACRONYMS
+ATMA
+Agricultural Technology Management Agency
+BCR
+Benefit Cost Ratio
+CFLDs
+Cluster Frontline Demonstrations
+CGWB
+Central Ground Water Board
+CHC
+Custom Hiring Centers
+FPO
+Farmer Producer Organizations
+ICAR
+Indian Council of Agricultural Research
+IFS
+Integrated Farming System
+IWMP
+Integrated Watershed Management Programme
+KVK
+Krishi Vigyan Kendra
+MGNREGS
+Mahatma Gandhi National Rural Employment Guarantee Scheme
+MIDH
+Mission for Integrated Development of Horticulture
+NABARD
+National Bank for Agriculture and Rural Development
+NDDB
+National Dairy Development Board
+NFSM
+National Food Security Mission
+NGO
+Non-Government Organizations
+NHM
+National Horticulture Mission
+NICRA
+National Innovations in Climate Resilient Agriculture
+NMSA
+National Mission for Sustainable Agriculture
+NRM
+Natural Resource Management
+PMKSY
+Pradhan Mantri Krishi Sinchayee Yojana
+PKVY
+Paramparagat Krishi Vikas Yojana
+RKVY
+Rashtriya Krishi Vikas Yojana
+SAUs
+State Agricultural Universities
+SFAC
+Small Farmers’ Agri-Business Consortium
+TDC
+Technology Demonstration Component
+VCRMC
+Village Climate Risk Management Committee
+1.
+INTRODUCTION
+3
+1. Introduction
+Kerala is a tiny strip of land, located in the SouthWestern tip of India between North 
+latitudes 8° 18’and 12° 48’ and East longitudes 74° 52’ and 77° 22’, occupying only 1.2 
+% of India’s land area. Geographically, an elongated strip of land, cushioned between the 
+Western Ghats on the East and the sandy shores of the Arabian sea along West bordered by 
+Tamil Nadu to the East and Karnataka to the North. Its land area is 38,863 sq.km, stretching 
+580 km in length and varying in width from 30 to 120 km (GWR, Kerala, 2022)
+In  this geographical expanse, Kerala is characterized by three distinct physiographic 
+regions: the Eastern Highlands, represented by the mountainous landscapes of the Western 
+Ghats, the Central Midlands, featuring undulating hills and valleys intensively cultivated 
+for agriculture; and the Western Lowlands, which include estuaries, backwaters, and coastal 
+regions.
+Fig. 1. Location map of Kerala
+4
+Fig. 2. Land use pattern of Kerala
+The Western Ghats, forming the Eastern border of the state, is a unique mountainous terrain 
+housing the highest peaks at South of the Himalayas, showcasing its distinctive ecological 
+attributes and socio-economic profile. In the Lowland region, numerous pristine estuarine 
+systems and sub-sea-level Wetlands create a unique socioecological system.
+Agriculture, occupies the major share with a net cultivated area  of 20,26,064 ha in the 
+state, which accounts for approximately 52.13% of the State's total geographic area. Forests 
+constitute the second-largest land use class, covering 27.83% of the state’s land.
+Soil: The variation in topography, lithology, and climatic factors, including rainfall, 
+temperature, and alternate wet and dry conditions from the Western coast to the high ranges 
+in the East, as well as the presence of swift-flowing rivers, has led to the development of 
+diverse natural vegetation and soil types in Kerala. The soils in the region can be broadly 
+categorized into coastal alluvium, mixed alluvium, acid saline, kari, laterite, red, hill, black 
+cotton, and forest soils, (Dept. Soil Survey and Soil Conservation, Govt. of Kerala, 2023).
+Water: The state of Kerala has abundant water resources. Three tributaries of the Cauvery 
+river originate in Kerala and flow Eastward. These rivers and streams, descending from 
+the Western Ghats, either discharge into the backwaters along the coastal area or directly 
+into the Arabian Sea. The major rivers include Valapattanam, Chaliar, Kadalundipuzha, 
+5
+Bharathapuzha, Chalakudy, Periyar, Pamba, Achancoil, and Kalladayar. Many of these 
+rivers are navigable up to the midland region, facilitating cost-effective and reliable inland 
+transportation. The backwaters, a notable and economically valuable feature of Kerala, 
+comprise lakes and ocean inlets extending into Vembanad Lake, an expansive body of 
+water that opens into the Arabian Sea at Cochin port. Other significant lakes include Anju, 
+Thengu, Edava, Nadayaram Paravoor, Ashtamudi (Quilon), Kayamkulam, Kodungallor 
+(Cranganore), and Cheruva. Canals connect these lakes and backwaters, establishing an 
+uninterrupted inland water navigation system (India WRIS, 2023). The primary sources of 
+irrigation in Kerala include canals, tanks, and wells. In 2017–18, the net irrigated area was 
+392,000 ha, (KSCCAP, 2023).
+Sources of irrigation
+Area (ha)
+Percentage
+Canals
+77,000
+19.64
+Tanks
+50,000
+12.75
+Tube wells
+42,000
+10.71
+Others
+2,23,000
+56.88
+Total
+392,000
+-
+Climate: Kerala, situated amidst mountains, valleys, evergreen forests, cascading 
+waterfalls, and palm-fringed lagoons, presents a unique geographical and climatic 
+landscape. Numerous rivers and rivulets traverse the countryside, flowing Westward to 
+meet the Arabian Sea. Bounded by the Western Ghats on one side and the Arabian Sea on 
+the other, the state experiences climatic conditions distinct from the rest of the country. 
+The periodic reversal of wind systems in the adjoining Indian Ocean and the Arabian Sea 
+significantly influences the day-to-day weather in Kerala.
+The Western Ghats play a pivotal role in shaping the weather, with the forced ascent 
+of monsoon currents leading to substantial rainfall on the windward side of the region. 
+Rainfall intensity depends not only on altitude but also on factors such as the strength and 
+direction of the currents, slope steepness, and other terrain characteristics. Unlike many 
+other parts of the country, Kerala does not undergo an extended dry period with scorching 
+heat. Summer, season is from April to June, with a  maximum and  minimum temperature 
+of 330c and around 200c, respectively. The temperatures are relatively mild compared to 
+other Indian states. 
+6
+The South - West monsoon arrives in June, and ends in September. While there isn’t a distinct 
+difference in climatic conditions during this transition, but humidity increases. Periods of 
+continuous downpour may occur for two or three days. Notably, Vaithiri-Kuttiyadi range in 
+Malabar and Peerumedu in Idukki, receive the highest rainfall during this season. Rainfall 
+is comparatively lower in the Lakshadweep islands, with the Northern regions of Kerala 
+experiencing around 80% rainfall, while the Southern regions receive 40-50%.
+The presence of the Western Ghats acts as a barrier to the South -West monsoon, creating 
+a climatic variation with abundant rainfall on the windward side and a dry belt on the 
+leeward Eastern side. The North - East monsoon is between October - December.
+As winter arrives, there is a slight drop in temperature, and a gentle chill is felt due to 
+cold winds. Winter, is from November to January or February. Occasional light rainfall, 
+accompanied by thunder and lightning, occurs in the Northern regions of the state during 
+this period, with Kottayam receiving the highest rainfall in winter (Kerala state climate 
+change Knowledge portal, 2023)
+Agriculture and cropping pattern
+The cropping pattern in Kerala is shaped by various agro climatic factors, including 
+humidity, temperature, elevation, topography, vegetation, rainfall, and soil structure. The 
+state is classified into five Agroecological zones and 23 Agroecological units based on 
+climate, geomorphology, land use, and soil variability. Kerala predominantly consists of 
+small and marginal farms, with an average holding size of 0.18 ha or 0.4 acres according 
+to the Agricultural Census.
+The major crops in Kerala include cereals, pulses, oilseeds, and cash crops. Rice is the 
+dominant cereal crop. Various condiments and spices such as black pepper, cardamom, 
+ginger, turmeric, clove, and nutmeg, plantations crops like rubber, coffee, tea, coconut, 
+banana, and pineapple were also cultivated. While the area under paddy production has 
+declined to one-fourth as compared to the 1980s, whereas plantation crops like rubber, 
+coconut, and arecanut has increased within the gross area under production. Kerala has 
+highest coconut area and  production in India (KSCCAP, 2023).
+Challenges of climate change 
+Cash crops , food crops including rice, tapioca, and pulses, accounts for  10.21% of the 
+total cultivated area during 2015-16. In contrast, cash crops and Plantation crops (cashew, 
+7
+coconut, rubber, coffee, tea, pepper and cardamom) accounts for 62.8% of the total 
+cultivated area.
+Temperature regimes play a crucial role in influencing the growth duration, pattern, and 
+productivity of rice crops. Studies on rice productivity under global warming indicate 
+potential decreases in yield as the global temperature rises. Simulated results suggest a 
+5-7% reduction in yield for major crops, including rice, with a 1°C increase in mean daily 
+temperature.
+Changes in rainfall, both in amount and distribution, are critical factors limiting rain-
+fed rice yield. Variability in the onset of the rainy season contributes to variations in the 
+planting season for rain-fed rice. The temperature range, specifically the difference between 
+maximum and minimum temperatures, is widening in areas where thermo-sensitive crops 
+like cardamom, tea, black pepper, and cocoa are cultivated along the high ranges. Climate 
+change, manifested in climate variability such as floods and droughts, has adversely 
+affected both food and plantation crops to a significant extent. (Kerala state climate change 
+Knowledge portal, 2023).
+1.2 Overview of selected districts under NICRA- TDC
+1.2.1 Alapphuza
+Alapphuza district is located between 9°29’39”N latitude and 76°19’39”E longitude with 
+an altitude of 2m below mean sea level. The district falls under Western Ghats and Coastal 
+Plain, Hot Humid region (19.3) Agro Eco-Sub region (ICAR), West Coast plains and Ghat 
+region (XII) (planning commission) and Problem Areas, KE-5 (NARP). The geographical 
+area of the district is 1.41 lakh ha and other land use pattern of the districts are indicated 
+in (Fig. 5). The gross cropped area of the district is 1.05 lakh ha out of which 0.86 lakh 
+ha is net sown area and 0.18 lakh ha area is sown more than once. The area under rainfed 
+situation is 0.57 lakh ha and under irrigation is 0.46 lakh ha. The source of irrigation in the 
+district is canals, tanks, borewells etc. The major crops grown in this district are coconut, 
+rice, tapioca, arecanut, cashewnut etc (Table 1.1). Dairy farming, goat, sheep and poultry 
+farming widely adopted in the district. The average annual rainfall of the district is 2252 
+mm and 67% of the rainfall is received in Kharif (Fig. 4). The predominant soils in the 
+district are laterite, clay loam soils, sandy loam soils, kari soils and coastal sandy soils 
+(Fig. 6).
+8
+Fig. 3. Location map of Alapphuzha
+Fig. 4. Seaonal rainfall - Alapphuzha
+Normal rainfall (mm)
+9
+Fig. 5. Land use pattern of Alaphhhuzha
+Fig. 6. Major soils in Alapphuzha
+10
+Table 1.1: Area under major crops (2021-2022)- Alapphuzha district
+Crop
+Area
+(ha)
+Production (t)
+Productivity 
+(t ha-1)
+Coconut
+37018
+22400000
+605.1
+Rice (Summer)
+27310.3
+72749.5
+2.66
+Rice (Autumn)
+4720.5
+9569.4
+2.03
+Rice (Winter)
+4497.6
+10874
+2.42
+Tapioca
+1926
+82375
+42.77
+Arecanut
+1536
+444
+0.29
+Cashewnut
+1140
+187
+0.16
+Black pepper
+605
+101
+0.17
+Banana
+402
+2774
+6.9
+Sesamum
+302.24
+64.64
+0.21
+Ginger
+64
+203
+3.17
+Turmeric
+52
+171
+3.29
+Sugarcane
+33
+260.7
+7.9
+Gram
+26
+7
+0.27
+Maize
+6
+2
+0.33
+Sweet potato
+2
+21
+10.5
+Sunflower
+1.5
+0.44
+0.3
+2.2 Kannur
+Kannur district is situated at 11° 52’ 0” N latitude and 75° 21’ 55” E longitude, with 
+an elevation of 344m above mean sea level (Fig.7). Geographically, it falls within the 
+Konkan, Karnataka, and Kerala Coastal plain, characterized by a Hot Humid to Humid 
+Eco-Subregion (19.3) according to the Agro Eco-Sub region (ICAR). It is also part of the 
+West Coast plains and Ghat region (XII) according to the planning commission and is 
+categorized under the Northern Zone (KE-1) as per NARP. Covering a geographical area of 
+2.96 lakh ha, the district demonstrates various land use patterns (Fig. 9). The gross cropped 
+area is 2.47 lakh ha, with 2.28 lakh ha net sown area, and 0.49 lakh ha is sown more than 
+once. The rainfed area and irrigated area constitutes 1.99 lakh ha, 0.49 lakh ha respectively. 
+The source of irrigation is   canals, tanks, open wells, bore wells, lift irrigation, and other 
+sources. Major crops include coconut, rice, and banana (Table 1.2). Livestock farming, 
+including dairy, goat, sheep, and poultry farming, is also prevalent. With an average annual 
+rainfall of 3698 mm, the major area of rainfall is during the Kharif season (Fig. 8). The 
+predominant soils in the region are red laterite soils, alluvial soil, forest soil, hydromorphic 
+saline, and riverine alluvium (Fig. 10).
+11
+Fig. 7. Location map of Kannur
+Fig. 8. Seasonal rainfall - Kannur
+Normal rainfall (mm)
+12
+Fig. 9. Land use pattern of Kannur
+Fig. 10. Major soils in Kannur
+13
+Table 1.2: Area under major crops (2021-2022)- Kannur district
+Crop
+Area (ha)
+Production (t)
+Productivity (t ha-1)
+Coconut
+86246
+52400000
+607.56
+Cashewnut
+17157
+10723
+0.62
+Arecanut
+8551
+8079
+0.94
+Black pepper
+3601
+1195
+0.33
+Rice (Autumn)
+3016.16
+6221.364
+2.06
+Rice (Winter)
+2204.36
+4839
+2.2
+Banana
+1649
+16544
+10.03
+Tapioca
+959
+43144
+44.99
+Gram
+427
+329
+0.77
+Other Rabi pulses
+157
+121
+0.77
+Turmeric
+136
+601
+4.42
+Ginger
+43
+213
+4.95
+Rice (Summer)
+32.74
+75.931
+2.32
+Sweet potato
+14
+154
+11
+Sesamum
+2.13
+0.396
+0.19
+Sugarcane
+0.39
+3.895
+9.99
+1.2.3 Kottayam
+Kottayam district is located between 9° 35′ 42″ N latitude and 76° 31′ 51.6″ E longitude 
+with an altitude of 3m above mean sea level (Fig.11). The district falls under Western Ghats 
+and Coastal Plain, Hot Humid region (19.2) Agro Eco-Sub region (ICAR), West Coast 
+plains and Ghats region zone (XII) (planning commission) and Southern Zone (KE 2) 
+(NARP). The geographical area of the district is 2.20 lakh ha and other land use pattern of 
+the districts are indicated (Fig. 13). The gross cropped area of the district is 2.19 lakh ha out 
+of which 1.68 lakh ha is net sown area and 0.50 lakh ha area is sown more than once. The 
+area under rainfed situation is 2.01 lakh ha and under irrigation is 0.14 lakh ha. The source 
+of irrigation in the district is canals, tanks, open well, bore wells, lift irrigation and other 
+sources. The major crops grown in this district are coconut, rice (summer), tapioca, banana, 
+black pepper, rice etc (Table 1.3). Dairy, goat, sheep and poultry farming are adopted in 
+the district. The average annual rainfall of the district is 2612 mm and much of the rainfall 
+is received in Kharif (Fig. 12). The predominant soils in the district are clay loam soils, 
+alluvial soils, laterite soils, gravelly clay soils, gravelly loam soils andforest soil (Fig. 14).
+14
+Fig. 11. Location map of Kottayam
+Fig. 12. Seasonal rainfall- Kottayam
+Normal rainfall (mm)
+15
+Fig. 13. Land use pattern of Kottayam
+Fig. 14. Major soils in Kottayam 
+16
+Table1. 3: Area under major crops (2021-2022) - Kottayam district
+Crop
+Area (ha)
+Production (t)
+Productivity (t ha-1)
+Coconut
+23900
+12000000
+502.09
+Rice (Summer)
+11977.7
+32483.5
+2.71
+Tapioca
+6148
+307281
+49.98
+Rice (Winter)
+4895.6
+12919
+2.64
+Banana
+3231
+32234
+9.98
+Black pepper
+2744
+843
+0.31
+Rice (Autumn)
+1673.4
+4959.3
+2.96
+Arecanut
+1406
+1014
+0.72
+Cashewnut
+253
+78
+0.31
+Turmeric
+115
+430
+3.74
+Ginger
+110
+489
+4.45
+Cardamom
+86
+-
+-
+Sugarcane
+18.21
+120.5
+6.61
+Sweet potato
+3
+33
+11
+1.2.4 Kozhikode
+Kozhikode district is situated at 11° 15’ 19.44”N latitude and 75° 46’ 52.36” E longitude, 
+with an altitude of 20m below mean sea level (Fig.15). Geographically, the district is part 
+of the Konkan, Karnataka, and Kerala Coastal plain, falling within the Hot Humid to 
+Subhumid Eco-Subregion (19.3) of the Agro Eco-Sub region (ICAR). It is also categorized 
+under the West Coast plains and Ghats region Zone (XII) by the planning commission and 
+the Northern Zone (KE-1) by NARP. Encompassing a geographical area of 2.20 lakh ha, 
+the district displays various land use patterns (Fig. 17). The gross cropped area is 2.07 lakh 
+ha, including 1.58 lakh ha of net sown area and 0.48 lakh ha sown more than once. Rainfed 
+areas cover 1.49 lakh ha, while irrigated areas amount to 0.06 lakh ha, irrigation source is 
+from canals, tanks, open wells, bore wells, lift irrigation, and other sources. Major crops 
+grown include coconut, arecanut, black pepper, banana, rice, cashewnut, tapioca, turmeric, 
+and cardamom (Table 1.4). The district also engages in dairy farming, goat, sheep rearing, 
+poultry farming, fisheries, This area receives an average annual rainfall of 3711 mm, with 
+the major rainfall of around 75%  during the Kharif season (Fig. 16). The prevalent soils 
+in the district include coastal alluvium soils, riverine alluvium soils, laterite soils, colluvial 
+soils, wetland soils, soils of the Western Ghat foothill, and forest soils (Fig. 18).
+17
+Fig. 15. Location map of Kozhikode
+Fig. 16. Seasonal rainfall- Kozhikode
+Normal rainfall (mm)
+18
+Fig. 17. Land use pattern of Kozhikode
+Fig. 18. Major soils in Kozhikode
+19
+Table 1.4: Area under major crops (2021-2022)-Kozhikode district
+Crop
+Area (ha)
+Production (t)
+Productivity (t ha-1)
+Coconut
+113211
+92100000
+813.53
+Arecanut
+9663
+7866
+0.81
+Black pepper
+2896
+642
+0.22
+Banana
+1596
+18552
+11.62
+Rice (Winter)
+1248.9
+1382
+1.11
+Cashewnut
+1204
+342
+0.28
+Tapioca
+1021
+44848
+43.93
+Rice (Summer)
+466.14
+1005.807
+2.16
+Turmeric
+218
+880
+4.04
+Cardamom
+195
+2
+0.01
+Rice (Autumn)
+118.64
+31.693
+0.27
+Ginger
+38
+147
+3.87
+Gram
+14
+3
+0.21
+Other Rabi pulses
+12
+18
+1.5
+Sweet potato
+6
+91
+15.17
+Sesamum
+0.43
+0.143
+0.33
+1.2.5 Palakkad
+Palakkad district is located between 10° 46’ 8.00” N latitude and 76° 38’ 51.74” E longitude 
+with an altitude of 94 m above mean sea level (Fig. 19). The district falls under Western 
+Ghats and Coastal Plain, Hot Humid region (19.2), Agro Eco-Sub region (ICAR), West Coast 
+Plains and Ghat Region (XII) (planning commission) and Central zone (KE-3) (NARP). 
+The geographical area of the district is 4.47 lakh ha and land use pattern of the districts 
+are indicated (Fig. 21). The gross cropped area of the district is 3.14 lakh ha out of which 
+1.97 lakh ha is net sown area and 1.17 lakh ha area is sown more than once. The area under 
+rainfed situation is 1.04 lakh ha and under irrigation is 1.08 lakh ha. The source of irrigation 
+in this district is canals, tanks, open well, bore wells, lift irrigation and other sources. 
+The major crops grown in this district are coconut, rice, banana, arecanut, cardamom, 
+black pepper, tapioca, cashewnut, turmeric, arhar/tur, jowar. ginger, ragi (Table1.5). 
+Dairy, goat, sheep, poultry farming and fisheries are adopted in the district. The average 
+annual rainfall of the district is 2472 mm and much of the rainfall is received in Kharif 
+(Fig. 20). The predominant soils in the district are red soils, loamy soils, clayey soil, loamy 
+sand (Fig. 22).
+20
+Fig. 19. Location map of Palakkad
+Fig. 20. Seasonal rainfall - Palakkad
+Normal rainfall (mm)
+21
+Fig. 22. Major soils in Palakkad
+Fig. 21. Land use pattern of Palakkad
+22
+Table 1.5: Area under major crops (2021-2022)-Palakkad district
+Crop
+Area (ha)
+Production (t)
+Productivity (t ha-1)
+Coconut
+56175
+46400000
+825.99
+Rice (Winter)
+42387.05
+150861
+3.56
+Rice (Autumn)
+33745.69
+91368.38
+2.71
+Banana
+10085
+99252
+9.84
+Arecanut
+9629
+6740
+0.7
+Cardamom
+2754
+71
+0.03
+Black pepper
+2358
+1015
+0.43
+Tapioca
+1404
+61008
+43.45
+Cashewnut
+994
+187
+0.19
+Rice (Summer)
+370.94
+1155.483
+3.12
+Turmeric
+343
+1229
+3.58
+Arhar/Tur
+181
+299
+1.65
+Jowar
+163
+238
+1.46
+Ginger
+159
+776
+4.88
+Ragi
+124
+207
+1.67
+Groundnut
+119
+157
+1.32
+Maize
+66
+190
+2.88
+Sweet potato
+44
+666
+15.14
+Small millets
+34
+41
+1.21
+Jowar
+31
+43
+1.39
+Small millets
+29
+35
+1.21
+1.2.6 Wayanad
+Wayanad district is situated within the latitudinal coordinates of 11° 27’ to 15° 58’ N and 
+longitudinal coordinates of 75° 47’ to 70° 27’ E, with an elevation ranging from 700 to 1200 
+m above mean sea level (Fig. 23). Geographically, it falls within the Central and South 
+Sahyadris, characterized by a Hot Moist, Subhumid to Humid Eco-Subregion (19.2) as per 
+the Agro Eco-Sub region (ICAR). It is also categorized under the West Coast Plains and 
+Ghat Region (XII) by the planning commission and the Central Zone (KE-3), as well as the 
+Northern Zone (KE-1) by NARP. Covering a geographical area of 2.12 lakh ha, the district 
+showcases various land use patterns (Fig. 25). The gross cropped area is 2.12 lakh ha, 
+including 1.17 lakh ha of net sown area and 1.17 lakh ha sown more than once. Rainfed areas 
+cover 1.11 lakh ha, while irrigated areas amount to 1.17 lakh ha, sourced from canals, tanks, 
+open wells, bore wells, lift irrigation, and other sources. Major crops grown include arecanut, 
+banana, black pepper, coconut, winter rice, cardamom, ginger, and tapioca (Table 1.6). 
+23
+The district also engages in dairy farming, goat and sheep rearing, poultry farming, and 
+fisheries. With an average annual rainfall of 1892 mm, the majority of rainfall occurs 
+during the Kharif season (Fig. 24). The predominant soils in the district include sandy clay 
+loam soils, clay loam soils, sandy clay soils, sandy loam soils, clay soils, and loamy sand 
+soils (Fig. 26).
+Fig. 23. Location map of Wayanad
+Fig. 24. Seasonal rainfall of Wayanad
+Normal rainfall (mm)
+24
+Fig. 25. Land use pattern of Wayanad
+Table 1.6: Area under major crops (2021-2022)- Wayanad district
+Crop
+Area (ha)
+Production (t)
+Productivity (t ha-1)
+Arecanut
+11090
+4002
+0.36
+Banana
+10134
+96210
+9.49
+Black pepper
+9718
+3857
+0.4
+Coconut
+9331
+6400000
+685.89
+Rice (winter)
+7520.06
+21198
+2.82
+Cardamom
+4103
+510
+0.12
+Ginger
+1232
+5747
+4.66
+Tapioca
+1229
+52440
+42.67
+Rice (summer)
+623.85
+1611.14
+2.58
+Cashewnut
+449
+184
+0.41
+Other Rabi pulses
+127
+94
+0.74
+Turmeric
+114
+317
+2.78
+Maize
+4
+11
+2.75
+Sweet potato
+4
+61
+15.25
+Gram
+3
+Ragi
+1
+0.1
+0.1
+Fig. 26. Major soils in Wayanad
+2.1
+Promising Natural Resource 
+Management Technologies
+27
+Composting of aquatic weeds for carbon sequestration in Kuttanad 
+region of Kerala
+Background
+Extensive accumulation and spread of aquatic weeds in the paddy fields and water bodies 
+pose menace to paddy cultivation, inland navigation, fish culture and availability of pure 
+drinking water in Kuttanad Wetland Ecosystem. 
+Resilient technology
+To address the menance of aquatic weeds, composting of aquatic weeds using Effective 
+Microbial (EM) solution was taken up through technology demonstrations. The aquatic 
+weeds collected from water bodies and paddy fields were heaped on the bunds or nearby 
+upland area. Activated EM solution along with cow dung slurry application in different 
+layers of the heaps of 20 m2 (5 x 2 x 2m) and covered by coconut fronds of waste cloths. 
+The composting was completed by 45 – 60 days and recovery of  compost was 10 -15% 
+of the original fresh volume. The compost could be utilized for the cultivation of banana 
+and vegetables. Since these aquatic weeds are assumed to accumulate heavy metal ions 
+in the biomass, the compost, different plant parts and the fruits were analysed to assess 
+the presence of any of the heavy metals like Cadmium (Cd), Lead (Pb), Chromium (Cr), 
+Arsenic (As) and Mercury (Hg) in the produce.
+Performance and impact of technology
+During the nine years from 2014 to 2022, about 2560 t of fresh aquatic weeds removed 
+from 382 ha of the paddy fields (Padashekharams) and converted into 346 t of compost 
+involving about 2000 farmers in three villages of Kuttanad.  The compost produced was 
+effectively utilized for production of tomato, brinjal, chilly, okra, cowpea and amaranthus. 
+From the nutrient analysis, it was observed that the compost contained on an average 
+9.51% Organic Carbon, 0.71% Nitrogen, 0.24% Pottasium, 34.8ppm Calcium, 11.0 
+ppm Magnesium and 2.05 ppm Boron. Further analytical results showed the presence of 
+Cadmium, Lead, Chromium and Arsenic in the compost but not Mercury. The analysis of 
+plant leaves and stem and fruits of tomato, brinjal, chilly, okra, cowpea, flowers and seeds 
+of amaranthus revealed that the content of Cd, Pb, Cr, were lower than the critical limits 
+in both the compost and vegetable, samples as per the maximum allowable limits of heavy 
+metals in soils and vegetables that have been established by WHO, FAO and Standard 
+Guidelines in Europe. Though arsenic content in compost was higher than the critical limit, 
+its presence in the vegetable samples was not in the detectable range.
+28
+Table 2.1.1: Quantity of biomass recycled through composting of aquatic weeds in 
+Kuttanad region
+Parameter
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Total
+Muttar
+Thalavady
+Edathua
+Field area covered (ha)
+45
+72
+64
+35
+45
+32
+28
+34
+27
+382
+Quantity of aquatic
+weeds (fresh)
+composted (t)
+350
+410
+440
+250
+300
+220
+180
+240
+170
+2560
+Quantity of organic
+manure produced (t)
+48
+55
+62
+33
+38
+30
+25
+30
+25
+346
+Table 2.1.2. Analytical data on nutrient content of the compost produced from aquatic 
+weeds
+Village
+OC 
+N 
+P 
+K 
+Ca
+Mg
+S
+Mn
+Zn
+Cu
+B
+(%)
+(%)
+(%)
+(%)
+(ppm)
+(ppm)
+(ppm)
+(ppm)
+(ppm)
+(ppm)
+(ppm)
+1
+9.21
+0.70
+0.004
+0.31
+26.4
+11.32
+0.25
+1.464
+0.699
+0.824
+2.38
+2
+9.45
+0.71
+0.006
+0.21
+42.1
+11.00
+0.36
+1.004
+1.183
+0.558
+2.24
+3
+9.87
+0.72
+0.004
+0.19
+36.0
+10.65
+0.30
+1.513
+0.521
+0.794
+1.52
+Average
+9.51
+0.71
+0.005
+0.237
+34.8
+10.99
+0.30
+1.327
+0.801
+0.725
+2.05
+Scope for upscaling
+With this technology, 32.9 t of organic carbon could be sequestered through microbial 
+enhanced composting of aquatic weeds which are a serious menace to the cropping and 
+other activities of Kuttanad region of Kerala, where below sea level farming is practiced 
+owing to the geographic setting. This composting of aquatic weeds was demonstrated to 
+farmers in collaboration with MGNREGS by the KVK in the  NICRA-TDC project. If 
+the activity could be expanded to the 30,000 ha paddy fields spread in three districts of 
+the Kuttanad region by coordinated efforts of the local self Govt. and Govt. departments, 
+the weed menace could be brought in control to an extent along with sequestration of 
+considerable amount of carbon.
+Composting of aquatic weeds in Kuttanad, Kerala
+29
+Integrated practices in the coconut basin for enhancing the 
+nut yield and soil health in coconut farm
+Background 
+In traditional method of coconut cultivation in Kerala, involves stypically no amendments 
+addition for soil moisture conservation and lime also was not applied to correct the pH. 
+Hence nutrient uptake was reduced.
+Resilient technology
+The application of organic amendments like husk, coirpith compost in the coconut basin 
+enhances soil moisture retention in the coconut basin since a more water-absorbent and 
+moisture-retentive environment is created, promoting optimal conditions for coconut 
+cultivation. Cowpea as a cover crop in the coconut basin provides a ground cover and 
+reduces evaporation and prevent soil erosion in addition to addressing weed competition in 
+coconut basins. Moreover, cowpea contributes to soil fertility through nitrogen fixation, and 
+solubilization of soil phosphorus enhancing the overall health of the coconut palm.  This 
+is a complementary strategy. Application of lime in the coconut basin helps in correcting 
+soil acidity. Correction of soil acidity improved the nutrient absorption and overall plant 
+health as was evident from soil test results carried out by KVK in the area. These integrated 
+practices ensures a holistic approach for sustainable coconut farming, addressing both 
+moisture conservation and soil health.
+Performance and impact of technology 
+The technology was adopted in 200 coconut palms of NICRA - TDC village of Kozhikode 
+district, and a comparative study was carried out between farming systems with animals 
+and farming systems without animals. It is observed that in both the farming systems a 
+notable increase in coconut palm yield was observed compared to traditional practices. The 
+improvement in  soil water holding capacity and overall soil health played a crucial role 
+in improving the crop yields. This positive outcome in coconut palms sparked significant 
+interest among farmers, motivating them to adopt this technology. 
+Scope for upscaling
+Driven by farmers’ keen interest and the positive outcomes, the technology has been widely 
+adopted by other farmers in the NICRA -TDC village. This village is located in a core 
+coconut cultivation area, Hence the implementation of these practices holds the potential 
+for a significant upswing in yields in the coming years in NICRA and surrounding villages. 
+30
+Integrated practices in the coconut basin for enhancing the nut yield and soil health 
+at Kozhikode district
+Table 2.1.3: Performance of integrated basin based practices in coconut farming 
+Kozhikode district
+Intervention
+Year
+Yield 
+(nuts ha-1)
+Gross cost 
+(₹ ha-1)
+Gross return 
+(₹ ha-1)
+Net return 
+(₹ ha-1)
+BC 
+ratio
+Homestead farming system 
+ecosystem without animals Husk 
+burial, application of coirpith 
+compost & lime and growing of 
+cowpea in coconut basins
+2022 -23
+8651
+61630.67
+76160
+14529.3
+1.23
+Farmers practice
+8211.6
+59511.3
+70011.67
+10500.3
+1.18
+Homestead farming system 
+ecosystem with animals
+Husk burial, application of coir 
+pith compost & lime and growing 
+of cowpea in coconut basins
+8653.3
+61636.3
+76199.6
+14563.3
+1.24
+Farmers practice
+7789.3
+53833.3
+64096.67
+10263.3
+1.19
+31
+Wooden plank installed at the Choorikkad Padashekharam, Chuzhali
+Installation of wooden planks in existing check dams 
+to inhance water storage
+Background
+Water availability during second crop season was a serious problem in cultivation of paddy 
+in Chengalayi. As water management wasn’t possible in the existing check dam of the area, 
+wooden planks were installed to control the flow of water during the crop season.
+Resilient technology
+Around 3 ha of wetland in Choorikkad Padashekharam of Chuzhali village was revived 
+under NICRA -TDC project by installation of wooden planks in the existing check dam. 
+Performance and impact of technology
+Around 3 ha of wetland which was left fallow otherwise was made arable by the installation 
+of wooden plank in the check dam. The availability of water was ensured during the critical 
+stages of crop growth due to the  intervention.
+Table 2.1.4: Impact of wooden plank installation in Chuzhali village, Kannur district 
+Intervention
+Yield 
+(q ha-1)
+Cost of cultivation 
+(₹ ha-1)
+Gross return 
+(₹ ha-1)
+Net return 
+(₹ ha-1)
+BC ratio
+After intervention 
+48
+75000
+134400
+59400
+1.792
+Before intervention
+The land area was kept fallow before intervention.
+Scope for upscaling 
+The technology can be upscaled in the Mungam Padashekharam of Chengalayi village.
+32
+Construction of field bunds in convergence in Chengalayi Village
+Field bunds for effective management of cropped field
+Background 
+In Kannur, Kerala, the implementation of field bunds is imperative for effective crop 
+field management owing to the region's undulating topography and high rainfall. Kannur 
+faces the risk of soil erosion and nutrient loss due to its hilly terrain. Field bunds serve as 
+vital protective measures, mitigating the impact of water runoff by slowing it down and 
+preventing erosion.
+Resilient technology
+Mud field bunds were constructed in the Kundamakai Padashekharam covering more 
+than 21 acres in the Chengalayi village. Construction of field bund in Kundamkai with an 
+estimated amount of ₹ 454006/- and 1440 man days was carried out in convergence with 
+MGNREGS.
+Performance and impact of technology
+The fragmented wetland holdings always cause difficulty in synchronized planting and 
+cultural operations in Kerala scenario. This enhanced the active participation of existing 
+farmers as well as encouraged new members to rice cultivation in Chengalayi village. The 
+intervention increased the rice cultivation area from 14 acres to 21 acres compared to the 
+previous years.
+Table 2.1.5: Impact of construction of mud field bunds in Chengalayi village
+Intervention
+Yield 
+(q ha-1)
+Cost of cultivation
+ (₹ ha-1)
+Gross return 
+(₹ ha-1)
+Net return 
+(₹ ha-1)
+BC ratio
+After intervention
+49
+75000
+137200
+62200
+1.829
+Before intervention
+42
+42
+117600
+42600
+1.568
+Scope for upscaling
+The constructing of mud field bunds can be upscaled in convergence with MGNREGS,
+State department schemes and in the entire district for the betterment of agricultural in 
+frastructure
+33
+Three tier vertical structures for homestead vegetable cultivation in
+Kumarakom village of Kottayam district
+Three-tier vertical structures for homestead vegetable cultivation
+Background 
+The small land holding size, recurrent, untimely rains as well as floods hinder vegetable 
+cultivation during monsoon in Kumarakom village, lying below the mean sea level in 
+Kottayam district of Kerala. To ensure regular cultivation of vegetables through-out the year 
+and to ensure intake of nutritious healthy food even during unfavourable weather, three-tier 
+vertical structures with twenty seats for keeping pots were developed for homesteads. This 
+can prevent crop loss from waterlogged conditions.
+Resilient technology 
+Kumarakom village, Kottayam district was selected for the study. Vertical structures with 
+pots were planted with various vegetables. These  were established in ten homesteads. 
+Performance and impact of technology
+This technology helped in vegetable cultivation through-out the year to cater to the house 
+hold requirement. This technologyimproved the net income of the farmers
+Table 2.1.6: Impact of  three tier vertical structures for homestead vegetable cultivation 
+in Kumarakom village of Kottayam district
+Intervention
+Yield 
+(kg unit-1)
+Cost of cultivation 
+(₹ unit-1)
+Net return 
+(₹ ha-1)
+BC 
+ratio
+Vegetable cultivation in vertical structures
+45
+1000
+940
+1.94
+Farmers practice 
+Not followed
+Scope for upscaling 
+The three tier vertical structures for homestead vegetable cultivation can be upscaled by 
+various programmes implemented by the State and Central government.
+34
+Enhancement of storage capacity of percolation ponds with organic materials and 
+diversion of surface runoff rainwater for enhancing the yield of plantation crops
+Background
+Water shortage during second and third crop season have resulted in decline in cop 
+production in Padichira village. This area receives the lowest amount of rainfall in the 
+Wayanad district and hence harvesting of every drop of rainwater is quite important. Water 
+scarcities especially during summers have adversely affected the plantation crops like 
+pepper, coffee and arecanut.
+Resilient technology
+Percolation ponds with a dimension of 4 m x 2 m x 1.5 m (l x b x h) can store upto12000 l 
+of water. Coconut husk lining is done  at the bottom of the tank to reduce the seepage losses 
+of water and to conserve water. Construction of pond costed ₹ 2500 unit-1 including the 
+labour charge. Diversion of surface runoff water from roads and construction of percolation 
+ponds that store water helped to improve the water table of the area and nearby places. 
+Demonstrations on enhancement of storage capacity using surface runoff rainwater through 
+roads and construction of percolation ponds was administered in 20 ha area involving 10 
+farmers during 2022-23. in Padichira village, Wayanad district.
+Performance and impact of technology
+This technology helped to increase the water table level in open wells. Adoption of 
+percolation ponds and construction of channels to drain surface runoff rainwater to their 
+fields resulted in lower water requirement of 2-3 irrigations as compared to 4-5 irrigations 
+in conventional. The technology improved the yield (14.67%) and income (12.5%)
+respectively.  (₹ 59700 ha-1 and ₹ 11896 ha-1) in pepper and arecanut field, respectively.
+Table 2.1.7: Impact of enhancement of storage capacity on pepper and arecanut in 
+Padichira village, Wayanad district.
+Intervention
+Yield 
+(q ha-1)
+Cost of cultivation 
+(₹ ha-1)
+Net return 
+(₹ ha-1)
+BC ratio
+Enhancement of storage 
+capacity in pepper field
+12.5
+196250
+343800
+2.75
+Farmers practice
+10.9
+189450
+284100
+2.50
+Enhancement of storage 
+capacity in arecanut field
+9.54
+198700
+107056
+1.54
+Farmers practice
+7.4
+185000
+83038
+1.44
+35
+Scope for upscaling 
+The technology for enhancing the storage capacity of percolation ponds with organic 
+materials and diversion of surface runoff rainwater for enhancing the yield of plantation 
+crops can be scaled up by construction of percolation ponds and diverting surface runoff 
+rainwater by way of various programmes being implemented by the MGNREGS.
+Enhancement of storage capacity using organic materials and surface runoff rainwater in Padichira 
+village of Wayanad district
+36
+Composting of organic residues with a portable vermibed using bioinoculants for 
+enhancing soil fertility and crop yield  
+Background
+Excess agricultural waste poses serious problems in its disposal by the farmers, resulting 
+in deleterious impact on environment and soil fertility depletion. Sustainable conversion 
+of excess and unused crop residues could allow in recover of valuable components 
+as substrates and nutrients through microbial/enzymatic controlled process such as 
+composting.  Sustainable use of crop residues will allow to recycle valuable components 
+as substrates and nutrients.
+Resilient technology
+A small-scale composting plant at farm level to effectively recycle excess and unused organic 
+wastes as green compost was done. This serves as valuable (rich in humidified substances) 
+biofertilizer, that would improve soil fertility soil structure, water holding capacity of the 
+soil, and releases nutrients slowly. A portable vermibed (capacity: 1000 kg farm waste) and 
+KAU liquid microbial consortium was provided to farmers. Demonstrations on composting 
+was administered in 20 ha area involving 10 farmers during 2022-23 in Padichira village 
+of Wayanad district.
+Performance and impact of technology
+Application of compost helps to improve the soil structure, water holding capacity of the 
+soil and slow release of nutrients. Compost recovery was approximately 53% and in a year, 
+10 farmers produced 20 t of compost. The technology helped the farmers to achieve a yield 
+improvement of 12.65%, additional income of ₹ 35750 ha-1 in banana cultivation.
+Table 2.1.8: Recycling of organic residues using KAU liquid microbial consortium 
+and its use in banana cultivation in Padichira village of Wayanad district
+Intervention
+Yield 
+(q ha-1)
+Cost of cultivation 
+(₹ ha-1)
+Net return 
+(₹ ha-1)
+BC ratio
+Recycling of organic residues with 
+portable vermibed  using KAU liquid 
+microbial consortium
+180
+97000
+247500
+3.55
+Farmers practice
+154
+93500
+211750
+3.26
+37
+Scope for upscaling
+Composting of organic residues with a portable vermibed using bioinoculants. can be scaled 
+up by promoting construction of recycle pits and supplementing microbial consortium by 
+means of various awareness programmes and through monitoring by Krishi Bhavan and 
+KVK'S.
+Recycling of organic residues using bioinoculants technology in banana fields 
+of Padichira village, Wayanad district
+38
+Improving water holding capacity in coconut plantations for improving the 
+productivity
+Background
+The coconut face dry spells and the productivity of palm decreases.
+Resilient technology
+Husk burial can be done in coconut basins or in the interspaces to overcome drought and 
+button shedding. Heaping of  husks @ 100 nos. with concave surface facing upwards can 
+act as sponge, absorb and retain moisture about 6-10 times respectively to their own weight 
+and slowly release to the coconut trees during dry periods. As the husk or dust breaks down 
+slowly, their effect will last for 4-6 yrs and 8-10 yrs respectively. On decomposition they 
+also add potash to the soil. The husk can be also buried in the trenches at a distance of 3 m 
+from the palm at 45 cm deep and 150 cm width in between two rows of coconut.
+Performance and impact of technology
+Burying coconut husks is a highly efficient method for conserving soil moisture. The 
+demonstration was conducted in the three farmers’ fields in Pattithara village. In each 
+farmer field, 50 palms were selected. A notable improvement, in the water use efficiency 
+(0.57 to 0.71) was observed.  Additionally, there was an increase in nut yield in the fields 
+where this practice was applied.
+Table 2.1.9: Impact of husk burial for improving water holding capacity in coconut 
+plantation 
+Intervention
+Yield 
+(nuts ha-1)
+Cost of 
+cultivation 
+(₹ ha-1)
+Gross 
+return 
+(₹ ha-1)
+Net return 
+(₹ ha-1)
+BC ratio
+Husk burial
+14020
+84520
+210300
+125780
+2.4
+Farmers practice
+13425
+74015
+168750
+94735
+2.2
+Scope for upscaling
+The methodology is being popularised through training programmes and exhibitions. The 
+technology can be scaled up by way of various programmes being implemented by the 
+State and Central Government Schemes.
+39
+Husk burial in coconut basins for improving water holding capacity 
+in Pattithara village, Palakkad district
+40
+Sand bag reinforced temporary check dams based water storage to 
+supplement the crop water need for higher yield
+Background
+Temporary check dams are structures built across rivers, streams, or other water bodies to 
+temporarily impound water. These structures are usually constructed using readily available 
+materials and are designed to be easily installed, modified, or removed as and when needed. 
+During drought, when lift irrigation regulators of Pattithara village are closed, the water 
+levels will reduce and impact the paddy cultivation of the village. 
+Resilient technology
+Temporary check dams are constructed using sandbags across the Bharathapuzha river near 
+the lift irrigation site. This helps to maintain an adequate water level for paddy cultivation. 
+The temporary check dams with sand bags erected across the Bharathapuzha river played 
+a crucial role in preserving water, safeguarding crops that were in the grain-filling and 
+maturity stage
+Performance and impact of technology
+The construction of the check dams was done in a 50 ha area, benefiting 100 farmers in 
+Pattithara village, Palakkad district. Maintainence of an optimal water level during the 
+maximum tillering and panicle initiation stages increased the crop yield significantly. 
+The technology has helped the farmers to achieve a yield improvement of 34.10% and an 
+additional income of  ₹ 24220 ha-1.
+Table 2.1.10: Impact of temporary check dam construction at Pattithara village, 
+Palakkad district 
+Intervention
+Yield 
+(q ha-1)
+Cost of 
+cultivation 
+(₹ ha-1 )
+Gross return
+(₹ ha-1 )
+Net return 
+(₹ ha-1 )
+BC ratio
+Temporary check dams with 
+sand bags
+52.00
+76100
+145600
+69500
+1.9
+Farmers practice
+38.75
+51595
+96875
+45280
+1.8
+Scope for upscaling
+The temporary check dams with sand bags technology can be scaled up by way of various 
+programmes being implemented by the State and Central Government. Panchayath has 
+included the programme in their annual plan.
+41
+Temporary check dam construction with sand bags at Pattithara village, Palakkad district
+42
+Modified rain shelter for year round vegetable cultivation 
+Background
+Kuttanad region of Kerala is situated below the mean sea level, the entire region is prone 
+to flood during the rainy season (June to October). Even upland cultivation is difficult and 
+hence it’s almost a farming holiday during the monsoon seasons. 
+Resilient technology
+To overcome this problem and for cultivation of vegetables throughout the year, ‘Modified 
+rain shelter cultivation’ was introduced in a technology demonstration under the NICRA -TDC 
+project.  Traditional rain shelters for an area of 40 m2 were made using GI pipes and the 
+roof covered with UV stabilized sheets of 200 gauges. Instead of keeping the grow bags 
+or growing pots on the ground, an elevated platform at 2-3 ft height was created with 
+available materials and the bags kept on them. This helps to overcome the water-logging 
+problem during the rainy season. Eighty pots or grow bags can be accommodated in a unit 
+of 40m2 which would cost about ₹ 25000 to 30000 for establishment. Leafy, solanaceous 
+and cucurbits vegetables can be grown in this unit throughout the year. Planting of different 
+vegetables could be scheduled according to the duration and harvesting time to get 
+vegetables daily and throughout the year. Trailing vegetables like Yard Long Bean, bitter 
+gourd and snake gourd can also be grown where pandal nylon net is used. Drip irrigation 
+or sprinkler irrigation and organic management practices can be followed in these units.
+Performance and impact of technology
+This enables the farmers to cultivate vegetables even under flooded situations ensuring the 
+nutritional security. The crops were established well and the farmers harveted very good 
+yield up to 1.5 kg of vegetables daily and in a year 500 kg of vegetables could be produced. 
+The initial investment could be recovered in a year time by getting safe and nutritious 
+vegetables throughout thus reducing the expenditure on the same. The major advantages 
+are (i) suitable for cultivation in rainy season (ii) off seasons crops can be cultivated 
+(iii) safe to eat food production and (iv) low cost structures with climate adaptability 
+ensures year round production of vegetables. 
+Scope for upscaling
+The technology can be upscaled to low lying, flood/water-logging prone areas through 
+convergence with State departmental activities, Central programmes and ATMA.
+43
+Table 2.1.11: Quantity of vegetables produced in a modified rain shelter unit of 40 m2
+Season
+Brinjal Tomato Cabbage Cauliflower Chilly Cowpea Bhindi Amaran
+thus
+Bitter 
+gourd / 
+Ivy gourd
+April – Aug
+20
+-
+-
+-
+15
+30
+40
+20
+16
+Sept – Dec 
+75
+50
+21.5
+12
+16.35
+20
+34
+-
+20
+Jan -March 
+27
+15
+-
+-
+-
+17
+10
+60
+-
+Total 
+122
+65
+21.5
+12
+26.35
+67
+84
+80
+36
+Modified rain shelter for vegtables cultivation in Kuttanad village, Alappuzha district
+2.2
+Promising Crop 
+Production Technologies
+47
+Short duration high yielding green gram variety CO8 in summer rice fallows 
+and foliar application of Pulse Wonder with drone
+Background
+The second crop after pulse was not grown due to water shortage. Introduction of a short-
+duration variety of green gram in rice fallows has been a strategic solution for farmers, 
+enabling them to navigate the challenge of water scarcity in these fields as well as gain in 
+additional income and enhancing soil nutritive value through nitrogen fixation.
+Resilient technology
+In Maruphonkara village, Kozhikode district, short duration, high yielding green gram 
+variety CO8 (60 days) along with  10:30:30 kg NPK ha-1 and foliar application of Pulse 
+Wonder through drone (in summer rice fallows) was demonstrated. The urea was applied in 
+split foliar application at 15 and 30 days after sowing.   This variety is resistant to mosaic 
+disease and also has high nutritive value
+Performance and impact of technology
+The technology was demonstrated in five farmers’ fields who faced water shortage in rice 
+fallows and did not raise any crop after rice. Farmers readily accepted this pulse crop due 
+to its synchronized flowering, inherent resistance to mosaic disease. Utilizing drones for 
+the foliar application of Pulse Wonder proved to be a highly efficient method, ensuring its 
+uniform and effective distribution. From the results we could see an increase of 1.64 q ha-1 
+in yield over farmers practice. This sums to 62.8% yield increase.  Farmers could market 
+their products readily to local markets due to its high demand. The cultivation of the short 
+duration, high yielding green gram variety CO8 in rice fallows with foliar spray of Pulse 
+Wonder in rice fallows has witnessed a remarkable expansion in Kozhikode district. From 
+an initial area of less than 3 ha, it has surged significantly, now encompassing over 50 ha.
+Table 2.2.1: Performance of short duration, high yielding green gram variety CO8 in 
+rice fallows with foliar spray of Pulse Wonder in Maruphonkara, Kozhikode district
+Intervention
+Yield 
+(q ha-1)
+Cost of cultivation 
+(₹ ha-1)
+Gross return 
+(₹ ha-1)
+Net return 
+(₹ ha-1)
+BC 
+ratio
+Demonstration of Green gram CO8 
+(in summer rice fallows)
+4.25
+16816.7
+38250
+21433.3
+2.27
+Farmers practice
+2.61
+12250
+26758.3
+14508.3
+2.18
+48
+Scope for upscaling
+Short duration, high yielding green gram variety CO8 in rice fallows with foliar spray of 
+Pulse Wonder in rice fallows can be upscaled to other beneficiaries in the district through 
+various State and Central schemes.
+Short duration, high yielding green gram variety CO8 in rice fallows in 
+Maruphonkar village, Kozhikode district
+49
+Yard-Long Bean (KAU Deepika) for cultivation 
+in highly shaded homesteads
+Background
+Homesteads farming is prevalent in the study area. Typically, homesteads, has multilayer 
+crops with less sunlight penetrating to the bottom layer of crops. Thus resulting in lower 
+utilization of highly price land area. Hence a crop that can grown under limited sunlight 
+needs to be selected for this area. Yard long bean is an important vegetable gown in the 
+district but has low productivity due to  heavily shaded homesteads.
+Resilient technology
+A high yielding shade tolerant variety of Yard-Long Bean (KAU Deepika), suitable for 
+homesteads of Kerala, has been introduced to Maruphonkara village, Kozhikode to cope 
+up with the shade constraints faced by the farmers in the homestead system prevalent 
+in the area. This variety with 100-120 days duration is characterized by its long, green 
+pods, exhibiting a low incidence of pests and diseases. Additionally, it is recognized for 
+its commendable cooking quality. These distinctive features make the variety not only 
+visually appealing but also resilient to common challenges in cultivation, offering farmers 
+a reliable and high-quality option for their farming. The demonstration was conducted in 
+27 farmers’ fields covering an area of 0.34 ha.
+Performance and impact of technology
+The average yield in homestead farming system without animals was 178 q ha-1 compared 
+to 140q ha-1 in farmers' practice of local varieties. But in the case of homestead farming 
+system with animals yield increase of 16.5% was observed over farmers practice. The 
+BC ratio was also higher compared to farmers' practices in both the farming systems. 
+Performance of the crop was found to be encouraging in homestead system cultivation 
+compared to other local YLB varieties which are shy bearers in homesteads. So this variety 
+can be practiced in homesteads intercropped with many perennial crops where sunlight is 
+a limiting factor.
+50
+Table 2.2.2: Performance of Yard-Long Bean variety (KAU Deepika) for cultivation 
+in highly shaded homesteds
+Intervention
+Yield 
+(q ha-1)
+Cost of cultivation
+(₹ ha-1)
+Gross return
+(₹ ha-1)
+Net return 
+(₹ ha-1)
+BC 
+ratio
+Homestead ecosystem without IFS with
+Yard-Long Bean (KAU Deepika) 
+variety
+178
+992783.3
+576283.3
+416500
+2.38
+Farmers practice
+140
+786898.3
+372533.3
+414365
+1.89
+Homestead ecosystem with IFS with
+Yard-Long Bean (KAU Deepika) 
+variety
+187.3
+1002685
+584900
+417785
+2.4
+Farmers practice
+160.33
+795950
+380300
+415650
+1.91
+Scope for upscaling
+The performance of Deepika exhibited superiority in homesteads where sunlight is limited. 
+The farmers were convinced with the performance of  YLB variety (KAU Deepika), Hence 
+the increase in area under this variety increased in the subsequent season within the village. 
+The Krishi Vigyan Kendra (KVK) could facilitate the availability of quality seeds from 
+Kerala Agricultural University (KAU), further contributing to the successful adoption and 
+expansion of Deepika cultivation in the region.
+Performance of Yard-Long Bean (KAU Deepika) in Maruphonkara village
+51
+KAU Vaika, an promising Amaranth variety 
+for monsoon cultivation
+Background
+Amaranth has significant importance as a vegetable in the NICRA village. However, the 
+major concern in cultivation of Amaranth was bolting, especially during the growing 
+season, Additionally, leaf spot, a fungal disease is common in the rainy season.
+Resilient technology
+KAU Vaika, an amaranth variety suitable for rainy season, is distinguished by its high-
+yielding nature, late bolting characteristics, and multi-cut capability. The plant features a 
+distinctive red-coloured stem and leaves, and it undergoes a prolonged vegetative growth 
+period. With a remarkable yield of 783.18 gm plant-1, KAU Vaika stands out as a promising 
+choice for farmers seeking a productive and resilient amaranth variety.
+Performance and impact of technology
+KAU Vaika, with its late bolting characteristics and resistance to leaf spot, emerges as a 
+suitable solution for the rainy season. This variety’s adaptability and resilience makes it a 
+better choice for farmers in the Maruphonkara village, This variety improved yield  and 
+net returns by 24 and 41 % respectively. More number of harvests is also possible in  KAU 
+Vaika compared to the local varieties.
+Table 2.2.3: Performance of improved Amaranth variety (KAU Vaika) under rainy 
+season
+Intervention
+Yield 
+(q ha-1)
+Cost of 
+cultivation 
+(₹ ha-1)
+Gross return
+(₹ ha-1)
+Net return 
+(₹ ha-1)
+BC ratio
+Homestead ecosystem 
+without IFS
+Amaranth variety KAU 
+Vaika
+148
+294642
+609095.3
+314453.3
+2.06
+Farmers practice
+119
+285828
+510228
+224400
+1.78
+Homestead ecosystem 
+with IFS
+Amaranth variety KAU 
+Vaika
+158
+295240
+620633.3
+325393.3
+2.10
+Farmers practice
+128
+286426
+517259.3
+230833.3
+1.80
+52
+Scope for upscaling
+The farmers were convinced with the technology, hence more farmers have come forward 
+for the cultivation of Vaika which is a promising variety in high rainfall areas. The Krishi 
+Vigyan Kendra (KVK, KAU) played a pivotal role in expanding the cultivation of the 
+variety in NICRA-TDC village and nearby villages by facilitating the procurement of 
+quality seeds from Kerala Agricultural University (KAU). This collaborative effort has 
+significantly contributed to the increased adoption of the variety in the region.
+Cultivation of improved Amaranth variety KAU Vaika in Maruphonkara Village
+53
+The Vlathankara cheera multi-cut Amaranth variety 
+for rainy season cultivation
+Background
+Vlathankara cheera is a farmer - evolved variety, originating from Vlathankara cheera in 
+Thiruvananthapuram, which is suitable for homestead as commercial cultivation in rainy 
+season.
+Resilient technology
+Vlathankara cheera is distinguished by its intense red colour. Classified as a multi-cut 
+variety, it exhibits the ability to produce more branches after each harvest, contributing 
+to sustained yields. With an extended duration of eight months, it allows for a prolonged 
+harvesting period. Notably, the variety demonstrates tolerance to leaf spot, a major concern 
+in popular amaranth varieties. Apart from its resilience, this variety is characterized by its 
+superior palatability, making it more delicious compared to green types.
+Performance and impact of technology
+A variety was demonstrated on 0.37 ha of farmers’ fields in the Maruphonkara village 
+during the rainy season. The performance of the variety was found to be superior over the 
+farmers practice. The variety also showed a prolonged and sustained yield compared to the 
+local varieties. The BC ratio under homestead farming systems with and without animals 
+is found to be higher, compared with farmers practice, which showed the increasing the 
+suitability of the variety in this area.This variety has  one to one and half months more 
+duration compared to local types, and less prone to leaf spot compared to check and hence 
+marketable produce was more in the demo. More number of harvests was also possible in 
+Vlathankara cheera compared to local varieties cultivated by farmers.
+Table 2.2.4: Performance of multi-cut Amaranth variety Vlathankara cheera for rainy 
+season in Maruphonkara village during 2022-23 
+Intervention
+Yield 
+(q ha-1)
+Gross cost 
+(₹ ha-1)
+Gross 
+return
+(₹ ha-1)
+Net return 
+(₹  ha-1)
+BC ratio
+Homestead ecosystem without IFS
+Amaranth –Vlathankara cheera
+158.6
+284910
+642606.6
+357696.6
+2.25
+Farmers practice
+119
+283163
+507563
+224400
+1.79
+Homestead ecosystem with IFS
+Amaranth –Vlathankara cheera
+168.3
+284998
+650744.6
+365746.6
+2.28
+Farmers practice
+128.3
+283251
+514084.3
+230833.3
+1.81
+54
+Scope for upscaling
+It is a farmer evolved variety largely grown in Thiruvananthapuram district of Kerala. The 
+variety is being introduced for the first time in the village and is largely welcomed by the 
+farmers. Convinced by the success of the technology, more farmers have come forward 
+for the cultivation of Vlathankara cheera which is a promising type in high rainfall areas. 
+Seeds were also arranged by KVK. The variety can be upscaled to other villages of the 
+district and is in high demand among farmers.
+Performance of  Vlathankara cheera Amaranth multi-cut variety in 
+Maruphonkara village, Thiruvananthapuram district
+55
+Tray nursery preparation and mechanical transplanting of rice in Chengalayi village
+Mechanical transplanting of rice for higher efficiency
+Background
+Transplanting of rice is done with manually and this process is laborious and tedious 
+process in rice cultivation by farmers
+Resilient technology
+Mechanical transplanter could be used for easing this process as well as to reduce the time 
+consumption for transplanting operation. Mat or tray nursery is a pre-requisite for machine 
+transplanting. Seeds should be sown 15-20 days prior to transplanting. They are sown in a 
+thin layer of soil in polythene sheet in case of mat nursery or in trays for tray nursery. 14-18 
+days seedlings were ready to transplant in 14-18 days after sowing. 
+Performance and impact of technology
+Mechanical transplanting in Chengalayi village ensured uniform planting at a lower cost 
+compared to manual transplanting. Manual transplanting cost was about ₹ 5000 ha-1. In 
+addition, proper spacing and uniform planting as well as better crop growth was observed 
+in the mechanically transplanted field.
+Table 2.2.5: Impact of mechanical transplanting of rice in Chengalayi village
+Intervention
+Yield (q ha-1)
+Cost of cultivation 
+(₹ ha-1)
+Gross return
+(₹ ha-1)
+Net return 
+(₹ ha-1)
+BC 
+ratio
+Mechanical 
+transplanting of rice
+47.5
+75000
+133000
+58000
+1.77
+Manual transplanting
+42
+80000
+117600
+37600
+1.47
+Scope for upscaling
+The technology can be upscaled to the rice growing tracts of entire district in convergence 
+with State Agricultural Engineering depratment.
+56
+Inter - cultivation in coconut garden using garden tiller in Chengalayi village, Kannur district. 
+Inter - cultivation of coconut garden using garden tiller
+Background
+Conventional manual preparation of coconut basins were laborious and time consuming. 
+To save time and labour, Honda Garden Tiller FJ500, a user friendly garden tillar can be 
+used.
+Resilient technology
+Tilling the interspaces of coconut palms is an efficient method of soil moisture conservation. 
+This technique aids in conservation of rain water, as well as improves the soil aeration and 
+nutrient uptake. In comparison to the conventional manual tilling, the use of garden tiller 
+proved to be an efficient and economic method of inter - cultivation and basin preparations.
+Performance and impact of technology
+Honda Garden Tiller FJ500, is a user-friendly garden tiller which could be effectively 
+used for inter - cultivation. Demonstration of inter - cultivation using garden tiller was 
+carried out in two units under plantation ecosystem in Chengalayi village, Kannur district. 
+Capacity building training was given to the agricultural task force to attain skill in the use 
+of the machinery. This technology is an alternative to the laborious and time consuming 
+manual tillage practiced in the  Chengalayi village.
+Table 2.2.6: Impact of intercultivation of coconut plantation in Chengalayi village, 
+Knnaur district
+Intervention
+Yield (q ha-1)
+Cost of cultivation (₹ ha-1)
+Gross return 
+(₹ ha-1)
+Net return 
+(₹ ha-1)
+BC ratio
+After intervention
+44.00
+70000
+110000
+40000
+1.57
+Before intervention
+30.25
+61250
+75625
+14375
+1.23
+Scope for Scope for upscaling
+The technology of intercultivation with garden tiller in coconut basins can be upscaled 
+in the entire plantation/commercial ecosystem in the Chengalayi village, as a soil and 
+water conservation method, through convergence with State Agricultural Engineering 
+department. 
+57
+Targeted drone spraying of Sampoorna KAU multimix in Chengalayi village
+Targeted spraying of micronutrient- Sampoorna KAU multimix using drone 
+for higher use efficiency
+Background
+Drone technology has become an important part of precision agriculture in the recent years. 
+It helps to simplify the time-consuming process of fertilizer application. 
+Resilient technology
+Sampoorna KAU multimix, is a micronutrient mixture of Zinc, Boron, Copper, Iron, 
+Manganese and Molybdenum. Recommended dosage of Sampoorna is 5g l-1 was applied  2 
+days before transplanting and 10g l-1 at 30 and 50 days after transplanting. Drone spraying 
+of Sampoorna KAU multimix was carried out in 21 acres of Kundamkai Padashekharam 
+in Chengalayi village.
+Performance and impact of technology
+Drone application covers larger area in short span of time compared to manual spraying. The 
+demonstration was carried out in the nearby rice growing tract-Mungam Padashekharam 
+also.
+Table 2.2.7: Impact of targeted spraying of micronutrient - Sampoorna KAU multimix 
+using drone in Chengalayi village
+Intervention
+Yield 
+(q ha-1)
+Cost of cultivation 
+(₹ ha-1)
+Gross return
+(₹ ha-1)
+Net return
+(₹ ha-1)
+BC ratio
+Drone spraying of micronutrient- 
+Sampoorna KAU multimix 
+52.5
+84000
+147000
+63000
+1.75
+Farmer’s practice
+45
+75000
+126000
+51000
+1.68
+Scope for upscaling
+The targeted spraying of micronutrient - Sampoorna KAU multimix using drone can 
+be upscaled to the nearby cultivating areas, inorder to provide awareness to the farmers 
+about drone technology as well as the importance of micronutrient in enhancing crop yield 
+through district KVK and State schemes.
+58
+Crop rotation of rice with black gram in Chengalayi village
+Crop rotation of rice with pulse for enhancing soil 
+fertility and higher return
+Background
+Crop rotation with pulses can be done as an effective soil nutrient restoration mechanism 
+in the wetland ecosystem. Growing of pulse crop has additional advantage of utilizing the 
+residual soil moisture content in the soil. Moreover, it helps in restoring the soil fertility 
+status for the next crop season.  
+Resilient technology
+The high yielding variety of black gram VBN 8 was cultivated after the harvest of rice in 
+about 0.5 ha area in Chengalayi village.  
+Performance and impact of technology
+Cultivation of blackgram in rice fallows realized 5.2 q ha-1 yield and and net return of 
+₹ 21600 ha-1
+Table 2.2.8: Impact of crop rotation with black gram VBN-8 in Chengalayi village
+Intervention
+Yield 
+(q ha-1)
+Cost of cultivation 
+(₹ ha-1)
+Gross return 
+(₹ ha-1)
+Net return 
+(₹ ha-1)
+BC ratio
+Black gram in rotation 
+with rice 
+5.2
+20000
+41600
+21600
+2.08
+Scope for upscaling
+The technology can be upscaled to the rice fallows of entire district through various State 
+and Central schemes.
+59
+Crop calendar for double cropping in lowland paddy cultivation
+Background 
+Kumarakom village in Kuttanad agro-ecological unit of Kottayam district of Kerala is 
+well-known for distinct lowland rice cultivation at or below sea level. Recurring floods, 
+water logging, salt water intrusion, soil acidity, un- scientific farming practices and aquatic 
+weeds pose major challenges in rice cultivation, limiting the cultivation to single crop in 
+a year. A crop calendar for rice cultivation allows better planning of all farm activities to 
+accommodate two rice crops in a year. 
+Resilient technology
+Cropping calendar is a schedule of the rice growing season from the land preparation, to 
+crop establishment and maintenance (weeding, fertilizing) to harvest. The period of time 
+from establishment to harvest is varying among different varieties. So, the crop calendar 
+allows a farmer to plan farm activities based on weather conditions. The customary practice 
+of cultivating one medium duration variety in a year can be shifted to cultivating a medium 
+duration variety followed by a short duration variety by evading floods during monsoon 
+and salt intrusion during summer.
+Thekkepallipadam Padashekaram – a paddy cluster in Kumarakom village comprising of 
+70 acres of rice cultivation was selected for demonstration of technology. Crop calendar 
+was prepared considering the agro ecological conditions of the area and climate data of 
+previous years. Cultural operations were scheduled as per the crop calender with soil acidity 
+reclamation, basal application of fertilizers and seed treatment. The first crop sown was a 
+medium duration variety, Uma with a crop duration of 120 days.  The land was similarly 
+made ready for the second crop with short duration variety Manuratna of 90 days duration. 
+in the field and was harvested before salt water intrusion.  
+Performance and impact of technology
+The crop calender had helped the farmer to realize an additional yield of 5 t ha-1 to the 
+farmers. 
+60
+Table 2.2.9: Impact of crop calendar for lowland paddy cultivation in Kumarakom 
+village of Kottayam district
+Intervention
+Yield (q ha-1)
+Cost of cultivation
+(₹ ha-1)
+Net return
+(₹ ha-1)
+BC ratio
+Double cropping
+Additional yield of 5 t ha-1
+Farmers practice- 
+Single crop
+50.5
+63552.5
+87947.5
+2.4
+Scope for upscaling
+The technology can be scaled up by various programmes being implemented by the State 
+and Central government.
+Farmer practice - single crop                       
+Second crop
+Impact of crop calendar for lowland paddy cultivation in Kumarakom village of Kottayam district
+61
+Paddy sowing using drum seeder for higher yield
+Background
+In Kerala, broadcasting of seed is the method followed rice cultivation by farmers. Though 
+broadcasting takes less time for sowing, uniformity/plant geometry is not maintained and 
+the seed rate for broadcasting is around 50-60 kg acre-1. This increases the pest, disease 
+incidence and weed menace. Advantages are uniformity in seed sowing, reduction in seed 
+rate and cost of thinning is reduced, hill dropping of the seed is achieved and continuous 
+drilling is eliminated. 
+Resilient technology
+The paddy drum seeder developed by Tamil Nadu Agricultural University (TNAU) is light 
+in weight, easy to operate by a single man. TNAU drum seeder consists of four seed drums 
+made of fibre mounted over a shaft, ground wheels, floats and handle. The seed drum is 
+hyperboloid in shape (truncated cone) with 200 mm diameter having 12mm flat spikes of 
+25 mm length kept parallel to the axis of rotation. The slope of the cone facilitates the free 
+flow of seeds towards the metering holes. Nine numbers of seed metering hole of 10 mm 
+diameter were provided along the circumference of the drum at both the ends at a row to 
+row spacing of 20 cm. The floats are provided on either side to restrict the shrinkage and 
+to facilitate easy pulling of the drum seeder. Direct paddy drum seeder is used for sowing 
+germinated paddy seed directly in wetland field. There is no need for transplantation. 
+Baffles are provided inside the seed drum between seed holes resulting in uniformity of 
+seed rate throughout the operation. These baffles also ensure hill dropping of seeds. The 
+technology was demonstrated in the fields of 10 farmers in 2022 in Kumarakom village of 
+Kottayam district 
+Performance and impact of technology
+In the drum seeder technology, the seed rate could be reduced to 20 kg acre-1, thus reducing 
+the cost of one of the major inputs-seed. It was observed that weed control in line sowing is 
+easily manageable. Data also indicates that the yield has increased by 2.6 %. 
+62
+Table 2.2.10: Impact of paddy drum seeder in Kumarakom village,  Kottayam district
+Intervention
+Yield 
+(q ha-1)
+Cost of cultivation 
+(₹ ha-1)
+Net return 
+(₹ ha-1)
+BC 
+ratio
+Sowing with paddy drum seeder
+51.8
+61690
+93215
+2.5
+Farmers practice
+50.5
+69852.5
+87947.5
+2.26
+Scope for upscaling
+The technology can be upscaled by making available the equipment through custom hiring 
+centres and through various programmes being implemented by the State and Central 
+government.
+Sowing of paddy by drum seeder in Kumarakom, Kottayam District
+63
+Targeted application of micronutrients in paddy with drone for 
+higher use efficiency and crop yield
+Background
+The application of micronutrients improved the crop yields in rice. Aerial application helps 
+in rapid utilization of nutrients and permits the correction of deficiencies in less time than 
+would be required by soil application.
+Resilient technology
+‘Sampoorna KAU multimix’ for rice is a micronutrient mixture developed by Kerala 
+Agricultural University according to the soil behaviour of Kerala. This can be applied 
+through foliar spray and it is completely soluble in water. The major ingredients of the mix 
+are Zinc (5 - 7%), Boron (3.5 - 4.5%), Copper (0.3 - 0.5%), Iron (< 0.2%), Manganese (< 
+0.2%) and Molybdenum (< 0.02%). The mix is diluted in water as per the recommendation 
+of the Kerala Agricultural University, i.e. 5 g of Sampoorna KAUmix was added to one 
+litre of water. The actual quantity of Sampoorna KAU mix for one acre amounts to 2 kg. 
+The spray volume required for 1 ha with the developed attachment is estimated at 201 
+litres. 
+Performance and impact of technology
+Foliar sprays with drone has been proven as an effective method for reducing the spray 
+volume and operating time to less than one-third of that required by the conventional 
+method. KAU Sampoorna micronutrient mixture was aerially sprayed using drones @ 2 kg 
+acre-1 at tillering and panicle initiation stages to evade micronutrient deficiencies in the 70 
+acre lowland paddy fields of Thekkepallipadam Padashekaram, Kumarakom of Kottayam 
+district.  Aerial spray of micronutrients supplied the adequate quantity of nutrients to the 
+plants in the demo plots. Spraying with a drone using nozzle produces a small particle size 
+so that the surface becomes wider. This results in greater penetration to the leaf surface. All 
+these resulted in the formation of a greater number of healthier tillers and other yield 
+contributing attributes such as number of grains per panicle and 1000 grain weight over the 
+control. Enhancement in these parameters lead to a yield increase of 24.76% in the demo 
+plots over control, contributing to lower cost of cultivation in the demo plots. The net 
+returns were also higher in the demo plots. Thus BC ratio could be enhanced to 2.59 over 
+2.18 in the control plot. 
+64
+Table 2.2.11: Impact of targeted application of micronutrients in paddy in 
+Kumarakom village, Kottayam district
+Intervention
+Yield 
+(q ha-1)
+Cost of cultivation 
+(₹ ha-1)
+Net return 
+(₹ ha-1)
+BC ratio
+Targeted application of micronutrients 
+using drone
+58.0
+67077.5
+106160.5
+2.59
+Farmers practice
+46.49
+63560.9
+96435.81
+2.18
+Scope for upscaling
+The technology can be scaled up by making available the drones through various 
+programmes being implemented by the State and Central government.
+Targeted application of micronutrients in paddy in Kumarakom, Kottayam district
+65
+Drone usage in rice cultivation for targeted application to enhance use 
+efficiency of micronutrients
+Background
+Rice, in Kerala, is majorly cultivated through manual transplanting under puddled 
+conditions using large quantity of ground water. It requires 5000 litres of water to produce 
+1kg of rice and the high-water requirement of rice is mainly due to percolation losses. Rice 
+being a water exhaustive crop, requires 500 l of water for single application of nutrients 
+in 1 ha. Padichira village’s farmers cultivate rice by puddled transplanting by extracting 
+the underground water and involving huge drudgery demanding higher cost of production. 
+Hence application of micronutrients with drones was recommended 
+Resilient technology
+KAU multimix Sampoorna spray @ 2 kg acre-1 was given at 30 and 50 days after transplanting 
+and bio control agent liquid pseudomonas @ 1l acre-1 was sprayed 20 and 45 days after 
+transplanting through drone in the Padichira village. Application of micronutrients through 
+drone helps to conserve water as it only requires 37.5 l to spray micro nutrients in 1 ha as 
+compared to 500 l. in addition helps in uniform spray, and saves man days. This in short 
+is a water saving technology. During the year of 2022-23, KVK Wayanad conducted 4 
+demonstrations covering 30 ha with drone technology,
+Performance and impact of technology
+Demonstration of drone technology in rice saved 10-15% of irrigation water in rice. It saved 
+₹ 3000-3500 ha-1 by reducing the expenditure on application of plant protection chemicals. 
+The area under drone technology in the Padichira village has spread to 64 ha which was 
+during 2021. During the year of 2022-23, KVK Wayanad conducted 4 demonstrations 
+covering 30 ha with drone technology, which yielded 18.53% higher yield than that of the 
+transplanted rice and farmers earned a net return of ₹ 82052 ha-1. 
+Table 2.2.12: Impact of drone technology in Padichira village
+Intervention
+Yield
+(q ha-1)
+Cost of 
+cultivation 
+(₹ ha-1)
+Gross return 
+(₹ ha-1)
+Net return
+ (₹ ha-1)
+BC 
+ratio
+Application of sampoorna KAU multimix 
+and bio control agent liquid pseudomonas 
+@ 1l acre-1
+48.6
+42,550
+124602
+82052
+2.92
+Farmer’s practice
+41
+43,950
+106170
+62220
+2.41
+66
+Scope for upscaling
+The targeted application technology with drones can be upscaled to the entire districts 
+through skill development in convergence with State departmental activities, Central 
+programmes, FPO and ATMA.
+Drone based targeted application in rice 
+in Wayanad district of Kerala
+67
+Cultivation of cowpea variety VBN3 in summer rice fallow in 
+Wayanad district of Kerala
+Cultivation of cowpea variety-VBN3 in summer rice fallow for 
+enhancing soil fertility and crop yield
+Background
+Conventional rice cultivation involves intensive tillage followed by intensive puddling 
+in standing water which destroys soil aggregation and depletes carbon pools. Crop 
+diversification with pulses in rice fallows helps to restore soil quality organic carbon, and 
+utilizes residual moisture. Hence diversification with the inclusion of short duration high 
+yielding pulse crop is an viable option for the horizontal expansion of area under pulse, as 
+well as for the improvement of the overall system productivity and soil resilience.
+Resilient technology
+Cowpea var VBN3 is used for converting fallow land to annual crops in the Padichira 
+village, Wayanad district during the year of 2022-23, KVK, Wayanad conducted 4 
+demonstrations covering 18 ha.
+Performance and impact of technology
+The area under demonstration in the Padichira village has spread to 18 ha which was 
+nil during 2021. This technology increased the yields by 10.65% more than that of the 
+conventional practice and farmers earned net returns of ₹ 29171 ha-1. 
+Table 2.2.13: Impact of crop diversification with cowpea variety VBN3 in rice fallow 
+in Padichira village, Wayanad district.
+Intervention
+Yield 
+(q ha-1)
+Cost of 
+cultivation 
+(₹ ha-1)
+Gross 
+return 
+(₹ ha-1)
+Net return 
+(₹ ha-1)
+BC 
+ratio
+Crop diversification with cowpea
+variety VBN3
+9.5
+17820
+46991
+29171
+2.63
+Farmer’s practice
+4.6
+15400
+30680
+15280
+1.99
+Scope for upscaling
+The cultivation of cowpea var. VBN3 in rice fallow can be upscaled to the entire district 
+through convergence with State departmental activities and ATMA.
+68
+Resource conservation and eco-friendly technologies for climate resilience in 
+paddy cultivation in Kuttanad region of Kerala
+Background
+Kuttanad region is a major rice growing tract in Kerala which lies below MSL. Inherent 
+soil acidity, pest incidence and crop loss due to lodging by summer showers are the major 
+constraints faced by the paddy farmers in the region. Use of high quantity of seeds for 
+broadcasting and indiscriminate use of chemical pesticides and fertilizers resulted in large 
+scale environmental degradation. Hence a package of resource conserving and eco-friendly 
+technologies comprising of (i) Dolomite application (@ 600kg ha-1) for correcting the soil 
+acidity, (ii) use of Drum Seeder for sowing to reduce the seed rate, (iii) soil test based 
+fertilizer application to correct the indiscriminate use of fertilizers, (iv) seed treatment 
+with Pseudomonas and (v) use of Trichocards for pest management was introduced for 
+resilience. 
+Resilient technology
+A package of ecofriendly technologies comprising of (i) Dolomite application (@ 600kg 
+ha-1) for correcting the soil acidity, (ii) use of Drum Seeder for sowing to reduce the seed 
+rate, (iii) soil test based fertilizer application to correct the indiscriminate use of fertilizers, 
+(iv) seed treatment with Pseudomonas and (v) use of Trichocards for pest management was 
+demonstrated to farmers of Kuttanad region of kerala
+Performance and impact of technology
+Seed requirement could be reduced to 30 kg ha-1 from of 100 -120 kg ha-1 and thus reducing 
+the cost of seed to almost 25%.  By the application of Dolomite as liming materials, soil 
+acidity could be reduced and corrected the magnesium deficiency.  Cost of fertilizers 
+could be reduced by 30% based on Site Specific Nutrient Management (SSNM). As plant 
+population was optimum, the number of productive tillers was high and the adequate 
+aeration resulted in reduced susceptibility to pest and diseases. Plant has strong anchorage 
+and survived lodging compared to 17.2% crop loss due to lodging in traditional broadcasted 
+crop. Use of chemicals for the management of pests and diseases could be avoided or 
+brought to minimum. Thus this technology package offered resilience to summer showers 
+in the harvesting stage and overall resulted in higher growth and yield, reduced use of 
+inputs and thus environmental pollution, higher net profit, and enhanced climate resilience.
+69
+Table 2.2.14: Comparison of the package of climate resilient practices with traditional 
+practices in Kuttanad region
+Item
+Technology package
+Conventional system
+Profit (₹ ha-1)
+Seeds (kg ha-1)
+30
+125
+3800
+Fertilizer (kg ha-1)
+320
+450
+1726
+Lime (kg ha-1)
+600
+100
+-5000
+Plant protection (₹ ha-1)
+3000
+1500
+-1500
+Harvest time (hrs ha-1)
+3.8
+7.6
+6840
+Yield (t ha-1)
+6.62
+5.52
+19800
+Net profit (₹ ha-1)
+72422
+48455
+25666
+Table 2.2.15: Comparison of paddy yield and economics
+Year
+Yield (t ha-1)
+Gross cost (₹ ha-1)
+Net return (₹ ha-1)
+BC ratio
+TP
+CS
+TP
+CS
+TP
+CS
+TP
+CS
+2012-13
+5.72
+4.5
+46030
+53709
+51127
+22791
+2.1
+1.4
+2013-14
+7.18
+6.25
+44775
+50123
+90505
+77587
+3.0
+2.6
+2014-15
+6.94
+5.81
+57764
+68177
+73841
+42288
+2.2
+1.6
+(TP- Technology package     CS – Conventional system)
+Scope for upscaling
+Resource conservation and eco- friendly practices in paddy in Kuttanad region can be 
+upscaled  to the entire district through convergence with State departmental activities and 
+ATMA. 
+Resourse conservation and eco-friendly practices in paddy in Kuttanad region Kerala
+70
+Targeted spraying of micronutrients with UAV  for enhancing the rice yield  
+and minimizing fertilizer cost
+Background
+Unmanned Aerial Vehicles (UAVs) for spraying micronutrients in agriculture is an 
+innovative and efficiet approach that offers several advantages. The UAV is attached with 
+spray tanks, which can store the micronutrients and spray them over the crops. UAVs 
+enable precise and targeted application of micronutrients, reducing waste and ensuring 
+that the nutrients are delivered exactly where they are needed. UAVs can ensure a more 
+uniform distribution of micronutrients throughout the field. This uniformity can result 
+in consistent crop growth and development, reducing the risk of yield variations within 
+the same field. It will benefit farmers by increasing agricultural output, quality, and most 
+crucially, reducing workload.  With the rising scarcity of agricultural workers. The drone 
+gives the best solution as it reduces number of labour and cuts down the production cost in 
+conjunction with increased productivity and faster application rate thus saving time. 
+Resilient technology
+UAV was used for spraying micronutrients in paddy and was administered in 15 ha 
+area involving 20 farmers in Pattithara village of Palakkad district during 2022-23. The 
+micronutrient spray was carried out at the maximum tillering stage and panicle initiation 
+stage. 
+Performance and impact of technology
+The application of micronutrients through UAV took approximately 25-30 min-ha-1 and 
+led to cost reduction of ₹ 1000 ha-1 and  increased the yields by 14.01% as compared to the 
+conventional practices adopted by farmers. Net returns obtained was 92280 ₹ ha-1 for demo 
+and 15% additional income was obtained by the farmers as compared to traditional practice 
+of manual spraying.
+Table 2.2.16: Impact of targeted spraying of micronutrients with UAV in Pattithara 
+village, Palakkad district
+Intervention
+Yield 
+(q ha-1)
+Cost of cultivation 
+(₹ ha-1 )
+Gross return 
+(₹ ha-1 )
+Net return 
+(₹ ha-1 )
+BC ratio
+Targeted spraying of  
+micronutrients with UAV 
+62.8
+83560
+175840
+92280
+2.10
+Farmers practice
+55.08
+74120
+154224
+80104
+2.08
+71
+Scope for upscaling
+The targeted spraying of micronutrients with UAV in paddy can be spread to the entire 
+districts through convergence with State departmental activities and Central programmes.
+Targeted spraying of micronutrient with UAV in paddy fields of Pattithara Village, 
+Palakkad district
+72
+Targeted Integrated Nutrient Management (TINM) plan to manage 
+yellowing of Arecanut palms and to enhance the nut yeild
+Background
+Yellowing of Arecanut is a serious problem leading to around 50% yield loss in the area. 
+The major reason of yellowing is loss of top fertile soil due to heavy rains in addition 
+to poor nutrient management. Targeted Integrated Nutrient Management (TINM) is a 
+holistic approach that involves the balanced use of organic and inorganic nutrient sources 
+optimizes nutrient availability in the soil. This strategy aims to address nutrient deficiencies 
+and imbalances, including those associated with the yellowing of arecanut palms. 
+Resilient technology
+Targeted Integrated Nutrient Management plan was formulated based on the soil nutrients. 
+Soil tests were conducted in the Arecanut field to assess nutrient levels and pH in the soil 
+in Pattithara village, Palakkad district. Based on the soil tests, a balanced mix of essential 
+nutrients, including 10 kg of OM, recommended dose of NPK, 250 g lime, 100 g MgSO4, 
+25 g Zinc, 20 g Boron per palm are applied. Targeted Integrated Nutrient Management 
+(TINM) was implemented for five farmers in Pattithara village, Palakkad district. For the 
+demonstration, 50 palms were selected for each farmer. 
+Performance and impact of technology
+Targeted Integrated Nutrient Management (TINM) plan to manage yellowing of Arecanut 
+palms in Pattithara village, Palakkad district was implemented in Arecanut farms of five 
+farmers. For the demonstration, 50 palms were selected for each of the arecanut farmer. 
+The Targeted Integrated Nutrient Management improved the Arecanut yields and net 
+returns by 25 and 49% as compared to farmers' practice. In addition there was a significant 
+reduction in disease severity by 46% within three months and further 90% reduction was 
+observed within seven months. Fresh green colour leaves emerged, indicating decrease in 
+the severity of the disease. 
+Table 2.1.17: Impact of Targeted Integrated Nutrient Management (TINM) on 
+yellowing of Arecanut palms in Pattithara village, Palakkad district
+Intervention
+Yield 
+(q ha-1)
+Cost of cultivation 
+(₹ ha-1)
+Gross return 
+(₹ ha-1)
+Net return 
+(₹ ha-1)
+BC ratio
+TINM practice
+28.21
+501100
+846300
+345200
+1.6
+Farmers practice
+22.50
+442502
+675000
+232498
+1.5
+73
+Scope for upscaling 
+The technology can be upscaled to the entire districts through convergence with State 
+Departmental activities and Central programmes.
+Targeted Integrated Nutrient Management Plan to manage yellowing of Arecanut palms 
+in Pattithara village, Palakkad district
+2.3
+Promising Livestock & 
+Fisheries Production 
+Technologies
+77
+Sustainable Integrated Fish Farming (IFF) in low lying coconut channels and 
+rain water harvesting structures
+Background 
+Integrating aquaculture within these channels not only maximizes land utilization but also 
+harnesses the natural synergy between coconut cultivation and fishery. Complemented by 
+rainwater harvesting structures, this approach ensures a resilient and eco-friendly model, 
+fostering a harmonious coexistence of agriculture and aquaculture in a water-scarce 
+environment.
+Resilient technology
+There are lots of coconut garden channels in Kozhikode district which are water logged. 
+These channels are unutilized and have been infested with floating aquatic weeds like 
+Salvinia. These channels can be effectively used for culturing fishes. Integrated Fish 
+farming in coconut based farming system will help farmers to get extra income from fish 
+culture. The ammonia and other nutrients released from fish culture helps to improve the 
+yield from the palms also. Similarly, in areas with water scarcity, rainwater harvesting 
+structures have been constructed using tarpaulin sheets. In some instances, these have been 
+utilised for aquaculture mostly using improved strains of Nile Tilapia. These pools have 
+lower water levels during summer; have excessive phytoplankton blooms, low dissolved 
+oxygen and high ammonia thereby reducing growth and survival of fishes. Tilapia has 
+fewer consumer demand and market value, hence many farmers have backed out from fish 
+farming. Murrels are air breathing, hardy fishes and have high consumer demand, they can 
+be stocked at higher density of 5 nos m-2 when compared with Tilapia which can only be 
+stocked @ 2-3 nos m-2 without aeration and filtration facilities. Thus, Murrel cultures with 
+formulated feed are ideal for these artificial pools. The ammonia rich pond water can be 
+irrigated for crops and the same amount can be replenished to the pond there by improving 
+the health of fish and crops.
+Performance and impact of technology
+Low availability of Murrel seed and formulated feed were the major bottlenecks in 
+Murrel farming in Kerala, despite being a high value fish. Recently, hatchery reared 
+seeds and commercial formulated feed have become available. These were introduced 
+in Maruphonkara village. Murrel fish (Channa striata) were stocked in coconut palm 
+channels after, cleaning, removal of aquatic weeds, eradicating weed fishes, bird fencing 
+78
+and following pre-stocking management practices. Murrel fingerlings were also stocked 
+in artificial ponds mainly used for rainwater harvesting. In both the cases Integrated Fish 
+Farming approach was followed by irrigating crops with pond water and replenishing water 
+in ponds. The production from Murrel farming was 238 q ha-1 when compared to Tilapia 
+which yielded 79.5 q ha-1. This higher production was as a result of higher stocking density 
+of Murrels being hardy and air berating in nature. The marginal increase in BC ratio from 
+Murrel farming 2.03 to tilapia 2.02 was due to higher feed cost for Murrels when compared 
+to Tilapia. The survival rate of Tilapia was 85% when compared to Murrels 68% indicating 
+the cannibalistic nature of murrels if underfed especially during the initial culture period. 
+Overall, the farmers were happy with Murrel farming as they had good market demand and 
+the fish were sold twice the price of Tilapia. There was also improvement in the health of 
+coconut palm and horticulture crops when pond water was used for irrigation.
+Table 2.3.1: Sustainable Integrated Fish Farming in low lying coconut channels - 
+(Murrel farming)
+Interventions
+Yield (q ha-1)
+Gross Cost 
+(₹ day-1)
+Gross return 
+(₹ day-1)
+Net return 
+(₹ day-1)
+BC ratio
+Murrel farming
+238
+4100000
+8330000
+4230000
+2.03
+Farmers practice
+79.5
+787500
+1590000
+802500
+2.02
+Scope for upscaling
+Murrel farming will be taken up in more artificial tanks in Maruphonkara village than in 
+natural ponds, as its harvesting from natural ponds was found to be bit laborious due to its 
+burrowing habit. Some pilot scale farming is also being taken up in Kozhikode by the State 
+fisheries department replacing Pangassius in their air breathing fish culture projects.
+Integrated Fish Farming in Maruphonkara village, Kozhikode district
+79
+Supplementation of area specific mineral mixture for enhancing 
+resilience in dairy animals
+Background 
+Ailoring mineral supplements to the specific needs of local environments enhances the 
+resilience of dairy animals, addressing deficiencies and bolstering overall health. This 
+targeted approach not only optimizes productivity but also fortifies the adaptability of the 
+dairy herd, ensuring sustainable and robust livestock management practices.
+Resilient technology
+Problem of mineral deficiency and metabolic disorder in all categories of dairy animals 
+have been reported due to lower content and low bioavailability of minerals in feed stuffs. 
+There is need for the supplementation of mineral mixture to dairy animals. Mineral mixture 
+contains all the essential minerals in required quantities. Supplementing mineral mixture 
+will help in improving growth rate in calves, increasing milk production, reduces heat 
+stress, improves reproductive efficiency and reduce calving interval, increase productive 
+life of animals and improve immunity. It can be given at the rate of 50g day-1animal once in 
+a day along with the animal feed as per the recommendation of ICAR-NAINP, Bengaluru. 
+It will improve overall animal health and immunity and productivity during stress.
+Performance and impact of technology
+The use of mineral mixtures has not only helped in increasing the milk yield but also 
+alleviated problems of anoestrus and repeat breeding to a large extent in Wayanad district of 
+Kerala. In a demonstration involving 65 farmers with 120 animals, conducted in a Padichira 
+village, during 2017-18 in creased milk yield day-1 was observed with the animals being 
+supplemented with balanced mineral mixture to an extent of 18.02% over local practice. It 
+has also recorded increased net returns (23.71%) and BC ratio (8.27%) than local practice. 
+Usage of area specific mineral mixture for animals has increased from 5-10% to 60-70% 
+among farmers in Padichira village, Wayanad district. This intervention is well adopted by 
+the farmers of Padichira village.
+80
+Table 2.3.2: Performance of balanced mineral mixture supplementation to cow and 
+buffalo in Padichira village, Wayanad district
+Interventions
+Milk yield 
+(l day-1)
+Gross cost 
+(₹ day-1)
+Gross 
+return
+(₹ day-1)
+Net return 
+(₹ day-1)
+BC ratio
+Mineral mixture 
+supplemention
+18
+425
+756
+331
+1.78
+Farmers practice
+14
+350
+476
+126
+1.36
+Scope for upscaling
+Use of mineral mixture supplementation to cow and buffalo can be upscaled widely through 
+the Animal Husbandry department, National Livestock Mission and also by providing them 
+on subsidy. Local entrepreneurship can also be encouraged which can further contribute to 
+upscaling.
+Mineral mixture supplementation to dairy farmers in Wayanad district
+81
+Climate resilient cages for backyard poultry farming
+Background 
+In flood-prone areas, where conventional poultry farming is vulnerable to submersion and 
+contamination, the implementation of floating cages enhances the resilience of poultry 
+operations, safeguarding food production, economic stability, and the livelihoods of 
+communities in the face of climate-related challenges.
+Resilient technology
+Poultry farming during monsoon seasons in the village is affected with flooding and most 
+of the people lose their poultry in the flood. Outbreak of diseases is another major problem 
+due to flood. The traditional method of housing of poultry in small cages couldn’t protect 
+them from these situations. Therefore, poultry cages on raised platform was demonstrated 
+to the farmers. Poultry cages were fabricated to accommodate 20 birds in 120 x 90 x 75 cm 
+size using wire mesh on all the sides, wooden planks at the bottom and tin sheet as roofing 
+material. The height of the cage was standardized at 120 cm using GI pipes to withstand 
+flood. Since, the bottom of this cage is fixed with wooden planks and filled with saw dust, 
+poultry manure could be effectively utilized for homestead farming. At the same time birds 
+could be saved from flood and predators.
+Performance and impact of technology
+Mortality rate of chicks was reduced to 13% in the new cages compared to 53% in the 
+traditional cages.  The average egg production increased by 231% and each household 
+could obtain a net return of ₹ 3682 compared to ₹ 432 without intervention. Thus these 
+interventions resulted in almost self sufficiency of egg production and a decent income 
+to the families of  Edathua village, Alappuzha district with minimum investments and 
+efforts. These cages could survive the birds in the worst ever floods in 2018 and 2019. Farm 
+women could earn an additional annual income of ₹ 4000 after meeting the household 
+consumption.
+Based on the observations from the units where the above said climate resilient measures 
+were adopted, the average no of bird stock per unit increased from 9 to 22. About 150 cages 
+were demonstrated in the Edathua village, Alappuzha district with 50% contribution from 
+partner farmers but  more than 300 such poultry cages have been established by farmers 
+themselves in these villages.
+82
+Table 2.3.3: Comparison of profitability of backyard poultry rearing in conventional 
+and modified cages (average no of 20 birds unit-1) in Edathua village, Aalppuzha 
+district
+Sl. No
+Parameter
+Conventional 
+cages
+Modified cages
+1
+Mortality due to flood/disease outbreak (%)
+53
+13
+2
+Egg production (yr-1)
+810
+2684
+3
+Sale of spent (kg) yr-1 (in addition to own use)
+5
+15
+4
+Gross annual cost (₹)
+4151
+12266
+5
+Gross annual return (₹)
+4588
+15978
+6
+Net annual return (₹)
+432
+3682
+7
+BC ratio
+1.1
+1.3
+Scope for upscaling
+The cages for backyard poultry farming can be upscaled widely through the ATMA, 
+Animal Husbandry department, Local Self Governments and other concerned agencies by 
+incorporating in their schemes and availing financial or input subsidies to farmers.
+Cages for backyard poultry farming in Edathua village, Alappuzha district
+83
+Climate resilient goat sheds with elevated floor 
+Background 
+Alappuzha experiences a tropical climate with high temperatures, humidity, and seasonal 
+variations in rainfall. This climatic pattern can pose challenges to goat farming by exposing 
+the animals to heat stress, diseases, and occasional flooding, especially during the monsoon 
+season. The raised floors help in better managing heat stress by improving ventilation and 
+airflow, preventing the accumulation of excess moisture, and offering protection against 
+waterlogging during heavy rains or floods. This climate-resilient infrastructure not only 
+enhances the overall well-being and productivity of goats but also ensures the sustainability 
+of goat farming practices in the face of unpredictable weather conditions in the region.
+Resilient technology
+In the Kuttanad villages prone to water-logging every year, goat farmers follow the 
+traditional system of goat rearing by keeping a wooden flank on the floor of the shed and 
+whenever flood occurs, they simply raise the wooden plank by keeping on bricks. In this 
+system mortality is higher due to cold stress and disease outbreak, apart from this, growth 
+rate is lower due to inbreeding. To address this issue, a custom designed goat shed of 6 m2 
+floor area to accommodate 10 goats was fabricated with materials like PVC pipes, square 
+tubes, chain links and shade net, and fixed at 4 ft height from the ground level which was 
+ideal as a household unit. The average cost of fabricating this structure was ₹ 35000/- 
+which could easily be recovered in a year time with 10-15 goats.
+Performance and impact of technology
+The average net income from such a modified unit of 10 goats was worked out to be ₹ 
+56920 annually on account of the reduced mortality and better growth of the animals. 
+Before this intervention, whenever a flood occurs, farmers simply sell out the animals for 
+a throw away price for lack of shelters. The partner farmers were happy that they could 
+survive the goats even during the infamous floods of 2018 and 2019. As the shelter was 
+fixed 1 m above the ground level, flood water never affected the shed and animals. The 
+income from the goat increased as they keep the animals throughout the year.
+About 90 such goat sheds were demonstrated in three panchayaths as part of the NICRA -TDC
+project during the last decade, another 150 similar cages were constructed by farmers 
+themselves.
+84
+Table 2.3.4: Comparative economic analysis of the elevated foat sheds (average no of 
+10 goats unit-1)
+S.No
+Parameter
+Conventional cages
+Modified cages
+1
+Mortality due to flood, disease outbreak
+40
+Nil
+2
+Gross cost (₹ yr-1)
+50,800
+80,080
+3
+No of kids yr-1
+4
+11
+4
+Gross income (₹ yr-1)
+54,000
+1,37,000
+5
+Net income (₹ yr-1)
+3,150
+56,920
+Scope for upscaling
+The elevated foat sheds can be upscaled widely through the ATMA, Animal Husbandry 
+department, Local Self Governments and other concerned agencies by incorporating in 
+their schemes and availing financial or input subsidies to farmers.
+Climatic resilient goat sheds with elevated floor in Kuttanad village, Kozhikode district
+85
+Floating duck shelters for overcoming floods
+Background
+Duck farming is a traditional and location suited economic activity in Kuttanad region, 
+which lies below mean sea level and having a lot of water bodies. But the flood occurring 
+on almost every monsoon season makes this farming activity difficult as the ducks are 
+flown away in most of the cases. 
+Resilient technology
+The floating shelter was fabricated using GP pipes, PVC pipes and Trafford sheets in 8 ft 
+(L) x 5 ft (B) x 7 ft (H) and fixed over the sealed plastic barrels (4 barrels and one no on 
+each side). This shelter was allowed to floats freely on water body after tethering with a 
+long rope from the side bund. Shelter will not submerge even if the water level rises and 
+the shelter also floats at the water level. For routine operations like feeding of ducks and 
+collection of eggs the shelter is pulled near the bund and again allowed to float after all 
+operations. In the floor of the shelter, PVC pipes (wiring pipes 3/4”) paved evenly in the 
+gap of 1.5 cm which allows the faecal materials of duck to drop through this gap.  This 
+facilitates the culture of fish in the ponds as an integrated system. 
+Performance and impact of technology
+Floating duck shelter farmers can rear ducks throughout year without the fear of flood and 
+earn reasonable income from duck farming in Wayanad district. Whenever flood occurs, 
+farmer could go to the shelter using a fibre boat or any floating type vessel for feeding the 
+ducks, if necessary. This PVC pipes are durable and last for more than 20 years. Family 
+members are enough to manage such units and external labour is normally not required. 
+Table 2.3.5: Performance and economics of the floating duck shelters in Wayanad 
+district
+Intervention
+No of ducks
+area-1
+Production
+Gross cost
+(₹)
+Gross 
+income 
+(₹)
+Net income 
+(₹)
+BC ratio
+Duck &
+fish integrated 
+farming with 
+floating duck 
+shelter
+40 nos
+9125 eggs
+51,750
+91,250
+39,500
+2.1
+70 cents
+550 kg fish
+40,500
+1,01,200
+60,700
+  Total
+92250
+1,92,450
+1,00,200
+86
+School students, RAWE students and more than 25 farmers groups from the different parts 
+of district visited these floating units. This technology was documented and published as 
+popular article in leading agricultural magazines. Nearly 60 farmers have replicated this 
+technology in Kuttanad Taluk after visiting this unit.
+Scope for upscaling
+The practice of using floating duck shelters can be upscaled widely through the ATMA, 
+Animal Husbandry department, Local Self governments and other concerned agencies by 
+incorporating in their schemes and availing financial or input subsidies to farmers.
+Floating duck shelters for overcoming floods in Wayanad district
+3
+Climate Resilient 
+Technologies for Risk Prone 
+Districts of Kerala and 
+Approaches for Upscaling
+89
+Climate Resilient Technologies for Risk Prone districts of Kerala
+Districts of Kerala are broadly categorized based on their proneness to risk into very high 
+risk, high risk, medium risk and low risk based on comprehensive risk assessment (Ramarao 
+et al., 2019). Based on the on-farm experimentation being taken up as part of Technology 
+Demonstration Component of (TDC) NICRA and also other studies, technologies which 
+can impart resilience to climate change and variability for various risk prone districts of 
+Kerala are indicated. The specific technologies for each of the farming situation in these 
+districts depend on the predominant production systems, resource availability and the 
+production objectives of the farmer. Promising resilient technologies for each of the risk 
+prone categories for different districts of Kerala are as follows.
+Fig 27. Very High Risk districts of Kerala under NICRA-TDC
+Very High Risk districts
+90
+Very High Risk districts of Kerala
+Alappuzha, Ernakulam, Kasargod, Kollam, Kottayam, Kozhikode, Pathanamtitta, 
+Thiruvanantapuram
+ Carbon sequestration through composting of aquatic weeds
+ Resource conserving and eco-friendly technologies offer climate resilience in paddy 
+cultivation 
+ Enhancing sustainability in coconut farming: integrated practices for soil moisture 
+conservation, acidity correction and nutrient management
+ Demonstration of short duration high yielding green gram variety CO8 in summer rice 
+fallows with foliar application of Pulse Wonder through drone
+ Excellence of Yard-Long Bean: KAU Deepika for cultivation in highly shaded 
+homesteads
+ Rainy Season Resilience: KAU Vaika, a promising variety of  Amaranth  for monsoon 
+cultivation
+ The versatility of multi-cut Amaranth variety Vlathamkara cheera for rainy season 
+cultivation
+ Paddy sowing using drum seeder
+ Three - tier vertical structures for homestead vegetable cultivation
+ Crop calendar for lowland paddy cultivation
+ Targeted aerial application of micronutrients in paddy
+ Floating duck shelters for overcoming floods
+ Modified rain shelter for year round vegetable cultivation
+ Climate resilient cages for backyard poultry farming
+ Climate resilient goat sheds with elevated floor
+ Integrated Fish Farming (IFF) in low lying coconut channels and rainwater harvesting 
+structures
+91
+Fig. 28. High Risk districts of Kerala under NICRA-TDC
+High Risk districts of Kerala
+Kannur, Malappuram, Palakkad, Thrissur and Wayanad
+	 Enhancing sustainability in coconut farming: integrated practices for soil moisture 
+conservation, acidity correction and nutrient management
+ 	 Installation of wooden planks in existing check dams and construction of field bunds
+ 	 Climate smart technologies for homestead vegetable cultivation
+ 	 Enhancement of storage capacity using surface runoff rainwater through roads
+ 	 Recycling of organic residues for crop production using bioinoculants
+ 	 Improving water holding capacity in coconut plantations by husk burial in basins
+ 	 Sand bag reinforced temporary check dam construction
+ 	  Targeted spraying (UAV) of micronutrients
+ 	 Targeted Integrated Nutrient Management to manage  yellowing of Arecanut
+High Risk districts
+92
+ 	 Excellence of Yard-Long Bean (KAU Deepika) for cultivation in highly shaded 
+homesteads 
+ 	 Rainy season resilience: KAU Vaika, a promising variety of  Amaranth  for monsoon 
+cultivation
+ 	 The versatility of multi-cut Amaranth variety Vlathamkara cheera for rainy season 
+cultivation
+ 	 Mechanical transplanting of rice
+ 	 Inter-cultivation of coconut garden using garden tiller 
+ 	 Targeted application of micronutrient using drone-Sampoorna KAU multimix
+ 	 Crop rotation of rice with pulse
+ 	 Crop calendar for lowland paddy cultivation
+ 	 Paddy sowing using drum seeder
+ 	 Cultivation of cowpea for summer rice fallow field
+ 	 Integrated Fish Farming in low lying coconut channels and rainwater harvesting 
+structures
+	 Supplementation of mineral mixture for enhancing productivity in dairy animals
+93
+Scope for upscaling promising climate resilient technologies
+As part of the National Innovations in Climate Resilient Agriculture (NICRA) Technology 
+Demonstration Component (TDC), several robust strategies with the potential to mitigate 
+the effects of climate change and variability were identified. Through participatory 
+demonstrations, various technologies were pinpointed for implementation in 151 districts 
+across the country, effectively reducing the impacts of climate change. It is crucial to scale 
+out or scale up these options and technologies to counteract the adverse effects of climate 
+change
+The resilient practices identified as promising within the NICRA-TDC can be seamlessly 
+integrated into the existing developmental programs of the country. Numerous programs, 
+including the National Mission on Sustainable Agriculture, Mahatma Gandhi National 
+Rural Employment Guarantee Programme, and Watershed Development Programme, are 
+already operational in several districts. Some of these resilient practices form integral 
+components of these programs, and location-specific resilient technologies need to be 
+incorporated to benefit a larger number of farmers. While certain developmental programs 
+are currently limited to specific locations, there is a pressing need to expand the reach of 
+these programs, especially those incorporating resilient practices.
+Certain natural resource management technologies require substantial initial investment 
+to mitigate the adverse impacts of climate change. Due to the diverse guidelines and 
+implementation mechanisms across various departments piloting these programs, there is 
+a need for convergence at the village level. This ensures that farmers can avail themselves 
+of these programs based on their resource endowments and specific farming situations. 
+Targeting proven practices depends on the biophysical environments, prevailing production 
+systems, and associated vulnerabilities.
+Resilient practices, such as drought-tolerant crop varieties, intercropping systems, and 
+improved fodder crops, can be expanded by enhancing community capacities and developing 
+local enabling mechanisms. The establishment and nurturing of local institutional 
+frameworks play a significant role in the adoption and spread of these practices. Policy 
+support is essential for the widespread implementation of climate-resilient technologies.
+94
+Literature cited
+1.	
+Climate change in Kerala, 2023, Kerala state climate change Knowledge portal, 	
+	
+https://iccs.kerala.gov.in/?page_id=3010
+2.	
+District Contingency plans, ICAR-CRIDA, Hyderabad
+	
+https://indiawris.gov.in/wiki/doku.php?id=kerala
+3.	
+Kerala State Action Plan on Climate Change, 2023, Directorate of Climate Change 
+4.	
+Rama Rao, C.A., Raju, B.M.K., Islam, A., Subba Rao, A.V.M., Rao, K.V., Ravindra 
+Chary, G., Nagarjuna Kumar, R., Prabhakar, M., Sammi Reddy, K., Bhaskar, S. and 
+Chaudhari, S.K. 2019. Risk and Vulnerability Assessment of Indian Agriculture to 
+Climate Change, ICAR-Central Research Institute for Dryland Agriculture, Hyderabad, 
+P.124.]
+5.	
+Soils of Kerala, 2023, Department of soil survey and conservation, Govt. of Kerala 
+https://www.keralasoils.gov.in/en/soils-kerala 
+6.	
+Water resources in Kerala, India WRIS, 2023
+7.	
+Ground water resources of Kerala, 2022

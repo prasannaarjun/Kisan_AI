@@ -8,7 +8,6 @@ import sys
 import subprocess
 import time
 import signal
-import threading
 from pathlib import Path
 
 class KisanAILauncher:
@@ -106,8 +105,8 @@ class KisanAILauncher:
         print("\n🚀 Starting backend server...")
         try:
             self.backend_process = subprocess.Popen([
-                sys.executable, 'app.py'
-            ], cwd='backend')
+                sys.executable, '-m', 'backend.app'
+            ])
             
             # Wait a moment for server to start
             time.sleep(3)

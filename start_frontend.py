@@ -5,7 +5,6 @@ Startup script for KisanAI frontend
 import os
 import sys
 import subprocess
-import json
 
 def check_node():
     """Check if Node.js is installed"""

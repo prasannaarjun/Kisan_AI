@@ -1,0 +1,45 @@
+# FastAPI stack
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+
+# Pydantic
+pydantic>=2.5.0
+
+# Audio & TTS
+torch>=2.8.0
+torchaudio>=2.8.0
+librosa>=0.10.1
+soundfile>=0.12.1
+pydub>=0.25.1
+ffmpeg-python>=0.2.0
+# parler-tts @ git+https://github.com/huggingface/parler-tts.git  # Commented out due to transformers version conflict
+
+# Transformers / LLM - Updated for Gemma 3 support
+transformers>=4.50.0
+accelerate>=0.24.0
+bitsandbytes>=0.41.0
+
+# LangChain stack (upgraded)
+# LangChain stack
+langchain>=0.1.0
+langchain-core>=0.1.52,<0.3
+langchain-community>=0.0.9
+langchain-huggingface>=0.0.3
+langgraph>=0.0.20
+
+
+# Vector search
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+
+# Utilities
+numpy>=1.24.3
+scipy>=1.10.1
+python-dotenv>=1.0.0
+requests>=2.25.0
+tqdm>=4.60.0
+huggingface-hub>=0.23.2
+websockets>=12.0
+python-multipart>=0.0.6
+langid>=1.1.6
+langdetect>=1.0.9

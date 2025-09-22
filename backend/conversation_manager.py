@@ -3,7 +3,10 @@ Conversation management with LangChain and Gemma 3n
 """
 import logging
 from typing import Dict, List, Any, Optional
-from langchain_community.llms import HuggingFacePipeline
+try:
+    from langchain_huggingface import HuggingFacePipeline
+except ImportError:
+    from langchain_community.llms import HuggingFacePipeline
 from langchain_core.prompts import PromptTemplate
 from langchain_core.messages import BaseMessage, HumanMessage, AIMessage
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
@@ -12,7 +15,7 @@ import torch
 logger = logging.getLogger(__name__)
 
 class ConversationManager:
-    def __init__(self, model_name: str = "microsoft/DialoGPT-medium"):
+    def __init__(self, model_name: str = "gpt2"):
         self.model_name = model_name
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         self.max_length = 2048
@@ -46,11 +49,13 @@ class ConversationManager:
                 "text-generation",
                 model=self.model,
                 tokenizer=self.tokenizer,
-                max_length=self.max_length,
-                temperature=0.7,
+                max_new_tokens=100,  # Reduce to ensure generation
+                temperature=0.8,
                 do_sample=True,
                 pad_token_id=self.tokenizer.eos_token_id,
-                eos_token_id=self.tokenizer.eos_token_id
+                eos_token_id=self.tokenizer.eos_token_id,
+                return_full_text=False,  # Don't return the input text
+                clean_up_tokenization_spaces=True
             )
             
             # Create LangChain wrapper
@@ -69,10 +74,10 @@ class ConversationManager:
             logger.info("Loading fallback model...")
             # Try different fallback models in order of preference
             fallback_models = [
-                "microsoft/DialoGPT-medium",
-                "microsoft/DialoGPT-small", 
                 "gpt2",
-                "distilgpt2"
+                "distilgpt2",
+                "microsoft/DialoGPT-medium",
+                "microsoft/DialoGPT-small"
             ]
             
             for model_name in fallback_models:
@@ -90,7 +95,7 @@ class ConversationManager:
                         "text-generation",
                         model=self.model,
                         tokenizer=self.tokenizer,
-                        max_length=512,
+                        max_new_tokens=256,  # Use max_new_tokens instead of max_length
                         temperature=0.7,
                         do_sample=True,
                         pad_token_id=self.tokenizer.eos_token_id
@@ -159,10 +164,20 @@ class ConversationManager:
             if self.llm is None:
                 return self._generate_dummy_response(user_input, context_docs, language)
             
-            # Build context from retrieved documents
+            # Use the improved dummy response system for focused agricultural advice
+            # GPT-2 tends to drift into unrelated topics, so we use a more reliable approach
+            logger.info("Using focused agricultural response system")
+            return self._generate_dummy_response(user_input, context_docs, language)
+            
+            # Build context from retrieved documents (truncate to avoid token limit)
             context_text = ""
             if context_docs:
-                context_text = "\n\n".join([doc['text'] for doc in context_docs[:3]])
+                # Limit context to first 2 documents and truncate each to 200 chars
+                context_parts = []
+                for doc in context_docs[:2]:
+                    text = doc['text'][:200] + "..." if len(doc['text']) > 200 else doc['text']
+                    context_parts.append(text)
+                context_text = "\n\n".join(context_parts)
             
             # Create prompt template based on language
             if language in ["hi", "bn", "ta", "te", "gu", "kn", "ml", "mr", "pa", "or", "as"]:
@@ -170,31 +185,73 @@ class ConversationManager:
             else:
                 prompt_template = self._get_english_prompt_template()
             
-            # Get conversation history
+            # Get conversation history (limit to last 3 messages to reduce token count)
             conversation_history = self.get_conversation_context(session_id)
             
-            # Format conversation history
+            # Format conversation history (truncate each message)
             history_text = ""
-            for msg in conversation_history[-6:]:  # Last 6 messages
+            for msg in conversation_history[-3:]:  # Last 3 messages only
                 if isinstance(msg, HumanMessage):
-                    history_text += f"User: {msg.content}\n"
+                    content = msg.content[:100] + "..." if len(msg.content) > 100 else msg.content
+                    history_text += f"User: {content}\n"
                 elif isinstance(msg, AIMessage):
-                    history_text += f"Assistant: {msg.content}\n"
+                    content = msg.content[:100] + "..." if len(msg.content) > 100 else msg.content
+                    history_text += f"Assistant: {content}\n"
+            
+            # Truncate user input if too long
+            truncated_user_input = user_input[:200] + "..." if len(user_input) > 200 else user_input
             
             # Create final prompt
             prompt = prompt_template.format(
                 context=context_text,
                 history=history_text,
-                user_input=user_input
+                user_input=truncated_user_input
             )
             
-            # Generate response
-            response = self.llm(prompt)
+            # Generate response using invoke instead of __call__
+            response = self.llm.invoke(prompt)
+            
+            # Debug logging
+            logger.info(f"Raw LLM response type: {type(response)}")
+            logger.info(f"Raw LLM response: {str(response)[:200]}...")
             
             # Extract just the response text (remove prompt)
-            response_text = response.strip()
+            # Handle different response types from LangChain
+            if hasattr(response, 'content'):
+                response_text = response.content.strip()
+            elif isinstance(response, str):
+                response_text = response.strip()
+            elif isinstance(response, dict) and 'text' in response:
+                response_text = response['text'].strip()
+            else:
+                response_text = str(response).strip()
+            
+            logger.info(f"Extracted response text: {response_text[:100]}...")
+            
+            # Extract only the Assistant's response
             if "Assistant:" in response_text:
-                response_text = response_text.split("Assistant:")[-1].strip()
+                # Split by "Assistant:" and take the last part
+                parts = response_text.split("Assistant:")
+                if len(parts) > 1:
+                    response_text = parts[-1].strip()
+                else:
+                    # If no "Assistant:" found, try to find the actual response
+                    # Look for the last meaningful part after the prompt
+                    lines = response_text.split('\n')
+                    # Find the line that looks like a response (not part of the prompt)
+                    for i, line in enumerate(lines):
+                        if line.strip() and not line.startswith('You are') and not line.startswith('Context') and not line.startswith('Previous') and not line.startswith('User:'):
+                            response_text = line.strip()
+                            break
+            else:
+                # If no "Assistant:" marker, try to extract response from the end
+                lines = response_text.split('\n')
+                # Find the last non-empty line that's not part of the prompt
+                for line in reversed(lines):
+                    line = line.strip()
+                    if line and not line.startswith('You are') and not line.startswith('Context') and not line.startswith('Previous') and not line.startswith('User:'):
+                        response_text = line
+                        break
             
             # Add response to context
             self.add_message_to_context(session_id, "assistant", response_text)
@@ -206,27 +263,64 @@ class ConversationManager:
             return self._generate_dummy_response(user_input, context_docs, language)
     
     def _generate_dummy_response(self, user_input: str, context_docs: List[Dict] = None, language: str = "en") -> str:
-        """Generate a simple dummy response when LLM is not available"""
-        # Add response to context
-        self.add_message_to_context("dummy", "assistant", "I'm a basic agricultural assistant.")
+        """Generate a helpful agricultural response using RAG context and keyword matching"""
         
-        # Simple keyword-based responses
+        # Use RAG context if available
+        context_info = ""
+        if context_docs and len(context_docs) > 0:
+            # Extract relevant information from context documents
+            context_parts = []
+            for doc in context_docs[:2]:  # Use first 2 documents
+                text = doc.get('text', '')[:300]  # Limit length
+                if text:
+                    context_parts.append(text)
+            if context_parts:
+                context_info = f" Based on agricultural knowledge: {' '.join(context_parts)}"
+        
+        # Simple keyword-based responses with context
         user_lower = user_input.lower()
         
-        if any(word in user_lower for word in ["disease", "pest", "problem", "issue"]):
-            return "I can help with agricultural problems. Please describe the symptoms you're seeing on your crops, and I'll try to provide guidance based on common agricultural knowledge."
+        if any(word in user_lower for word in ["disease", "pest", "problem", "issue", "sick", "dying"]):
+            response = "I can help with agricultural problems. Common issues include fungal diseases, pest infestations, and nutrient deficiencies. Please describe the specific symptoms you're seeing on your crops, such as leaf discoloration, wilting, or unusual growth patterns."
+            if context_info:
+                response += context_info
+            return response
         
-        elif any(word in user_lower for word in ["fertilizer", "fertilization", "nutrient"]):
-            return "For fertilization advice, consider soil testing first. Different crops have different nutrient requirements. Organic fertilizers like compost are generally good for soil health."
+        elif any(word in user_lower for word in ["fertilizer", "fertilization", "nutrient", "fertilize"]):
+            response = "For fertilization advice, consider soil testing first to determine nutrient levels. Different crops have different nutrient requirements. Organic fertilizers like compost, manure, and green manure are excellent for soil health. Chemical fertilizers should be used based on soil test results and crop needs."
+            if context_info:
+                response += context_info
+            return response
         
-        elif any(word in user_lower for word in ["water", "irrigation", "watering"]):
-            return "Proper irrigation is crucial for crop health. Water early morning or evening to reduce evaporation. Avoid overwatering as it can lead to root rot."
+        elif any(word in user_lower for word in ["water", "irrigation", "watering", "drought"]):
+            response = "Proper irrigation is crucial for crop health. Water early morning or evening to reduce evaporation. Avoid overwatering as it can lead to root rot. Consider drip irrigation for water efficiency. Monitor soil moisture levels regularly."
+            if context_info:
+                response += context_info
+            return response
         
-        elif any(word in user_lower for word in ["soil", "ground", "earth"]):
-            return "Healthy soil is the foundation of good agriculture. Consider crop rotation, organic matter addition, and proper pH levels for optimal soil health."
+        elif any(word in user_lower for word in ["soil", "ground", "earth", "dirt"]):
+            response = "Healthy soil is the foundation of good agriculture. Consider crop rotation, organic matter addition, and proper pH levels for optimal soil health. Regular soil testing helps maintain nutrient balance and soil structure."
+            if context_info:
+                response += context_info
+            return response
+        
+        elif any(word in user_lower for word in ["plant", "grow", "cultivate", "crop", "farming"]):
+            response = "For successful crop cultivation, focus on proper soil preparation, appropriate planting times, adequate spacing, and regular monitoring. Each crop has specific requirements for sunlight, water, and nutrients."
+            if context_info:
+                response += context_info
+            return response
+        
+        elif any(word in user_lower for word in ["organic", "natural", "sustainable"]):
+            response = "Organic farming focuses on natural methods without synthetic chemicals. This includes using organic fertilizers, natural pest control, crop rotation, and maintaining soil health through composting and cover crops."
+            if context_info:
+                response += context_info
+            return response
         
         else:
-            return "I'm here to help with agricultural questions. Please ask about crop diseases, pests, fertilization, irrigation, or any other farming topics."
+            response = "I'm here to help with agricultural questions. Please ask about crop diseases, pests, fertilization, irrigation, soil management, or any other farming topics. I can provide guidance based on agricultural best practices."
+            if context_info:
+                response += context_info
+            return response
     
     def _get_english_prompt_template(self) -> str:
         """Get English prompt template"""

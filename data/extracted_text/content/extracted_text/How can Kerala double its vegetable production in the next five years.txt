@@ -1,0 +1,4029 @@
+GOVERNMENT OF KERALA
+KERALA STATE PLANNING BOARD
+FOURTEENTH FIVE-YEAR PLAN 
+(2022-2027)
+WORKING GROUP ON
+HOW CAN KERALA DOUBLE  ITS  VEGETABLE
+ PRODUCTION IN THE NEXT FIVE YEARS
+REPORT
+AGRICULTURE DIVISION 
+March 2022
+FOREWORD
+Kerala is the only State in India to formulate and implement Five-Year Plans. The Government 
+of Kerala believes that the planning process is important for promoting economic growth 
+and ensuring social justice in the State. A significant feature of the process of formulation 
+of Plans in the State is its participatory and inclusive nature. 
+In September 2021, the State Planning Board initiated a programme of consultation 
+and discussion for the formulation of the 14th Five-Year Plan. The State Planning Board 
+constituted 44 Working Groups, with more than 1200 members in order to gain expert 
+opinion on a range of socio-economic issues pertinent to this Plan. The members of the 
+Working Groups represented a wide spectrum of society and include scholars, administrators, 
+social and political activists and other experts. Members of the Working Groups contributed 
+their specialised knowledge in different sectors, best practices in the field, issues of concern, 
+and future strategies required in these sectors.  The Report of each Working Group reflects 
+the collective views of the members of the Group and the content of each Report will 
+contribute to the formulation of the 14th Five-Year Plan. The Report has been finalised 
+after several rounds of discussions and consultations held between September to December 
+2021.
+This document is the Report of the Working Group on “How can Kerala double its 
+vegetable production in the next five years?” The Co-Chairpersons of Working Group 
+were Dr.T.Pradeep Kumar and Ms.C.A.Letha IAS. Dr.R.Ramakumar, Member of the State 
+Planning Board co-ordinated the activities of the Working Group.  Sri.S.S.Nagesh, Chief, 
+Agriculture Division was the Convenor of the Working Group and Smt.G. C. Roshni, 
+Agronomist, Agriculture Division was Co-Convenor. The terms of reference of the Working 
+Group and its members are in Appendix-1 of the Report
+Member Secretary
+PREFACE
+As part of formulation of the 14th Five Year Plan, the Kerala State Planning Board had 
+constituted working groups of experts in all the major sectors. In Agriculture and Allied 
+Sectors, 6 working groups were constituted viz. Agriculture and Cooperation, Animal 
+Husbandry and Dairy, Inland and Marine Fisheries, Forest and Environment, Water 
+Resources and Regional Packages. To discuss and frame policies in each of these sectors, 
+the working groups were further divided into 28 Expert Sub-Groups (ESG) with specific 
+mandates.
+Each Expert Subgroup held at least three meetings beside one focused group meeting before 
+finalising the report. We, the Co-Chairs, place our deep appreciation and gratitude to all 
+the esteemed members of the ESG for their valuable contributions in preparing the report. 
+We are extremely grateful to Dr. V. K. Ramachandran, the Honourable Vice-Chairperson, 
+Kerala State Planning Board, Dr. R. Ramakumar, Member, Kerala State Planning Board 
+Sri. S. S. Nagesh, Chief, Agriculture Division for their consistent guidance and suggestions 
+in preparing the report. The support provided by Dr. C. Anil Kumar, Assistant Director 
+and Smt. Shahida. M. N, Research Assistant in bringing out this report is appreciated. The 
+drafting team put in commendable work in bringing together all the views and opinions of 
+the members. We sincerely hope the recommendations in the report can lead to important 
+changes in the public policy on agricultural development in the State
+Dr.T.Pradeep Kumar	
+	
+	
+	
+	
+          Ms. C.A.Letha IAS
+Expert Co-Chairperson	 	
+	
+	
+	
+             Official Co-Chairperson
+1
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+CONTENTS
+Executive Summary
+05
+1.   Introduction
+9
+2.   Progress in area production and productivity of vegetables in Kerala
+11
+3.   Roadmap to double vegetable production in Kerala
+17
+4.   Participation of LSGIs, Co-operatives, and FPCs in vegetable 
+      production efforts 
+41
+5.   Modernising existing systems of vegetable production and 
+   integration with Government and LSGD schemes and post-
+      production activities
+45
+6.   Existing procurement and distribution system including government
+      initiatives and suggestions for a transparent, technology-driven                      
+   platform
+49
+7.   Reforming existing Government schemes to support vegetable
+      production
+57
+8.   Review of AIMS portal; scope for blockchain-enabled logistics and
+      infrastructure supply chain backbone for agricultural produce; scope
+      for Agri-Startup Mission
+61
+9.   Summary
+67
+Annexure I    Area under Crops
+72
+Annexure II  New technologies for vegetable crop production
+74
+Appendix-1
+78
+State Planning Board
+2
+3
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+HIGHLIGHTS
+•	
+Domestic production of vegetable is 
+around 15.7 lakh tonnes which meets 
+hardly 40 % of the requirement of 
+Keralites.
+•	
+Huge pressure on land and extended 
+homesteads limit the scope of further 
+extension of open cultivation of vege­
+tables in Kerala.
+•	
+Suggestions for attaining this possible 
+yet difficult goal involve meticulous 
+planning, re-education, convergence 
+of different departments and organi­
+zations, as well as the creative use of 
+technological innovations
+HOW CAN 
+KERALA DOUBLE 
+ITS VEGETABLE 
+PRODUCTION IN 
+THE NEXT FIVE 
+YEARS 
+State Planning Board
+4
+5
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+Executive Summary
+Introduction: Diverse climatic conditions that prevail in different parts of Kerala facilitates 
+the cultivation of a variety of vegetable crops that differ in their temperature requirement, 
+cultivation practices, parts used, etc. Huge pressure on land and extended homesteads 
+limits the scope of further extension of open cultivation of vegetables in Kerala. Domestic 
+production of vegetable is around 15.7 lakh tonnes (excluding tapioca) which meets hardly 
+40 % of the requirement of Keralites. Government of Kerala has made a firm commitment 
+to double the vegetable production during 14th five-year plan period.
+Objective: The mandates assigned are
+•	
+To assess the progress achieved in increasing area, production, and productivity of 
+vegetables in Kerala over the past five years.
+•	
+To suggest a roadmap to double vegetable production in Kerala over the next five years 
+with special focus on increasing productivity and farmer’ s income.
+•	
+To examine the ways in which the institutions of LSGs, Cooperatives and FPCs can be 
+utilized to participate in vegetable production efforts.
+•	
+To suggest ways in which existing systems of vegetable production are modernized and 
+integrated with the different schemes of the Government as well as post-production 
+activities.
+•	
+To review the existing procurement and distribution systems, including Government 
+initiatives, and suggest a transparent, technology-driven platform with the active 
+support of LSGs, Cooperatives and FPCs.
+•	
+To suggest ways to reform the existing Government schemes to support production. 
+Progress in increasing area production and productivity of vegetables in Kerala over 
+the past five years:  In 2018-19, Kerala could nearly double the area and production of 
+vegetables in comparison with 2015-16 (Table 1). The area under vegetable cultivation 
+increased from 46,500 ha to 82,166 ha with production escalating from 6.3 lakh metric 
+tonnes to 12.1 lakh metric tonnes. 
+Critical gaps in formulation and implementation of schemes during 13th plan: Several 
+critical issues have been identified through the analysis, and these are listed below
+•	
+Lack of integration between agencies, Department of Agriculture,  VFPCK, Horticorp, 
+and LSGs in the implementation of vegetable development schemes. 
+•	
+Inadequate mechanism to assure the quality and supply of seeds, grafted seedlings, 
+bioinputs, limited use of Agromet advisory service, poor adoption of soil test-based 
+fertilizer application.
+•	
+Inadequate storage, transport, and marketing support.
+•	
+Lack of AEU-based crop production and marketing plan; no production plan or 
+staggered crop production for daily supply to potential markets
+•	
+Incomplete database about farmers and local vegetable production. Potential of IOT 
+not exploited.
+•	
+No proper support for farmers cultivating on leased land
+State Planning Board
+6
+•	
+Identification of beneficiary and distribution of assistance is based on area and not on 
+production
+•	
+Lack of continued support for farmers availing assistance under protected cultivation.
+•	
+No convergence mechanism to accommodate social organizations involved in vegetable 
+cultivation. 
+Suggestions: The suggestions put forth by the committee are listed below.
+1.	
+Promote commercial vegetable cultivation in potential AEUs through cluster approach. 
+Adopt location-specific production protocols. The production potential in each AEU 
+should be identified and target-based production should be planned accordingly. 
+2.	
+More emphasis should be given to the attainment of the physical plan target than 
+the financial plan at the field level. A production plan needs to be formulated for 
+staggered vegetable farming, not only in commercial fields but also in the homesteads 
+and institutions. Explore the feasibility of establishing “market intelligence” centres to 
+provide an idea of the possibility of the potential crop which the farmers can grow in 
+the coming season to fetch maximum price in markets. 
+3.	
+Promote scientific organic farming that stresses safe-to-eat vegetable, bolstered by ‘Eat 
+local’ campaigns, responsible branding, kitchen gardens, and recycling. 
+4.	
+Adopt a comprehensive policy for popularizing hybrids/high yielding varieties. 
+Promote cultivation of market- friendly vegetables among commercial growers after 
+identifying potential AEUs. Monitor the quality of seeds supplied by private agencies. 
+5.	
+State/District-level seed production plan may be prepared for seed and planting 
+material production and marketing incorporating farmer participation, State farms 
+that promote new nucleus seed, promotion of new varieties, and seed certification. 
+6.	
+Promote nutrigarden concept in all households and apartments with suitable methods 
+and technological interventions.
+7.	
+Popularise rain shelter, low-cost polyhouse, and net-house cultivation of vegetables. 
+Grafted seedlings maybe promoted and training given for their production.
+8.	
+Promote soil test-based fertilizer application for commercial farming with a thrust on 
+INM, and augment soil testing labs. 
+9.	
+Agromet advisory services should be improved and popularised.
+10.	 Popularise open precision farming, mechanization with emphasis on solar pump sets 
+and solar-based fencing to prevent the attack of wild animals in vegetable-growing 
+clusters. Adopt modern techniques like hydroponics, aquaponics, vertical farming in 
+urban and semi urban clusters.
+11.	 Adopt IPM, biocontrol agents, and ecological engineering principles; explore newer 
+low-toxicity pesticides, promote pesticide literacy. Implement crop insurance against 
+the incidence of identified pest and diseases beyond a threshold level.
+12.	 Promote R&D of high-quality hybrids and varieties, pest, and disease resistance. 
+Tropical vegetable research centre should be established to coordinate and prioritize 
+vegetable research.  
+13.	 Promote convergence involving  DoA, VFPCK, Horticorp, LSGs, and Kudumbashree, 
+and integration of the roles and responsibilities of all the stake holders pooling all the 
+7
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+available resources at various levels of LSGIs 
+14.	 Establish a professionally managed, IT-enabled decentralized procurement and 
+marketing system that ensures competitive prices to the producers. FPOs/FPCs and 
+co-operatives should be exploited in procurement, value addition, and marketing of 
+vegetables. 
+15.	 More schemes should be devised on FLD for advanced technologies like aeroponics, 
+hydroponics, and vertical farming.
+16.	 Production-linked subsidy and separate assistance may form part of the subsidy 
+schemes. Improve assistance to commercial cultivation of vegetables (cluster) by 25 to 
+50%. Bring farmers cultivating in lease land also under subsidy regime.
+17.	 Assistance to production of State plan projects may be increased by availing more 
+funds from MIDH/CSS schemes. Promote INM, Agromet bulletins, pesticide literacy 
+and post-harvest management in campaign mode using Krishi paadashala.
+18.	 Procurement and marketing of vegetables should be streamlined by defining clear roles 
+to Horticorp, VFPCK, and DoA. Establish district procurement centres, cold storage 
+facilities, retail outlets, temperature-controlled supply chain facilities, and processing 
+centres. 
+19.	 Provide infrastructure support to VFPCK and other farmer markets. FPOs could be 
+tasked with providing logistic support. Development of online sales via Thalir brand is 
+a priority. Modernization of these markets is also necessary. 
+20.	 Cafeteria model allocation is suggested to bring more convergence and effectiveness of 
+schemes in output delivery. Out of total outlay, 25 percent is suggested as flexi funds 
+under the optional components. The annual fund requirement is projected as Rs.150 
+crores. Along with the increase in outlay, the assistance under different components 
+may be revised once in three years to account for inflation. Like LSGD schemes, all the 
+components under the VDP may be approved in April itself like the green book model. 
+21.	 Incentives may be provided to traders and farmers for participation in cluster markets 
+as well as a transport support for transporting surplus produce from one market to 
+another in times of glut. 
+22.	 A major reform is proposed to provide interest free credit to farmers. More 
+encouragement for promoting lease-land farming is required. In lease-land farming 
+a farmer-friendly certificate system must be introduced to help engage more farmers. 
+Similarly, the upper limit of extending assistance may be increased to 15 acres from the 
+current 5 acres with adequate budget provision. 
+23.	 All assistance under VDP may be provided through the AIMS portal, which needs to 
+be revamped, for faster service delivery to beneficiaries. The possibility of developing 
+the AIMS portal for marketing also to be explored and expanded. 
+24.	 A certification authority may be formed under the DoA for the certification of organic 
+agriculture. Export potential of ethnic vegetables under organic branding should be 
+explored. 
+25.	 Explore the scope of establishing a professional, end-to-end, blockchain-enabled 
+logistics and infrastructure supply chain backbone for agricultural produce (mainly 
+State Planning Board
+8
+vegetables/fruits/tuber crops) in Kerala.  Promote agri-startups.   
+Conclusions: Doubling vegetable production in Kerala by the end of the 14th plan period 
+is an attainable yet difficult goal that requires careful planning on different fronts and 
+coordination of different agencies. The situation has been analysed in detail, and concrete 
+suggestions provided. 
+9
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+1. INTRODUCTION 
+The diverse climatic conditions that prevail in different parts of Kerala facilitates the 
+cultivation of a variety of vegetable crops that differ in their temperature requirement, 
+cultivation practices, parts used, etc. Unlike other Indian States, the absence of a distinct 
+winter climate in Kerala provides an ideal situation for growing summer season crops 
+throughout the year. Cool season vegetables are also grown in Idukki, Wayanad, and the 
+high altitude villages of Palakkad district. Cultivation of bitter gourd, snake gourd, bottle 
+gourd, cucumber, ashgourd, ivy gourd, pumpkin, ridge gourd, cow pea, okra, amaranth, 
+chilli, brinjal, coleus, Colocasia, amorphophallus, potato, garlic, cabbage, carrot etc. are 
+mainly market-oriented. Minor vegetables likes Dolichos beans, chekkurmanis, bird 
+pepper, drumstick, winged bean, curry leaf, clove bean etc. are grown in the home garden 
+mainly for domestic use. Among the twenty-three agro ecological units (AEUs), vegetables 
+can be commercially cultivated in fifteen. Huge pressure on land and extended homesteads 
+limit the scope of further extension of open cultivation of vegetables in Kerala. Domestic 
+production of vegetable is around 15.7 lakh tonnes (excluding tapioca) which meets hardly 
+40 % of the requirement of Keralites. Neighbouring States still contribute bulk of vegetable 
+requirement and almost 100 % of potato, onion and tomato is from outside.  Government 
+of Kerala has made a firm commitment to double the vegetable production during 14th 
+five year plan period. This expert subgroup is assigned with a task of providing a roadmap 
+to double the vegetable production in the next five year plan with simultaneous increase in 
+income of farmers. The mandates assigned are
+•	
+To assess the progress achieved in increasing area, production, and productivity of 
+vegetables in Kerala over the past five years.
+•	
+To suggest a roadmap to double vegetable production in Kerala over the next five years 
+with special focus on increasing productivity and farmer’ s income.
+•	
+To examine the ways in which the institutions of LSGs, Cooperatives and FPCs can be 
+utilized to participate in vegetable production efforts.
+•	
+To suggest ways in which existing systems of vegetable production are modernized and 
+integrated with the different schemes of the Government as well as post-production 
+activities.
+•	
+To review the existing procurement and distribution systems, including Government 
+initiatives, and suggest a transparent, technology-driven platform with the active sup­
+port of LSGs, Cooperatives and FPCs.
+•	
+To suggest ways to reform the existing Government schemes to support production. 
+State Planning Board
+10
+11
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+2. PROGRESS IN AREA, PRODUCTION AND PRODUCTIVITY OF 
+VEGETABLES IN KERALA
+ 
+As mentioned in the Kerala Development Report (2021), one of the success stories of the 
+13th Plan was the achievements in vegetable production. In 2018-19, Kerala could nearly 
+double the area and production of vegetables in comparison with 2015-16 (Table 1). The 
+area under vegetable cultivation increased from 46,500 ha to 82,166 ha with production 
+escalating from 6.3 lakh metric tonnes to 12.1 lakh metric tonnes (GoK, 2021). The data 
+from the Central Statistics Office (CSO) on the crop-wise value of output (VOO) of vege­
+tables in Kerala also validated this growth shift. 
+Table 1. Area and production of vegetables, Kerala
+Year
+Area (ha)
+Production (lakh MT)
+2015-16
+46,500
+6.3
+2016-17
+52,83
+7.3
+2017-18
+69,047
+10.0
+2018-19
+82,166
+12.1
+2019-20
+96,313
+14.9
+2020-21
+1,02,000
+15.7
+Source: DoA and Farmer’s Welfare, Government of Kerala
+The crop-wise area and production of vegetables in the State in 2018-19 are given in Table 
+2. Raw banana and plantains, which are commonly used as vegetables in Kerala households, 
+together occupy 19.81% of the total area under vegetables and 33.94% of total vegetable 
+production. Tuber crops such as amorphophallus, Colocasia, sweet potato, and other minor 
+crops  occupy 18.20% of the area and constitute 16.66% of total vegetable production. 
+Cool-season vegetables1 are grown in 4.27% of the total area with vegetables contributing 
+to 4.89% of the total production of vegetables. Cowpea remains the most widely cultivated 
+vegetable crop with an area of 7008 ha (8.53%), with a total production of 77793.80 MT 
+in 2018-19, followed by bitter gourd, snake gourd, and cucumber.  The details of the dis­
+trict-wise area are given in Annexure I.
+1Potato, carrot, radish, and beetroot are not included. They are classified under cool season vegetables as their commercial cultivation is confined to a small 
+geographical area
+State Planning Board
+12
+Table 2. Crop-wise Area and Production of Vegetables in Kerala 2018-19
+Sl.no
+Crop
+Area under Vegetable 
+Cultivation
+Production of Vegetables
+Total Area 
+(Ha)
+Percent­
+age (%)
+Production MT Percent­
+age (%)
+1
+Amaranthus
+3292.6
+4.0
+42804.3
+3.5
+2
+Bhindi
+3081.0
+3.8
+27729.0
+2.3
+3
+Brinjal
+3292.0
+4.0
+33315.0
+2.8
+4
+Cowpea
+7008.5
+8.5
+77793.8
+6.4
+5
+Tomato
+1171.0
+1.4
+12881.0
+1.1
+6
+Cucumber
+3835.7
+4.7
+64055.7
+5.3
+7
+Chilly
+1205.2
+1.5
+12951.3
+1.1
+8
+Coccinea
+847.0
+1.0
+9147.6
+0.8
+9
+Ash gourd
+2472.7
+3.0
+24974.1
+2.1
+10
+Bitter gourd
+4701.0
+5.7
+47480.1
+3.9
+11
+Snake gourd
+3938.0
+4.8
+42530.6
+3.5
+12
+Ridge gourd
+785.0
+1.0
+7065.0
+0.6
+13
+Salad cucumber
+697.5
+0.9
+7672.1
+0.6
+14
+Pumpkin
+1886.0
+2.3
+22632.0
+1.9
+15
+Drumstick
+365.0
+0.4
+2244.0
+0.2
+16
+Curry leaf
+106.9
+0.1
+1511.3
+0.1
+17
+Beans
+2065.5
+2.5
+19376.5
+1.6
+18
+Cluster beans
+33.2
+0.0
+249.6
+0.0
+19
+Carrot
+811.4
+1.0
+8873.7
+0.7
+20
+Cabbage
+1277.8
+1.6
+27799.7
+2.3
+21
+Cauliflower
+189.4
+0.2
+2052.0
+0.2
+22
+Beet root
+28.1
+0.0
+530.0
+0.0
+23
+Garlic
+677.0
+0.8
+6176.0
+0.5
+24
+Onion
+2.1
+0.0
+83.0
+0.0
+25
+Small Onion
+67.2
+0.1
+863.2
+0.1
+26
+Lemon
+15.2
+0.0
+561.5
+0.1
+27
+Curry Naranga
+40.4
+0.1
+116.0
+0.0
+28
+Coriander Leaf
+4.0
+0.0
+447.5
+0.0
+29
+Mint leaf
+15.1
+0.0
+245.4
+0.0
+30
+Amla
+11.8
+0.0
+394.0
+0.0
+31
+Capsicum
+149.8
+0.2
+940.9
+0.1
+13
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+32
+Bottle gourd
+604.2
+0.7
+5844.9
+0.5
+33
+Citrus
+2.5
+0.0
+10.0
+0.0
+34
+Radish
+217.6
+0.3
+2320.4
+0.2
+35
+Amorphophallus
+4777.4
+5.8
+71689.5
+5.9
+36
+Potato
+153.1
+0.2
+10112.7
+0.8
+37
+Ginger/Turmeric
+5882.4
+7.2
+75410.7
+6.2
+38
+Colocasia
+1681.9
+2.1
+18500.0
+1.5
+39
+Minor tubers
+7730.5
+9.4
+109438.9
+9.0
+40
+Sweet potato
+766.2
+0.9
+2403.0
+0.2
+41
+Banana(raw)
+12532.0
+15.3
+257297.1
+21.2
+42
+Banana Plantain
+3746.3
+4.6
+154306.0
+12.7
+TOTAL
+82166.9
+100.0
+1212829.0
+100.0
+Source : Source: DoA and Farmer’s Welfare, Government of Kerala
+Efforts have been taken to sustain this growth under Subhiksha Keralam, a project launched 
+by the Government of Kerala with the broader objective of attaining food self-reliance by 
+enhancing the area, production, and productivity of food grains, millets, vegetables, fruits, 
+tubers, and pulses in the State, enhancing income of farmers, employment generation, at­
+tracting youth and repatriates to agriculture, strengthening animal husbandry and fisheries, 
+and promoting organic farming.
+As part of the Subhiksha Keralam project, the Vegetable Development Programme has been 
+formulated to promote vegetable production in the State in a safe-to-eat manner and attain 
+self-sufficiency in the sector. The scheme will be implemented in a mission mode involving 
+all the stakeholders in this sector viz. the Agriculture Development & Farmers Welfare.
+It will be implemented in close coordination with the Haritha Keralam Mission with clearly 
+defined physical targets at AEU, Panchayat level and other deliverables. The convergence of 
+vegetable development activities carried out by LSGD, VFPCK, SHM, KAU and Horticorp 
+under the mission is expected to be achieved through the programme. Co-ordination of all 
+PSUs, ATMA, organic farming (GAP, PGS System), marketing, infrastructure programmes 
+shall be ensured for the success of the programme. Along with the commercial cultivation 
+of vegetables (cluster), homestead cultivation will be promoted in all the households in the 
+State for producing safe-to-eat vegetables throughout the State. Institutional cultivation is 
+another thrust area. Productivity increase is given high priority. The proposed activities and 
+corresponding allocation of funds under Vegetable Development Programme 2021-22 are 
+given in table 3
+State Planning Board
+14
+Table 3. Vegetable Development Programme 2021-22
+Sl. No.
+Components
+Amout 
+(in Lakh)
+1
+Homestead vegetable cultivation including Onam vegetable cultiva­
+tion (Onathinu oru muram Pachakkari)
+1800.00
+2
+Vegetable Cultivation through institutions
+200.00
+3
+Development of District Clusters
+2725.00
+4
+Block level federated organizations (Block Sangamaithries)
+10.00
+5
+Additional Support to best performing ‘A’ Graded Clusters
+5.00
+6
+Development support to graded clusters
+20.00
+7
+Technical Support and contractual appointments
+50.00
+8
+Establishment of nurseries
+5.00
+9
+Rain shelter cultivation
+500.00
+10
+Promotion f zero energy cool chamber
+0.90
+11
+Community drip irrigation
+19.00
+12
+promotion of urban clusters, marketing and input centres
+850.00
+13
+Digital documentation
+9.00
+14
+Opertional support
+1.10
+15
+Pesticide Residue Analysis in Vegetables
+25.00
+16
+Support to VFPCK
+725.00
+17
+Subhiksha Keralam-Additional Allocation
+500.00
+Total
+7445.00
+Source: DoA and Farmer’s Welfare, Government of Kerala
+With an annual subsidy for vegetable farmers fixed as Rs 20,000 per ha, Rs 25,000 per ha, 
+and Rs 30,000 per ha non-pandal, pandal, and cool-season vegetables, respectively, the 
+Government of Kerala offers the highest rates of cash subsidy for vegetable farmers in India, 
+covering most of the farming expenses, including the costs of seeds, planting material, fer­
+tilizer, pesticide, and labour costs.
+Introduction of Vegetable Base Price Scheme (Table 4) by the Government of Kerala caught 
+nation-wide attention amidst the farmers’ protests against the Farm Acts 2020. Kerala be­
+came the first State to set base prices for 16 different vegetables & fruits so that if the price 
+falls below the base price, the produce would be procured through Government outlets at 
+15
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+the base price.
+Table 4. Vegetable Base Price Scheme of Govt. of Kerala 2020
+Sl. No.
+Crop
+Base Price (Rs./kg)
+1
+Tapioca 
+12
+2
+Nendran 
+30
+Nendran (Wayanadan)
+24
+3
+Pineapple
+15
+4
+Ash gourd
+9
+5
+Cucumber
+8
+6
+Bitter gourd
+30
+7
+Snake gourd
+16
+8
+Cowpea (Vallipayar)
+34
+9
+Tomato
+8
+10
+Lady’ s Finger 
+20
+11
+Cabbage 
+11
+12
+Carrot 
+21
+13
+Potato  
+20
+14
+Beans 
+28
+15
+Beetroot
+21
+16
+Garlic 
+139
+Source: DoA and Farmer’s Welfare, Government of Kerala
+The demand for vegetables in Kerala was estimated at 27.1 lakh MT in 2009-10. It is 
+expected that the demand for vegetables will rise to 35.5 lakh MT by 2030 (GoK, 2021). 
+Hence, Kerala needs to aim to double the production of vegetables over the 14th plan 
+period, which requires more allocation of resources. The total allocation of funds for the 
+development of vegetable cultivation from 2012-13 to 2021-22 is given in Table 5. As per 
+the report, the fund allocation for vegetable cultivation development for the year 2020-21 
+was only 69.47 crore, which dipped from 87 crores in 2018-19. During the current finan­
+cial year 2021-22, the allocation is only 74.45 Crore for 17 components under vegetable 
+development. Hence, for achieving the target of doubling vegetable production, the funds 
+State Planning Board
+16
+allocated for the same need to be increased considerably.
+Table 5. Allocation of Funds for Vegetable Development
+Sl. No.
+Year
+Allocation of Funds for  Vegetable Development
+1
+2012-13
+48.50
+2
+2013-14
+62.25
+3
+2014-15
+70.00
+4
+2015-16
+70.00
+5
+2016-17
+74.30
+6
+2017-18
+85.00
+7
+2018-19
+87.00
+8
+2019-20
+70.90
+9
+2020-21
+69.47
+10
+2021-22
+74.45
+Source: DoA and Farmer’s Welfare, Government of Kerala
+The cafeteria model has been suggested for the proposed task. The inflation accounting 
+needs to be done periodically to keep pace with the mounting cost of production. It is also 
+suggested that more emphasis should be given to the implementation of the physical plan 
+rather than the financial plan at the field level. A road map for the formulation of a produc­
+tion plan needs to be done for staggered vegetable farming, not only in commercial fields 
+but also in homesteads and institutions. When production increases, there will be a high 
+probability of glut in the marketing of vegetables and an efficient marketing system needs 
+to be developed for handling the produce. Along with other measures, empanelling of the 
+traders needs to be done giving them sufficient incentives to them for the market to func­
+tion successfully. The data need to be generated and statistically analysed for formulating 
+an efficient marketing plan.
+17
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+3. ROADMAP TO DOUBLE VEGETABLE PRODUCTION IN KERALA 
+Doubling vegetable production is a challenge that can be achieved with the participation 
+of all agencies, social and political organisations, and ultimately, the people of Kerala. New 
+innovations and adoption of best practices should be the cornerstone of this programme. 
+Productivity can be enhanced by innovations, integration of technologies and enterprises, 
+adoption of new technology, and overcoming false beliefs.
+DAILY REQUIREMENT OF VEGETABLES ACCORDING TO ICMR
+According to ICMR guidelines, the daily requirement of vegetables for an adult is stipulated 
+as
+• 50 gram leaf vegetables 
+• 50 gram roots and tubers
+• 200 gram other vegetables
+Pregnant women require more iron (folic acid), and should consume 50 gram leafy 
+vegetables per day in addition to the quantities mentioned above.
+Table 6: Quantity of Vegetables Required For Kerala As Per ICMR Recommendation
+Type of Vegetables
+Quantity Needed Per Day 
+(Tonnes)
+Quantity Needed Per Year
+(Tonnes)
+Leafy vegetables
+1,702 
+6,21,230 
+Roots and tubers
+1,702 
+6,21,230 
+Other vegetables
+6,808 
+24,84,920 
+Total
+10,212 
+37,27,380 
+Population of Kerala : 34,040,350
+Table 7. Gap In Production And Consumption
+Requirement of 
+ vegetables (Tonnes)
+Gap in production
+(Tonnes)
+Gap percentage wise
+(Tonnes)
+15.70 lakh 
+37.27 lakh 
+21.57 lakh
+57.87% 
+The above data has not considered the production of tapioca. Tapioca is cultivated in an 
+area of 61874 ha in 2018-19 with a production of 23.2 lakh tonne (source: www.ecostat.
+kerala.gov.in).  Tapioca is also used for animal feed and industrial purposes. However, 
+approximately 50% is utilized for human consumption. Hence, 11.6 lakh tonne may be 
+added to the vegetable production basket, making the total vegetable production 27.3 lakh 
+tonne. The gap between actual production and consumption will narrow down to 10 lakh 
+tonne. However, actual per capita consumption is low in Kerala, as people mostly prefer a 
+non-vegetarian plate for main meals.
+State Planning Board
+18
+Road map for doubling vegetable production
+1.	
+AEU-based production protocol. Formulate schemes for commercial production in 
+potential AEUs
+2.	
+Ensure timely availability of high-quality planting materials and quality seeds, ensure 
+coordination between KAU, department seed farm, and VFPCK in vegetable seed 
+production.
+3.	
+Selection of suitable varieties and hybrids for each locality and market
+4.	
+Address the challenges of weather in vegetable cultivation with the assistance of 
+Agromet Advisory Services 
+5.	
+Expand irrigation facility to more areas
+6.	
+Address issue of high investment for land preparation and other inputs
+7.	
+Adoption of scientific nutrient management
+8.	
+Adoption of open precision farming in commercial tracts and rain shelter for 
+nutrigardens
+9.	
+Protected cultivation in urban and peri urban area, adoption of new growing techniques 
+like hydroponics, aquaponics, vertical farming, and container cultivation.
+10.	 Adoption of integrated packages for pests, disease infestation, and wild animal attack
+11.	 11.	Adoption of modern technology, follow crop calendar, and avoid seasonal surplus 
+of produce
+12.	 Address issue of storage and marketing to ensure income for farmers
+AEU-BASED PRODUCTION PROTOCOL
+This production protocol aims to facilitate the commercial cultivation of vegetables in AEUs 
+which are established so that the soil type and climatic conditions are more favourable for 
+vegetable cultivation.  There are 5 agro-ecological zones and 23 agro-ecological units in Kerala. 
+The agro-ecological zones are coastal plains, midland plains, foothills, high hills, and Palakkad 
+main. Among the 23 AEUS, five are commercial vegetable growing areas and another ten have 
+the potential for commercial farming. The details are given below: 
+Table 8: Potential Vegetable Growing AEUs
+AEU 
+No.
+Name of AEU
+Area (ha)
+% of total area of Kerala
+Major Land use
+SOUTHERN ZONE
+8
+Southern 
+Laterites
+38,727
+1.00
+Coconut on uplands and 
+rice, tapioca, banana, and 
+vegetables on lowlands 
+are the major crops
+19
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+9
+South Central 
+Laterites
+3,65,932
+9.42
+Mono-cropped rubber 
+and coconut, rice, tapioca, 
+banana, and vegetables 
+on lowlands.
+CENTRAL ZONE
+10
+North Central 
+Laterites
+1,71,469
+4.41
+Coconut intercropped 
+with a variety of annual 
+and other perennial crops 
+is on uplands; rice, tapio­
+ca, banana and vegetables 
+on lowlands
+17
+Marayur Hills
+28,968
+0.75
+Forests,  temperate fruit 
+trees, potato, sugarcane, 
+temperate vegetables and 
+rice
+NORTHERN  ZONE
+11
+Northern 
+Laterites
+480,257
+12.86
+Coconut intercropped 
+with a variety of annual 
+and other perennial crops 
+is on uplands; and rice, 
+tapioca, banana and vege­
+tables on lowlands.
+Table 9: AEUs that can be converted to potential vegetable growing area
+AEU No.
+Name of AEU
+Area 
+(ha)
+% of total area of 
+Kerala
+Major Land use
+SOUTHERN ZONE
+1
+Southern Coastal Plain
+56782
+1.46
+Coconut plantations on up­
+lands and rice in lowlands
+3
+Onattukara Sandy Plain
+67447
+1.74
+Coconut plantations on up­
+lands and rice in lowlands
+12
+Southern Foothills
+315893
+8.13
+Plantations of rubber, coconut, 
+pepper and coffee
+CENTRAL ZONE
+22
+Palakkad Central Plain
+112957
+2.91
+Coconut intercropped to a va­
+riety of annual and perennial 
+crops is the major land use on 
+uplands and rice in lowlands
+State Planning Board
+20
+23
+Palakkad Eastern Plains
+47049
+1.21
+Coconut, arecanut and mango 
+are the major plantation crops. 
+Annual crops include ground­
+nut, cotton, banana, maize, 
+jowar and sugarcane
+NORTHERN ZONE
+2
+Northern Coastal Plain
+122970
+3.16
+Coconut plantations on up­
+lands and rice in lowlands are 
+the major land use
+13
+Northern Foothills
+144181
+3.71
+Plantations of rubber, coco­
+nut, pepper and coffee are the 
+major land use
+18
+Attappady Hills
+8872
+0.23
+Land use is mainly coconut 
+plantations, banana, vegeta­
+bles, maize and rice
+20
+Wayanad Central 
+Plateau
+74471
+1.92
+Plantations of coffee, tea, 
+arecanut and pepper are the 
+dominant land use on uplands 
+and rice and banana in low­
+lands. Forests cover a signifi­
+cant area.
+21
+Wayanad Eastern 
+Plateau
+70325
+1.81
+Plantations of coffee, tea, 
+coconut, arecanut and pepper 
+are the dominant land use on 
+uplands and rice and banana 
+in lowlands
+21
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+AEU based varieties - Recommendation
+Table 10: Warm Season Vegetables
+Crop
+Varieties
+Agro Ecological Unit
+Amaranthus
+Red types: Arun, Krishnasree
+Green types: CO1, CO2, CO3, Renusree
+Round the year 
+in potential AEUs 
+(1,2,3,8,9,10,11,12,13, 
+18,20,21,22,23) except 
+17.
+In AEU 17, cultivation 
+during December and 
+January should be 
+avoided
+Okra
+Green/Light Green fruit types: Pusa 
+Makhmali, Kiran,  Salkeerthi
+Red fruit types: CO1, Aruna
+Mosaic resistant varieties: Arka Anamika, 
+Susthira, Varsha Upahar
+Yard long bean 
+(cow pea)
+Bush Type: Bhagyalakshmi, Pusa Komal, 
+Kasi Kanchan
+Semi Trailing Type: Kairali, Varun, Anaswara, 
+Kanakamani, Arka Garima
+Trailing Type: Sarika, Malika, Lola, Vellayani 
+Jyothika, Geetika, KAU Deepika, Arka Man­
+gala
+State Planning Board
+22
+Table 11: Solanaceous Vegetables
+Crop
+Varieties
+Agro Ecological Unit
+Brinjal
+Surya, Swetha, Haritha: Bacterial wilt 
+resistant varieties
+Neelima: F1 Hybrid Having bacterial 
+wilt resistance
+Ponni
+Wilt 
+resistant 
+varieties 
+are 
+rec­
+ommended for all potential AEUs 
+(1,2,3,8,9,10,11,12,13,17, 
+18,20,21,22) 
+AEU except plains of eastern part of 
+Palakkad district (AEU 23). In AEU 23, 
+varieties having less resistance to wilt 
+can be cultivated in commercial scale 
+since soil is alkaline in nature.
+Chilli
+Vellayani Athulya, Keerthi
+Ujwala, Anugraha: Bacterial wilt 
+resistant varieties
+Tomato cultivation is recommended 
+during the months of September to 
+February in coastal areas (AEU 1, 2), 
+plains (AEU 8, 9, 10, 11, 22, 23) and val­
+leys near to hilly areas (AEU 12, 13). In 
+hilly regions (AEU 21, 23), tomato cul­
+tivation can be done during summer 
+months also. But in AEUs  17, culti­
+vation during December and January 
+should be avoided.                                
+Tomato cultivation can also be prac­
+ticed during rainy season in rain shad­
+ow areas (AEU 17) or in protected 
+structures like rain shelters and poly­
+house in addition to the recommended 
+season.
+Tomato
+Anagha, Vellayani Vijay, Manulekshmi, 
+Manuprabha, Akshay:  Suitable for 
+rain shelter cultivation
+23
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+Table 12: Cucurbitaceous Vegetables
+Crop
+Varieties
+Agro Ecological Unit
+Bitter gourd
+Priya, Preethi, Priyanka 
+(Suitable for acidic soils), 
+Arka Harith
+Cucurbits can be grown 
+round the year in coastal ar­
+eas (AEU 1, 2), plains (AEU 8, 
+9, 10, 11, 22, 23) and valleys 
+near to hilly areas (AEU 12, 
+13) and in hilly regions (AEU 
+21, 23). But in AEUs where 
+extreme cool climate is ex­
+periencing (AEU 17), cultiva­
+tion during December and 
+January should be avoided. 
+Virus diseases will be major 
+problem during summer 
+season, and oriental pickling 
+melon is the most tolerant 
+cucurbit against viral dis­
+eases and high temperature. 
+Parthenocarpic salad cucum­
+ber can be cultivated under 
+polyhouse and rain shelter 
+throughout year except April 
+and May.
+Oriental pickling melon
+Mudicode, Arunima, 
+Soubhagya, KAU Vishal
+Snake gourd
+Kaumudi, Baby, Manusree, 
+Harithasree
+Cucumber
+Heera, Subra, Pusa Sheetal, 
+Poinsette, Poona Khira, 
+KPCH 1
+Watermelon
+Sugar Baby, Arka Jyoti
+Seedless F1 Hybrids: 
+Swarna, Shonima
+Bottle gourd
+Pusa Summer Prolific, Arka 
+Bahar
+Pumpkin
+Ambili, Suvarna, Saras, 
+Sooraj
+Ash gourd
+KAU Local, Indu, Tara
+State Planning Board
+24
+Table 13: Cool Season Vegetables
+Crop
+Varieties
+Agro Ecological Unit
+Cabbage
+NS 43, NS 160, NS 183
+During October-February 
+in potential AEUs 
+(1,2,3,8,9,10,11,12,13, 
+18,20,21,22,23) except  17.
+In AEU 17, cultivation can be 
+extended to summer season
+September, Pusa Drumhead, 
+Golden Acre, Kaveri, Ganga, 
+Sreeganesh, Pride of India
+Cauliflower
+Basant, NS 60, Pusa Meghna
+Himani, Swati, Pusa Deepali, 
+Early Patna, 74-6-C
+Carrot
+Pusa Kesar, Nantes, Pusa 
+Meghali, Pusa Nayanjyoti F1
+Beetroot
+Detroit Dark Red
+Radish
+Japanese White, Arka 
+Nishant, Pusa Chetki, Pusa 
+Resmi, Pusa Desi
+Onion
+Agrifound Dark Red, Arka 
+Kalyan, Agrifound Light 
+Red, Arka Pragati
+Garlic
+Ooty 1, G-50
+AEU 17 During 
+October-March
+Potato
+Kufri Jyoti (Medium 
+Maturity), Kufri Girdhari 
+(Medium maturity, late 
+blight resistant), Kufri 
+Himalini (Medium maturity, 
+Late blight resistant)
+AEU 17 During October-April
+Beans
+Trailing Type - 
+Kentucky Wonder                                       
+Bush Type - Contender, 
+Premier, VL 1, Arka Komal, 
+Tender Green
+During October-Februray 
+in potential AEUs 
+(1,2,3,8,9,10,11,12,13, 
+18,20,21,22,23) except 17.
+In AEU 17, cultivation can be 
+extended to summer season
+Peas
+Bonneville, (Short dura­
+tion varieties, Suitable for 
+canning)
+AEU 17 During October-April
+TIMELY SUPPLY OF QUALITY SEED AND PLANTING MATERIAL
+Use high-yielding quality planting materials from certified suppliers.
+25
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+Preference is to be given to pest- and disease-resistant varieties and hybrids from the public 
+sector. Ensure coordination between KAU, department seed production farms, and VFPCK 
+in vegetable seed production. Scientific methods such as seed treatment with bioagents 
+and seed priming should be popularized for improved seed germination. Seed priming is 
+the controlled hydration and drying of seeds which will enhance seed vigour in terms of 
+germination potential and increased stress tolerance, ensure rapid and uniform seedling 
+emergence, impart high level of biotic and abiotic stress resistance, and increase crop yield.
+Quality planting material
+Since the production from various public sector agencies is unable to meet the demand, 
+private sector players also have a significant role in supplying planting materials. Regulatory 
+measures to ensure the quality of planting materials supplied by private sector agencies are 
+quite inadequate, and some unscrupulous elements exploit the situation causing loss to 
+growers and adversely affecting sustainable farming. 
+Table 14: Seed requirement of major vegetable crops in Kerala
+Sl. No.
+Crop
+Area (ha)
+Seed rate (kg)
+Total seed requirement (kg)
+1
+Amaranthus
+3292.6
+1.5
+4939.0
+2
+Bhindi
+3081.0
+7.0
+21567.0
+3
+Brinjal
+3292.0
+0.4
+1218.0
+4
+Cowpea
+7008.5
+5.0
+35042.3
+5
+Tomato
+1171.0
+0.4
+468.4
+6
+Cucumber
+3835.7
+0.5
+1917.8
+7
+Chilli
+1205.2
+1.0
+1205.2
+8
+Ash gourd
+2472.7
+0.8
+1854.5
+9
+Bitter gourd
+4701.0
+5.0
+23505.0
+10
+Snake gourd
+3938.0
+3.0
+11814.1
+11
+Ridge gourd
+785.0
+2.5
+1962.5
+12
+Salad cucumber
+697.5
+0.5
+348.7
+13
+Pumpkin
+1886.0
+1.0
+1886.0
+14
+Bottle gourd
+604.2
+3.0
+1812.6
+State Planning Board
+26
+15
+Watermelon
+100.0
+1.0
+100.0
+38070
+109641.1
+The strategies suggested for improving the seed supply chain include:
+•	
+Preparing State/district seed production plans for seed and planting material production 
+and marketing, involving/linking various agencies like KAU, VFPCK, Department of 
+Agriculture (DoA), NSC and identified seed companies. 
+•	
+Strengthening quality control mechanisms
+•	
+Promoting farmer-participatory seed production in self-pollinated crops like cow pea
+•	
+Improving farms under State DoA by purchasing nucleus seeds of newly evolved 
+varieties from KAU and improving infrastructure facilities of the farms/nurseries for 
+enhancing quantity and quality of planting materials, etc.
+•	
+Seed multiplication and popularization of new varieties of vegetables released by KAU
+•	
+Establishment of a State Level Seed Certification Agency as envisaged in the Seed Act
+Popularise use of seedlings and grafted plants
+Vegetable grafting is a technique that is used to improve plant production, reduce disease 
+susceptibility, and increase plant vigour. Biotic and abiotic stresses are capable of markedly 
+reducing the productivity of vegetables. Grafting productive scions onto resistant rootstocks 
+has been a common practice to overcome such stresses to growth. The principal biotic stresses 
+that can be managed by growing grafted plants are bacterial wilt (Ralstonia solanacearum), 
+fusarium wilt (Fusarium oxysporum f. sp. lycopersici), and other diseases caused by Pythium 
+and Verticillium spp. and root-knot nematodes (Meloidogyne spp.). Grafting vegetables on 
+resistant rootstocks is a means of controlling root-knot nematodes and other soil-borne 
+diseases in areas with intensive land use. Grafting is useful for extending the crop-stand in 
+protected structures, as a replacement for methyl bromide applications, or when practising 
+speciﬁc low-pesticide or organic production protocols. Raising seedlings under covered 
+condition and transplanting early will save time and be more suited for leased lands.
+SELECTION OF SUITABLE VARIETIES AND HYBRIDS
+There are many high yielding varieties of KAU and ICAR institutes which are resistant to 
+major pest and diseases 
+Advantages of hybrid varieties include high yield, early maturity, abiotic stress resistance, 
+disease resistance, uniformity in growth, flowering, and fruiting, superior quality produce, 
+and extended shelf life
+27
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+Preference must be given to pest- and disease-resistant varieties and hybrids from the public 
+sector. Research should be focused on the development of multipurpose hybrids and low 
+cost hybrid seed production technology to reduce the cost of hybrid seeds. 
+Table 15:  Hybrid vegetable crops from KAU
+Sl. No.
+Name of 
+the variety/
+Hybrid
+Crop
+Remarks
+1
+Swarna
+Watermelon
+First yellow fleshed seedless watermelon hy­
+brid in India. Fruits are seedless, bright yellow 
+flesh (TSS -10.1 o Brix, High in Citrulline 5.1 
+mg/g,  Average fruit weight- 3.18 kg, Average 
+yield -10.2 t/ha, crop varieties.
+2
+Shonima
+Watermelon
+Red fleshed seedless watermelon (Triploid 
+hybrid)- High yielding (High TSS (10.6 o Brix), 
+Average fruit weight- 3.95 kg, Average yield 
+-18.26 t/ha).
+3
+Heera
+Salad cucumber
+F1 hybrid developed using gynoecious tech­
+nology. Light green colour fruit(15.5 cm 
+length,0.26kg fruit weight, average yield 73.2 t/
+ha) .
+4
+Shubhra
+Salad cucumber
+F1 hybrid developed using gynoecious tech­
+nology. Greenish white colour fruit (15.9 cm 
+length,0.275 kg fruit weight, average yield 
+79.61 t/ha).
+5
+KPCH-1
+Parthenocarpic 
+Salad cucumber
+Parthenocarpic hybrid suitable for polyhouse 
+cultivation. High yielding (10 cent polyhouse 
+could yield 5 tonne fruits in a period of 3 
+month). Produce dark green fruits weighing 220 
+g with a length of 24 cm and width 15 cm and 
+can be stored up to 1 week at room temperature 
+without any loss in quality. p
+6
+KRH-1
+Ridge gourd
+First hybrid in cucurbit using 3 line breeding 
+approach. Long dark green fruits, high yielding 
+7.1 kg/plant.
+7
+Neelima
+Brinjal
+High Yield  [65 t/ha], Large, oval to round, 
+glossy violet fruits, Average fruit weight : 176.0 
+g, Bacterial wilt resistant
+Table 16:  Public sector hybrids in vegetable crops
+Sl.No.
+Crop
+Available hybrids
+Source
+State Planning Board
+28
+1
+Tomato
+Pusa Hybrid-1, Pusa 
+Hybrid-2, Pusa
+Hybrid-4, Pusa 
+Hybrid-8, PusaDivya 
+(Kt-4)
+IARI, Delhi
+Arka Rakshak, Arka 
+Ananya, Arka
+Samrat, Arka 
+Shreshta, Arka 
+Vishal,
+Arka Vardan, Arka 
+Abhijit
+IIHR, Bengaluru
+2
+Brinjal
+Kashi Abhiman
+IIVR, Varanasi
+Rajashree, Phule 
+Hybrid-1
+MPKV, Rahuri
+DBHL-20, Pusa 
+Hybrid-5 (Long), 
+Pusa
+Hybrid-6 (Round), 
+Pusa Hybrid-9,
+Pusa Anupama 
+(Kt-4)
+IARI, Delhi
+3
+Chilli
+Arka Navneet, Arka 
+Kusumkar
+IIHR, Bengaluru
+CH-1, CH-3
+PAU, Ludhiana
+Arka Meghana, Arka 
+Harita, Arka Sweta
+IIHR, Bengaluru
+Kashi Early, Kashi 
+Surkh
+IIVR, Varanasi
+4
+Sweet pepper
+Pusa Deepti, 
+KTCPH-3
+IARI
+5
+Cucumber
+Pusa Sanyog
+IARI
+6
+Bitter gourd
+Pusa Hybrid-1,  Pusa 
+Hybrid-2
+IARI, Delhi
+7
+Bottle Gourd
+Pusa Hybrid-3
+IARI, Delhi
+Kashi Bahar
+IIVR, Varanasi
+Pant Sankar Lauki 1
+GBPUAT, Pantnagar
+29
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+8
+Musk melon
+Pusa Rasraj
+IARI, Delhi
+Punjab Hybrid-1
+PAU, Ludhiana
+Pumpkin
+Pusa Hybrid-1
+IARI, Delhi
+10
+Watermelon
+Arka Jyoti
+IIHR, Bengaluru
+11
+Okra
+Kashi Bhairav
+IIVR, Varanasi
+HBH-142 (F1 hybrid)
+HAU, Hisar
+12
+Ash gourd
+Pusa Shreyali and 
+Pusa Urmi
+IARI, Delhi
+Table 17. Potential private sector hybrids under open precision farming at KAU, Vellanikkara
+Sl. 
+No.
+Crop
+Hybrid
+Company
+Salient features
+Yield 
+t/ha
+1.
+Chilli
+Sierra
+Mahyco
+High yielding, dark green long 
+shiny fruits, turns red on maturity, 
+drought & powdery mildew tolerant
+23
+2.
+Tomato
+Sivam
+Hy veg
+High yielding, determinate type 
+with flat round fruits green to red 
+on ripening
+73
+3.
+Brinjal
+Green 
+long
+Sungro 
+seeds
+High yielding, slender, long cylin­
+drical fruits, solitary bearing, light 
+green in colour
+27
+4.
+Cauliflower
+C 6041
+Syngenta
+High yielding, tropical hybrid, semi 
+erect, vigorous plant with creamy 
+white curd
+34
+5.
+Cabbage
+NS 183
+Namdhari 
+seeds
+High yielding, firm round headed 
+hybrid, tropical type, tolerant to 
+black rot and drought
+29
+6.
+Bhindi
+Supreme
+Hy veg
+High yielding, dark green long 
+fruits, with moderate YVMV 
+resistance
+43
+7.
+Ash gourd
+Gold
+East west 
+seeds
+High yielding, vigorous plants with 
+strong vines, cylindrical fruits, rind 
+colour green and white fleshed type
+49
+Lack of information and lack of timely availability of F1 hybrids developed/identified by 
+KAU and other ICAR institutions is a major constraint. Prohibitive seed prices charged by 
+the private sector as in the case of parthenocarpic hybrids of cucumber need to be curbed. 
+Fresh hybrid seed has to be purchased by farmers every year as they cannot depend on 
+farm-saved seeds. Coordination between agencies for on-farm testing of potential hybrids 
+in major growing pockets like Vattavada and Kanthaloor in Idukki district, and Attappadi 
+State Planning Board
+30
+region in Palghat should be ensured. More input and technical skill is required for hybrid 
+cultivation, and imparting training to farmers should be given priority.
+ADDRESS THE CHALLENGES OF WEATHER IN VEGETABLE CULTIVATION WITH 
+THE ASSISTANCE OF AGROMET ADVISORY SERVICES
+ Prolonged drought and severe rainfall severely affect the production potential of vegetable 
+crops. India Meteorological Department (IMD) and Indian Council of Agricultural 
+Research (ICAR) in collaboration with State Agricultural Universities (SAUs), State 
+Departments of Agriculture and other stake holders have been implementing the Gramin 
+Krishi Mausam Sewa (GKMS) scheme in the State of Kerala with the objective of providing 
+crop and location specific weather forecast based Agromet Advisories Services (AAS). 
+Agromet Advisory Bulletins that are prepared based on medium range weather forecasts 
+and disseminated to farmers as a part of this project are helpful to the farming community 
+in arriving at strategic decisions on farming operations with respect to changes in weather. 
+Agrometeorological field units entrusted with the preparation and dissemination of Agromet 
+Advisory Bulletins are located in five agroclimatic zones throughout Kerala under the aegis 
+of KAU. Though these advisory bulletins are prepared and disseminated on every Tuesday 
+and Friday in English as well as in Malayalam, its reach is still limited. Dissemination of 
+these bulletins is done on a real time basis through direct delivery to farmers. They are also 
+displayed on the notice boards of Krishi Bhavans. The bulletins are further uploaded on 
+websites of IMD, KAU, mKisan portal etc.  Though different channels were used to improve 
+the dissemination, the outreach of these bulletins is limited. The quality of bulletins is to be 
+further improved by incorporating location specific inputs. 
+ The current Agromet Advisory Services should be strengthened with participation of farmers 
+in each block of selected AEUs. This can be attempted in five districts, viz., Trivandrum, 
+Kottayam, Thrissur, Wayanad, and Kasaragod on a pilot basis. These farmers should be 
+trained to collect and report the different crop stages in relation to time, various weather 
+events, data on pests, and disease outbreak etc. This information will be useful in finetuning 
+location-based crop weather calendars and in improving the quality of Agromet Advisory 
+Bulletins. These lead farmers will play a lead role in disseminating location-specific bulletins 
+prepared at the block level.    Moreover, they act as a link between the lab and the land. 
+The present system will be continued effectively using the service of lead farmers. Further, 
+the service of lead farmers will be used for the effective use of Agromet Advisory Bulletins. 
+Regular trainings should be imparted for them to function as climate managers. A monthly 
+honorarium is also recommended for them as an incentive for sparing their valuable time to 
+work on the project. A two-way communication procedure will be developed between the 
+Agromet lab and the farmers and vice versa and this helps in improving the quality of the 
+bulletins and their effective dissemination. Moreover, the knowledge of the farmer acting 
+as the climate manager regarding weather and agriculture will be improved, which in turn 
+help him in achieving a better production. 
+BRING MORE LAND UNDER IRRIGATION FACILITIES
+•	
+Fallow lands or the land where vegetable cultivation is possible should be identified
+•	
+Cultivation on leased land should be promoted
+31
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+•	
+Vegetable cultivation in paddy land in the summer season may be encouraged 
+•	
+Identify uncultivated barren land and make an arrangement to cultivate it with 
+minimum lease amount through cluster/group approach with the participation of 
+social organisations.
+•	
+Popularise drip/trickle irrigation
+ADDRESS THE ISSUE OF HIGH INVESTMENT FOR LAND PREPARATION AND 
+OTHER INPUTS
+•	
+Ensure mechanization in land preparation and promote the use of solar pump sets.
+•	
+Formulate more assistance for leased farmers, as crops grown in pandals require more 
+assistance
+•	
+Arrange the distribution of scientifically proven pesticides or botanicals which may be 
+helpful  for plant protection and nutrient management
+•	
+Subsidy for leased land, other inputs like lime, seed, organic manure and fertilizers, 
+plant protection materials, and equipment are to be provided. Emphasis must be 
+placed on reducing the cost of cultivation through a group approach
+ADOPTION OF SCIENTIFIC NUTRIENT MANAGEMENT FOR VEGETABLES
+Cultivation of high-yielding varieties of crops and intensive farming exhaust the soil due to 
+their increased productivity, and thus deplete essential nutrients including secondary and 
+micro nutrients causing severe threats to sustainable agriculture. Irrational and excessive 
+application of fertilizers also lead to soil deterioration and decline in the productivity 
+of crops. Soil Test Based Recommendation (STBR) is a widely accepted approach for 
+prescribing fertilizers based on the crop need, taking into consideration the soil variability 
+of different AEUs. 
+•	
+Soil acidity is a major problem in all AEUs of Kerala. Majority of soils are strongly 
+acidic to moderately acidic, warranting lime application on a regular basis based on pH 
+values as per recommendations
+•	
+Deficiency of calcium which is widespread in acidic soils can also be rectified by liming. 
+•	
+Magnesium deficiency is of common occurrence in the AEUs and hence, application 
+of magnesium sulphate @ 80 kg/ha is recommended
+•	
+Application of dolomite powder as liming material can also be resorted to since it will 
+supply Mg in addition to alleviating acidity and supplying Ca.
+•	
+The organic matter levels in the majority of soils are between low and medium and 
+hence require the application of recommended dose of organic manure/compost/green 
+manure. N fertilizers need also be applied based on soil test.
+•	
+Available P is high in most of the soils, hence application of P fertilizers can be reduced 
+to the extent of 25‒50 % of the recommended dose based on the soil P values.
+•	
+Available potassium status is medium to high, and K fertilizers have to be applied based 
+on soil test values. Here, soil test values are in the moderate range, and 60‒100% of the 
+recommended dose can be applied. Where soil test values are high, only 25 percent of 
+the recommended dose need to be applied.
+•	
+Boron is deficient in all AEUs and the application of borax @ 10 kg/ha or 0.5% foliar 
+spray is recommended.
+State Planning Board
+32
+•	
+Zinc deficiency is seen in a limited area where the application of zinc sulphate @ 
+20 kg/ha is recommended. Foliar application is particularly better under adverse soil 
+conditions.
+•	
+Kerala soils typically have high/toxic levels of  iron and manganese, which can be 
+managed by liming
+Strategies to be adopted
+Periodic soil analysis and soil test-based fertilizer recommendation should be the rule as 
+long as intensive agriculture is practiced. Farmers have to be made aware of the importance 
+of periodic soil  analysis before the cropping season and taking corrective measures to 
+maintain the crop production capacity of the soil. Soil health cards can be issued to farmers 
+which indicates the native nutritional status, problems pertaining to that particular soil, 
+and fertilizer recommendations including secondary and micronutrients based on the 
+soil nutrient status for the  crops (STBR). Soil health cards will also suggest management 
+practices for the observed soil constraints, acidity, alkalinity etc. The analysis of samples 
+can be undertaken  by the soil testing laboratories operating in the different campuses and 
+research stations of KAU, district-level Soil Testing Laboratories under the Department 
+of Agricultural Development and Farmers’ Welfare, Govt. of Kerala, ICAR institutions, 
+laboratories under Soil Survey Department, etc., with effective coordination by an apex 
+body which can effectively link the activities in a network mode.
+Mode of operation
+District wise or AEU-wise samples collected from each district should be entrusted with a 
+particular soil testing lab.
+Routine analysis can be done at each research station and various campuses under KAU 
+having soil testing labs by providing additional infrastructure facilities, equipment for 
+the analysis of P and K, and supporting staff. Micronutrient analysis can be done at labs 
+equipped with atomic absorption spectrophotometer. With such facilities, approximately 
+2000 samples can be analysed in each lab in a month with additional staff on temporary 
+basis. 
+Inductively Coupled Plasma (ICP) spectroscopy can be adopted, but it is very costly and 
+requires in excess of 50 lakh. The ICP can analyse more than 500 samples per day and give 
+analytical results for all nutrients except nitrogen (organic carbon). Three KAU-led labs in 
+each zone should be equipped with ICP and upgraded as referral labs. 
+Mobile soil testing services and rapid soil testing kits can be utilized for soil testing, but only 
+organic carbon, phosphorus, and potassium can be analysed and hence, recommendations 
+can be given only for N, P, and K. Here, pH indicator papers can be used for determining 
+soil acidity/ alkalinity and thus for lime/gypsum recommendations. Farmers can be given 
+training to use the indicator papers.
+The actual analysis of the sample and giving fertiliser recommendations is only part of the 
+soil testing service. To a large extent, the efficacy of this service depends on the care and 
+33
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+effort put forth by extension workers and farmers in the collection and dispatch of samples 
+to the laboratory. The collection of soil samples should be done by trained persons and 
+assigning this task to private agencies who are not familiar with this type of work will result 
+in poor quality samples. 
+The responsibility of collecting genuine soil samples from the fields can be assigned to Krishi 
+Bhavans and VFPCK of a particular area which can entrust trained farmer organizations or 
+farmer groups or Kudumbashree staff for sample collection. Utilizing farmers’ groups will 
+also reduce the cost of sample collection. Farmers can be identified at the Panchayath level 
+and the work can be coordinated by the assigned institution or agency for that area. The 
+collected soil samples from specific areas may be delivered to the local Krishi Bhavans and 
+soil testing lab with the assistance of the panchayat.
+ADOPTION OF OPEN PRECISION FARMING
+Fertigation
+• Prevents nutrient loss
+• Reduced quantity of fertilizer
+• Effective labour management
+• Better root growth
+• Prevent soil erosion
+Plastic mulching
+• Control growth of weeds
+• Control temperature of soil
+• Conserve moisture
+• Control pests
+• Produce quality produce
+Table 18: Comparison Of Open Precision Field Trials With KAU POP (Control)
+Crop
+Open 
+Precision 
+best treat­
+ment Yield 
+(Kg/plant)
+Fertilizer Applied 
+(N:P: K Kg/Ha)
+Control 
+(KAU 
+POP) Yield 
+(Kg/plant)
+Fertilizer 
+recomm. KAU 
+POP       (N:P:K 
+Kg/Ha)
+Increase in yield 
+%
+Bhindi
+2.14
+112.5: 46.85:168.75
+(125% Ad hoc POP)
+1.05
+55:35:70
+103.8
+Ash gourd
+9.93
+150:75:187.5
+(125% Ad hoc POP)
+1.36
+70:25:25
+630
+Chilli
+1.13
+262.5:60:345
+(125% Ad hoc POP)
+0.56
+75:40:25
+101.7
+Tomato
+3.66
+105: 48.75:142.5
+(75%Ad hoc POP)
+1.31
+75:40:25
+179.4
+Cabbage
+1.71
+263.75: 61.25: 342.5
+(125% Ad hoc POP)
+0.94
+150:100:125
+81.9
+State Planning Board
+34
+Cauliflower
+1.45
+150:60:210
+(100% Ad hoc POP)
+(125% Ad hoc POP)
+0.71
+150:100:125
+95.9
+PROTECTED CULTIVATION AGAINST ADVERSE CLIMATIC CONDITIONS 
+• Cultivation is possible throughout the year
+• High yield
+• Crop rotation depending on market demand
+• Comparatively less pest attack
+• Safe to eat or organic produce
+• Quality produce
+• Effective labour management
+• Increased chances for mechanization
+However, the adoption of polyhouse cultivation is not widespread in Kerala. This can be 
+attributed to its disadvantages, such as, 
+• Need for structural modification to suit humid hot climate of Kerala
+• Limited choice of crops
+• Exotic hybrids not suitable for Kerala polyhouses
+• High incidence of sucking pests and diseases due to poor management
+• Improper training to farmers on sanitation and crop management
+• Lack of group approach
+•High initial investment
+•Lack of support for maintenance
+This can be remedied by popularising rain shelters, low-cost poly houses, and net house 
+cultivation of vegetables. Crops like salad cucumber, yard-long bean, grafted chilli, and 
+cherry tomato can be grown.
+Seedlings of vegetable varieties and F1 hybrids suitable for growing in Kerala’s conditions 
+may be raised in shade net house nurseries and supplied to growers.  Hence, the establishment 
+of shade net house nurseries must be encouraged for the supply of seedlings and grafted 
+seedlings, and such nurseries may be recognized by the State DoA.
+Adopt integrated pest management (IPM), with emphasis on biological control, 
+endophytes, and ecological engineering and promote pesticide literacy. Develop cost 
+effective management techniques to prevent the entry of wild animals. Implement crop 
+insurance against the incidence of identified pest and diseases beyond a threshold level.
+Management of pests and disease infestation 
+• Promote cultivation of resistant varieties
+• Use grafted seedlings
+• Prepare and distribute crop calendar
+INTEGRATED PACKAGES  FOR MANAGING PEST AND  DISEASE  INFESTATION  AND
+ATTACK  OF  WILD ANIMALS
+35
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+• Improve awareness of plant protection measures through training
+• Prepare and distribute bulletins regarding the management of seasonal pests and diseases
+• Supply of quality plant protection materials at a subsidized rate
+Use of micro organisms
+• 	
+Use of bio fertilizers increases yield
+• 	
+Environment friendly
+• 	
+Effective for pests and disease control
+• 	
+Enhances growth of vegetable
+• 	
+Helps to grow quality organic produce
+Attack of wild animals
+•	
+Measures to protect the cultivated land of farmers at Government level with 
+coordination of forest department and LSGs.
+•	
+Subsidy for solar fencing
+•	
+Insurance for existing crops
+Table 19: Yield loss in vegetables due to insect pests
+Crop
+Pest
+Yield loss (%)
+Cucurbits
+Fruit fly
+30-100
+Pumpkin
+Fruit fly
+28.7-59.2
+Bottle gourd
+Fruit fly
+27.3-49.3
+Cucumber
+Fruit fly
+19.4-22.1
+Bitter gourd
+Fruit fly
+60-80
+Cucumber
+Fruit fly
+20-39
+Ivy gourd
+Fruit fly
+63
+Musk melon
+Fruit fly
+76-100
+Snake gourd
+Fruit fly
+63
+Sponge gourd
+Fruit fly
+50
+Tomato
+Fruit borer
+24-65
+Brinjal
+Fruit and shoot borer
+11-93
+Chilli
+Thrips
+12-90
+Chilli
+Mites
+34
+Okra
+Fruit borer (Helicoverpa armigera)
+22
+Okra
+Leaf hopper
+54-66
+Okra
+Whitefly
+54
+Okra
+Shoot and fruit borer
+23-54
+Cabbage
+DBM
+17-99
+State Planning Board
+36
+Cabbage
+Cabbage caterpillar
+69
+Cabbage
+Cabbage leaf webber
+28-51
+Cabbage
+Cabbage borer
+30-58
+Cow pea
+Pod borer
+20
+Cow pea
+Aphid
+20-40
+Table 20: Cucurbits: yield loss due to diseases in Kerala - (Area: 9894 ha × 2 seasons per year; 
+expected yield = 2.97 lakh t (@15t/ha)
+Sl. 
+No
+Important diseases
+Yield loss (%)
+Yield loss
+(‘000 T)
+Av. loss in 
+Crores
+I. Cucurbits (Bitter gourd, Snake gourd, Bottle gourd, Little gourd, 
+Ash gourd, Cucumber, Salad cucumber,Pumpkin) (Rs.25/- per kg)
+1
+Viral diseases
+20-30 
+59.4-89.1
+185.63
+2
+Wilt diseases (bacterial and 
+fungal) 
+5-10
+14.9-29.7
+55.75
+3
+Downy and powdery mildew 
+diseases 
+8-10 
+23.8-29.7
+66.88
+4
+Anthracnose, leaf blight, root 
+rot and fruit rot diseases 
+10-12 
+29.7-35.6
+81.63
+Total
+389.89
+Table 21: Vegetable cowpea and beans: yield loss due to diseases in Kerala - (Area: 8748 ha × 
+2 seasons per year; expected yield = 2.10 lakh t (@12t/ha))
+Sl. 
+No
+Important diseases
+Yield loss (%)
+Yield loss
+(‘000 T)
+Av. loss in 
+Crores
+II. Vegetable cowpea and beans etc.  @ Rs. 30/- per kg)
+1
+Wilt diseases (fungal and 
+bacterial)
+20-25
+42.0-52.5
+141.75
+2
+Viral and phytoplasmal dis­
+eases
+10-15
+21.0-31.5
+78.75
+3
+Anthracnose, leaf blight, root 
+rot and fruit rot diseases
+15-20
+31.5-42.0
+110.25
+Total
+330.75
+Table 22: Solanaceous vegetables: yield loss due to diseases in Kerala (Area: 3360 ha × 2 
+seasons per year; expected yield = 0.67 lakh t (@10t/ha))
+Sl. 
+No
+Important diseases
+Yield loss (%)
+Yield loss
+(‘000 T)
+Av. loss in 
+Crores
+III. Solanaceous vegetables (Brinjal, green chillies, tomato etc. @ Rs. 30/- per kg) 
+37
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+1
+Wilt diseases (bacterial and 
+fungal) 
+20-25
+13.4-16.8
+45.30
+2
+Viral and phytoplasmal dis­
+eases 
+20-30
+13.4-20.1
+50.25
+3
+Anthracnose, leaf blight, root 
+rot and fruit rot diseases 
+15-20
+10.1-13.4
+35.25
+Total
+130.80
+Table 23: Bhindi: yield loss due to diseases in Kerala - (Area: 1507 ha × 2 seasons per year; 
+expected yield = 0.36 lakh t (@12t/ha))
+Sl. 
+No
+Important diseases
+Yield loss 
+(%)
+Yield loss
+(‘000 T)
+Av. loss in 
+Crores
+IV. Bhindi @ Rs. 20/- per kg)
+1
+Viral diseases
+25-40
+9.0-14.4
+23.40
+2
+Leaf spot, leaf blight, pow­
+dery mildew, root rot and 
+fruit rot diseases
+10-15
+3.6-5.4
+9.00
+Total
+32.40
+Table 24: Amaranth: yield loss due to diseases in Kerala - (Area: 2094 ha × 2 seasons per year; 
+expected yield = 0.84 lakh t (@20t/ha))
+Sl. 
+No
+Important diseases
+Yield loss (%)
+Yield loss
+(‘000 T)
+Av. loss in 
+Crores
+V. Amaranth (red and green) @ Rs. 15/- per kg) 
+1
+Leaf spot, leaf blight, white rust 
+and root rot diseases  
+10-25
+8.4-21.0
+22.05
+2
+Viral diseases 
+5
+4.2 
+6.30
+Total
+28.35
+Table 25: Potato: yield loss due to diseases in Kerala (Area: 516 ha × 1 seasons per year; 
+expected yield = 0.11 lakh t (@20t/ha))
+Sl. 
+No
+Important diseases
+Yield loss (%)
+Yield loss
+(‘000 T)
+Av. loss in 
+Crores
+VI. Potato @ Rs. 25/- per kg)
+1
+Wilt diseases (bacterial and 
+fungal) 
+20-25
+2.2-2.8
+6.25
+2
+Viral and phytoplasmal dis­
+eases 
+20-30 
+2.2-3.3
+6.88
+State Planning Board
+38
+3
+Anthracnose, leaf blight, root, 
+and tuber rot diseases 
+15-20
+1.7-2.2
+4.88
+Total
+18.01
+Table 26: Cool season vegetables: yield loss due to diseases in Kerala (Area: 1863 ha × 1 
+seasons per year; expected yield=0.23 lakh t (@12t/ha))
+Sl. 
+No
+Important diseases
+Yield loss (%)
+Yield loss
+(‘000 T)
+Av. loss in 
+Crores
+VII. Cool season vegetables (Cabbage, cauliflower, tomato, beet root etc. @ Rs.30/- per kg)
+1
+Viral diseases 
+10-15 
+2.3-3.5
+8.70
+2
+Club root and wilt diseases 
+(fungal and bacterial) 
+20-30
+4.6-6.9
+17.25
+3
+Downy and powdery mildew 
+diseases 
+10-15 
+2.3-3.5
+8.70
+4
+Anthracnose, leaf blight, root & 
+tuber rot and head rot diseases 
+20-25 
+4.6-5.8
+15.60
+Total
+50.25
+Table 27: Vegetable crops - yield loss due to diseases in Kerala
+Sl. 
+No.
+Crops
+Yield 
+loss
+(’000 T)
+Loss in 
+Crores
+1
+Cucurbits (BG, SG, BG LG, AG, Cucumber, Pumpkin etc.)
+156
+389.89
+2
+Veg. cowpea and beans 
+110
+330.75
+3
+Solanaceous vegetables (Brinjal, Green chillies, Tomato, 
+capsicum)
+44
+130.85
+4
+Bhindi 
+16
+32.40
+5
+Amaranth, leafy veg. 
+19
+28.35
+6
+Potato 
+07
+18.01
+7
+Cool season vegetables (Cabbage, cauli-flower, carrot, 
+beet root, radish etc.)  
+17
+50.25
+Total yield loss 
+369
+980.50
+ADOPTION OF MODERN TECHNOLOGY AND PREPARATION OF CROP CALENDAR 
+TO AVOID SURPLUS OF PRODUCE IN MARKET
+The potential of modern technologies such as hydroponics, aquaponics, vertical farming, 
+container cultivation etc (See Annexure II for details) should be exploited in appropriate 
+areas. The use of hormones for improving germination, preventing flower drop, enhancing 
+fruit set, and inducing early or delayed harvest need to be exploited for commercial farming. 
+39
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+Effective Use of Farm Machinery
+Farm machinery suitable for vegetable cultivation must be promoted. Gender-friendly 
+equipment should be designed, developed, and promoted for all stages from seeding to 
+harvest.
+STORAGE AND MARKETING  
+Post-harvest loss must be minimized. Proper marketing interventions targeting each block, 
+awareness and training is needed.
+State Planning Board
+40
+41
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+4. PARTICIPATION OF LSGIs, CO-OPERATIVES, AND FPCs IN 
+VEGETABLE PRODUCTION EFFORTS
+ROLE OF LSGIs ‒ EXISTING SCENARIO
+1.	
+Watershed-based concept is not being effectively implemented 
+2.	
+Integrated farming systems (IFS) approach, which is sustainable and gives more income 
+to farmers are not being implemented. Integrated projects that involve agriculture and 
+allied sectors are not conceptualized.
+3.	
+Projects for backward and forward linkages of production, procurement, and marketing 
+are not prepared at the LSGD level.
+4.	
+LSGIs are not concerned with active participation and involvement of working 
+group members, stakeholders especially bank officials, etc.  in project preparation. 
+Many projects are prepared based on the convenience and ease of execution of the 
+implementing officers, and there exists duplication and non-convergence of projects at 
+the level of various LSGIs  and between LSGI and Departmental schemes.
+5.	
+The problem of providing credit to lease land farmers is not being addressed.
+6.	
+The possibilities of utilizing fallow lands for vegetable cultivation is not being actively 
+explored by LSGIs.
+7.	
+Despite provisions in the project guidelines for enterprises to provide revolving fund 
+and interest subsidy, there is a paucity of organizations in various LSGISs in the areas 
+of input production, procurement, value addition and product diversification, and 
+marketing.  LSGIs have not actively engaged in these sectors.
+8.	
+LSGIs have not so far explored the possibilities of giving assistance, support price, and 
+production bonus for organically and safe-to-eat mode of production of vegetables and 
+other produce.
+ROLE OF CO-OPERATIVES ‒ EXISTING SCENARIO
+1.	
+The huge potential of these institutions in the areas of input supply, ensuring credit 
+needs, procurement of vegetables produced, marketing and value addition, etc. are not 
+exploited at LSGI level.
+2.	
+There are no concerted efforts on the part of LSGIs in actively promoting the 
+participation of these institutions in the sectors of agricultural development, increased 
+income generation of farmers, creating employment opportunities for gulf returnees, 
+and youth and local economic development.
+ROLE OF FPOs/FPCs ‒ EXISTING SCENARIO
+Since these institutions are newly formed, their potential has not been exploited fully in 
+increasing vegetable production in the state.
+ROLE OF LSGIs ‒ THE WAY FORWARD
+1.	
+Provide assistance and make available seeds/seedlings, manures and fertilizers, plant 
+protection chemicals, etc. to vegetable farmers at a subsidized rate. The grama 
+panchayath should concentrate only on production-oriented activities.
+2.	
+Pharmacies for plant-protection chemicals and other inputs should be attached with 
+Krishibhavans similar to the ones associated with Primary Health Centres, Veterinary 
+State Planning Board
+42
+Dispensaries, Ayurveda/Homoeo dispensaries, etc.
+3.	
+Block panchayath should provide all the required seeds and planting materials with 
+the help of a block-level nursery. Seed multiplication plots of high-yielding and newly 
+released varieties of different crops should be carried out at the block panchayath level, 
+and should be supplied to the beneficiaries of the grama panchayath-level projects. 
+4.	
+There should be a production plan and marketing plan for vegetable production and 
+this should be prepared at the block panchayath level based on AEZs and AEMUs. 
+Procurement can be made at the block panchayath level.
+5.	
+LSGIs should ensure the procurement of locally produced vegetables from eco shops 
+and other farmers’ markets under their control for schools and Anganwadis to use in 
+their feeding programmes.
+6.	
+Farmers/farmers’ groups/SHGs, etc. should be trained in modern technologies 
+for vegetable production. This may be done at the block panchayath level with 
+the strengthening and active participation of Block Level Agricultural Knowledge 
+Centres (BLAKC). Necessary infrastructure facilities may be provided to BLAKCs for 
+conducting trainings. 
+7.	
+Fallow land suitable for vegetable cultivation should be fully used for the same. Grama 
+panchayaths should take a lead role in ensuring this.
+8.	
+There are various agencies and groups involved in vegetable cultivation viz., Farmers, 
+Farmer’s groups, member farmers of FPCs, Kudumbashree SHGs, HADA, cluster 
+farmers of VFPCK, Co-operatives, etc. The entire coordination and convergence 
+of these activities should be done at the grama panchayath level only. Projects for 
+providing infrastructural facilities to VFPCK and HORTICORP markets may be 
+taken up by the block and district panchayaths.
+9.	
+District panchayaths should fully concentrate on marketing and supply chain activities, 
+infrastructure development, etc.
+ROLE OF COOPERATIVES ‒ THE WAY FORWARD
+1.	
+Form SHGs of vegetable farmers at the grama panchayath level
+2.	
+Provide interest-free loans to farmers, farmers groups/SHGs
+3.	
+Provide all the required inputs in kind to farmers, farmers groups/SHGs from the 
+depot of the bank. A portion of the loan may utilized for this and the remaining 
+amount may be released in cash for meeting labour expenses.
+4.	
+Procure entire marketable surplus of farmers by fixing a floor price.
+5.	
+Set up sales outlets and sell the produce through them, while forming a network of 
+sales outlets of cooperatives, department markets, etc.
+6.	
+Procurement of farmers’ produce from the production sites to procurement-cum-sales 
+centres through refrigerated reefer vans and ensure the demand and supply at different 
+points.
+ROLE OF FPOS/FPCS
+•	
+Centralised procurement of inputs and distribution among members.
+•	
+Arranging and facilitating credit facilities among groups.
+•	
+Conducting trainings for member farmers on improved production technologies, 
+43
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+primary processing, value addition, etc.
+•	
+Centralised procurement of produce, value addition, and marketing.
+•	
+Setting up of retail outlets in prominent marketplaces.
+•	
+Explore the possibilities of online marketing and door delivery of fresh vegetables and 
+processed products.
+State Planning Board
+44
+45
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+5. MODERNISING EXISTING SYSTEMS OF VEGETABLE 
+PRODUCTION AND INTEGRATION WITH GOVERNMENT-  
+AND LSGD SCHEMES AND POST-PRODUCTION ACTIVITIES
+The existing system of vegetable production should be modernized with an emphasis on INM 
+(integrated nutrient management), IPM, and climate-smart crop production with the assistance of 
+timely information on weather parameters.
+INTEGRATED NUTRIENT, PEST, AND DISEASE MANAGEMENT FOR BETTER 
+PRODUCTIVITY AND PROFITABILITY IN VEGETABLES
+Most vegetables are seasonal crops which live only for a period of 3‒4 months during which they 
+grow, flower, fruit, and die. So, providing the correct quantity of all the required nutrients at the 
+right time is very important. The production potential of newer varieties and hybrids are very high, 
+but to achieve this, the management of the crop should be very scientific.
+Limitations of our soil
+Kerala is in a high rainfall zone and the soil is deficient in basic elements such as potassium, calcium, 
+magnesium and boron. The iron and aluminium contents are very high, and sometimes reach toxic 
+level. The soils are very acidic with low cation exchange capacity (nutrient holding capacity) and 
+water holding capacity. These limitations can be overcome by the addition of organic matter, soil 
+amendments, and chemical fertilizers. Organic matter releases nutrients only very slowly, and the 
+addition of chemical fertilizers will help address this . Providing foliar nutrients is also beneficial for 
+supplementing with high-quality nutrition.
+Integrated Nutrient Management forms the basis of integrated pest and disease management. 
+Losses due to pest and disease is high in vegetables, and organic way of management such as use of 
+homemade botanicals, biological control agents are though useful has lots of limitations in commercial 
+cultivation. Preventive and frequent application are necessary which escalates the cost of cultivation. 
+Fruit flies, internal tissue borers, hoppers, bugs, mites, and nematodes cause considerable economic 
+loss. Downy mildew, bacterial wilt, cucumber mosaic virus, bhindi yellow vein mosaic virus etc., 
+also cause severe loss to farmers. Such losses affect the confidence of the farmer and farmers’ groups. 
+For all of them, immediate and effective remedy is scientific use of pesticides. Rather than fuelling 
+chemophobia, the department should impart pesticide literacy to the farmers. Newer pesticides 
+are comparatively less toxic, more selective, cause less environmental hazards and require only very 
+small quantities to be effective. Use of protective clothing, observance of waiting period, and proper 
+disposal of the containers will have to be emphasized. For commercial and semi-commercial scale 
+cultivation, chemical fertilizers and pesticides are essential. They should be used in such a way that 
+farmers, consumers, and the environment is not adversely affected, which is possible by providing 
+pesticide literacy trainings. Integrating different pest management methods in a harmonic manner 
+is essential to achieving long-term results. Judicious crop rotation should be followed to prevent pest 
+outbreaks. GAP (Good Agricultural Practises) with an emphasis on safe-to-eat vegetable production 
+need to be popularized.
+EXISTING SCHEMES FOR VEGETABLE DEVELOPMENT AND PRODUCTION
+State Plan 
+Please see the first chapter for details. 
+Central Schemes
+MIDH. The terms of the MIDH scheme are as listed below:
+State Planning Board
+46
+1.	
+Seed production for vegetables: Assistance is given for seed production of both open 
+pollinated and hybrid seeds (both for public sector): In 2021-22, a physical target of 
+30 hectares was sought and implemented: No target is sought under hybrid seeds
+2.	
+Assistance for creation of seed infrastructure: Rs 2 Crores: No target is sought 
+3.	
+Area expansion: Vegetable production (hybrid) : Target of 1000 ha (Assistance of Rs 
+50,000 per ha)
+Suggestions. Some suggestions pertinent to the scheme are given below.
+•	
+In the existing schemes, there is very little focus on productivity improvement, and the 
+current focus is on area expansion.  
+•	
+More schemes should be devised on FLD for advanced technologies like aeroponics, 
+hydroponics and vertical farming, and for bee keeping : technology may be adapted 
+and tested from research institutes IIHR, KAU, etc. and tested  before popularising: 
+after successful field testing during the first three or four seasons, schemes may be 
+devised for assistance to beneficiaries on such technologies 
+•	
+Production-linked subsidy and separate assistance may form part of subsidy schemes 
+(differential subsidy rates for cucurbits/cool season vegetables/leafy vegetables)
+•	
+Expert opinion considers protected cultivation schemes a failure. However, due to poor 
+land availability, new schemes may be devised for protected cultivation with renewed 
+vigour in various years (for installation and cultivation during the initial years and 
+maintenance at regular intervals till stabilisation); a strong component for extension, 
+and good service staff should be present 
+•	
+Assistance to State plan projects may be increased by availing more funds from MIDH/
+CSS schemes  
+•	
+Separate strategies and schemes for urban and rural homesteads
+•	
+Pesticide literacy and post-harvest management in campaign mode using Krishi 
+Paadashala
+Improve assistance to Commercial Cultivation of Vegetables (cluster). The terms of the scheme are 
+as listed below:
+1.	
+Assistance for permanent Pandal – 50% assistance limited to Rs. 40000/- per ha. 
+(One-time assistance)
+2.	
+Assistance for temporary Pandal for lease land cultivators Rs. 10000/- per ha.
+3.	
+Assistance for crop cultivation Rs. 30000/- per ha 
+4.	
+Assistance for machination 1. Pump set - 75% assistance limited to Rs. 10000/- per 
+unit.
+5.	
+PP equipment - 75% assistance limited to Rs. 10000/- per unit. 
+6.	
+Staggered clusters – Rs. 30000/- per ha.
+7.	
+Cool season vegetable cultivation (Idukki, Wayanad) - Rs. 30000/- per ha.
+8.	
+Intercrop/multiple crop/mixed crop – Rs. 15000/- per ha.
+9.	
+Production of traditional seeds by clusters and distribution through eco-shop.
+Institutional Cultivation. The provisions are as listed below:
+1.	
+Project based cultivation
+47
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+2.	
+Cultivation of vegetables in small institutions at least 5 per Panchayath (school, 
+Anganavadi, Krishi Bhavan etc.) – Rs. 500/- per cent.
+3.	
+Horticultural therapy
+4.	
+Homestead Cultivation. The provisions are as listed below.
+1.	
+Terrace garden – 20 clay/high quality plastic pot – total cost Rs.4000/- beneficiary 
+contribution Rs. 1000/- 
+2.	
+Irrigation units for terrace cultivation - Family drip – Rs. 7000/- per unit – 25 
+nos.  Wick – Rs. 2500/- per unit – 25 nos. 
+3.	
+Rain shelter 
+4.	
+Pilot project for vegetable cultivation in all homesteads of 5 corporation area – 
+need based support for residence association based on the project submitted for 
+bringing vegetable cultivation in all homesteads of Corporation area. 
+Productivity increase 
+1.	
+Revitalization of clusters - Revolving funds can be given to clusters for payment during 
+procurement from farmers, based on performance and turnover of the cluster
+2.	
+Incentive for farmers for bringing the produce to department/VFPCK markets
+3.	
+Transportation assistance during excess production period
+4.	
+Bio-input centre for clusters
+5.	
+Value addition projects for clusters
+6.	
+Assistance for innovative technologies for clusters
+7.	
+Open precision farming for clusters
+8.	
+Need-based support for already established clusters for technology transfer, for farm 
+schools within the clusters
+9.	
+Production incentive can be provided for farmers whose output is over and above the 
+average productivity for a particular crop.
+10.	 Implement crop insurance against the incidence of identified pests and diseases that 
+exceed a predetermined level of severity.
+State Planning Board
+48
+49
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+6. EXISTING PROCUREMENT AND DISTRIBUTION SYSTEM 
+INCLUDING GOVERNMENT INITIATIVES AND SUGGESTIONS FOR 
+A TRANSPARENT, TECHNOLOGY-DRIVEN PLATFORM
+Among the multitude of challenges faced by vegetable growers in the State, the most 
+important challenge faced by them would be finding a market to sell their produce for an 
+assured reasonable price. Unlike paddy, there is no organized mechanism to procure all the 
+fruits and vegetables produced in the State at a fixed procurement price. The perishability 
+of the commodity makes this task highly challenging for any agency involved in the 
+procurement, storage, and distribution of vegetables.
+The Kerala State Horticultural Products Development Corporation Limited (Horticorp), 
+with 14 centres and 4 sub centres, is an agency established by the State to procure and 
+distribute fruits and vegetables in the State. However, with the present infrastructure, they 
+can procure approximately twenty thousand metric tonnes of produce worth Rs. 60 crores 
+annually. Vegetable and Fruit Promotion Council Keralam (VFPCK) serves as a facilitating 
+agency that helps the farmers undertake wholesale marketing of their produce through 
+290 farmers’ markets (Swasraya Karshaka Samithis) that are established around major 
+production centres and handles approximately one lakh metric tonnes of produce worth 
+Rs. 300 crores. The DoA owns and operates six wholesale markets in the State. Many eco-
+shops, weekly markets, and cluster markets were also initiated by the department all over 
+the State to take up the marketing of fruits and vegetables. Cooperative societies and Local 
+Self Government Institutions (LSGI) also operate hundreds of markets. Though there is 
+no single well-established private agency capable of controlling the price of the produce in 
+the State, the marketing of fruits and vegetables in the State is mostly undertaken by these 
+unorganized private players, and hence, their presence influences the price realization in 
+fruit and vegetable commodities. The State intervenes in these markets on festive occasions 
+to regulate the price.
+In a nutshell, though there are public, private, and Co-operative markets in the sector, the 
+available marketing infrastructure is inadequate and is not regulated by any specific State-
+level legislation. Without ensuring adequate marketing infrastructure that could fetch a 
+reasonable price for the produce, any attempt to double the vegetable production would 
+be incapable of meeting the ultimate goal of the initiative, namely, sustainable production, 
+procurement, and distribution of vegetables in the State.
+KERALA STATE HORTICULTURAL PRODUCTS DEVELOPMENT CORPORATION 
+LIMITED (HORTICORP)
+Kerala State Horticultural Products Development Corporation Limited (Horticorp) is 
+a fully owned Government company under the DoA, Government of Kerala, and was 
+registered with the Registrar of Companies, Kerala in 1989.
+Volume handled and turnover
+During the financial year 2019-20, Horticorp handled approximately 21336 MT of fruits 
+and vegetables amounting to Rs.59.24 crores, and during the financial year 2017-18, we 
+State Planning Board
+50
+handled approximately 19211 MT of fruits and vegetables amounting to Rs.67.95 crores.
+Infrastructure, geographical coverage, and governance
+Horticorp has 13 District Procurement Centres covering all the districts except Kasaragod, 
+and 4 sub-centres in Chadayamangalam, Harippad, Guruvayoor, and Vadakara. In all these 
+centres, fruits and vegetables are procured from farmers, farmer clusters, Swasraya Karshaka 
+Samithis, and agriculture wholesale markets at reasonable prices. Horticorp procures fruits 
+and vegetables directly from the farmers at rates that are 10 % more than the prevailing 
+wholesale market rates and is committed to buying whatever is produced by the farmers 
+at times of glut. The corporation has a wide marketing network throughout the State for 
+the marketing of fruits and vegetables to cater to customer demands. Horticorp is the only 
+one agency in the Government sector involved in the marketing of fruits and vegetables 
+through the 129 Haritha outlets, 278 franchisee stalls, 25 mobile vending units, and 515 
+Government and private institutions including old age homes, pre metric hostels, prisons, 
+and correctional homes, hotels, schools, and KTDC at prices 10‒30 % lower than the 
+prevailing market prices. 
+Currently, all the district-level procurement and distribution centres are managed by 
+Assistant Director-level officials of the DoA Development and Farmers Welfare. This 
+will enhance the efficiency of these centres and help to maintain a liaison with other 
+line departments. This will also enhance district-level marketing as well as the eco-
+shops under various Krishi Bhavans. 
+Issues and Challenges
+The production of vegetables and fruits shows an upward trend owing to the various schemes 
+and measures undertaken by the DoA and allied agencies in this sector. This is a call for 
+Horticorp, in its role as an experienced agency in fruit and vegetable marketing under the 
+state government, to enhance its marketing and distribution network and ensure a fair 
+price for the farmers’ produce. However, without adequate storage and processing facilities, 
+Horticorp cannot manage the large quantities of vegetables that are being procured from 
+vegetable clusters, VFPCK Swasraya Karshika samithies, and wholesale markets. Moreover, 
+the excess produce procured during glut would incur a huge loss to the executer and wastage 
+of a huge quantity of vegetables. 
+From the available statistics (Annexure I), the various fruits and vegetables are selectively 
+cultivated in certain districts. Some vegetables are abundant in some districts, while others 
+might be scarce. Moreover, the production of most fruits and vegetables is seasonal in 
+nature. Certain vegetables that are produced in particular clusters cannot be sold through 
+the outlets already available with Horticorp. On the other hand, the hundreds of eco-shops 
+owned by the department may need specific items from other markets. 
+By planning a two-fold increase in the production of fruits and vegetables necessitates a 
+shift in cultivation from tuber crops and banana and increasing the productivity of existing 
+crops by achieving a 20% annual augmentation in production. Horticorp should handle 
+approximately 1000 to 20000 metric tonnes every year. The excess produce that accumulates 
+in some districts should be transported and evenly distributed through the Haritha outlets, 
+eco shops, and sales outlet run by the co-operative departments and Kudumbashree under 
+the LSG department.
+51
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+Prospects and strategies for integration
+To coordinate business activities effectively, Horticorp needs more infrastructure and retail 
+business strategies. The wholesale market held by the DoA and VFPCK, and the retail 
+market held by Horticorp and Krishibhavans need to be coordinated to ensure a fair price 
+for the farmer and fresh and healthy fruits and vegetables at a fair price for the consumer. 
+Under these circumstances, a strategic shift in the marketing activities of Horticorp needs 
+to be implemented to cope with the increased production and localized availability of 
+fresh fruits and vegetables. Timely harvest is essential for maintaining quality, and various 
+primary post-harvest operations decrease the spoilage and damage of fruits and vegetables. 
+This will benefit farmers by increasing the price and marketable surplus. 
+To achieve these ends, the District Procurement Centres and their distribution systems need 
+to be modernized. The following suggestions have been made by Horticorp to facilitate the 
+doubling of farmer’s incomes in five years.
+1.	
+Hygienically designed and easily cleanable district procurement centres with sufficient 
+storage capacity in each district.
+2.	
+Cold storage facilities for highly perishable commodities at Idukki, Palakkad, and 
+Wayanad.
+3.	
+Establishment of retail outlets under each LSG unit all over Kerala with the help of 
+LSGI and Primary Co-operative Societies.
+4.	
+Temperature-controlled supply chain facilities to link District Procurement Centres 
+with all municipalities and corporations.
+5.	
+Establishment of processing centres at production clusters with the help of Primary 
+Co-operative Societies.
+6.	
+Temperature-controlled vegetable van to facilitate temperature-controlled supply chain 
+facilities. 
+VEGETABLE AND FRUIT PROMOTION COUNCIL KERALAM (VFPCK)
+Vegetable and Fruit Promotion Council Keralam (VFPCK) is a company constituted 
+under section 25 of the Indian Companies Act, 1956. The activities of the council are 
+governed by a Board of Directors with Agriculture Minister as its chairman. Farmer markets 
+under VFPCK have established a system of institutionalized group marketing which has 
+successfully endured two decades. The Market Intelligence Centre managed by VFPCK 
+collects information on arrivals and prices of commodities in Kerala and neighbouring 
+states, and this information is disseminated through print and visual media and to all SKS. 
+VFPCK also undertakes the brand promotion and establishment of branded retail outlets 
+called Thalir and promotes value addition. Recently, VFPCK has ventured into exporting 
+fresh fruits and vegetables to the Middle East, Singapore, and Europe. 
+Volume handled and turnover
+During 2020-21, all 290 VFPCK SKSs traded a total of 1,16,385 MT of fruits and 
+vegetables worth Rs.216 crores. The total quantity of fruits and vegetables traded and the 
+annual turnover of these markets in the last five years given in table 22.
+Table 22. Trading of Fruits and Vegetables through VFPCK Markets: Quantity traded, 
+annual turnover, and average price in the last five years (2015-16 to 2020-21)
+State Planning Board
+52
+Sl. No.
+Financial  Year
+Total Quantity 
+Traded (MT)
+Total Turnover 
+(lakh)
+Average Price  per 
+kg (Rs.)
+1
+2015-16
+102627
+230.00
+22.41
+2
+2016-17
+100213
+280.00
+27.94
+3
+2017-18
+100694
+306.50
+30.44
+4
+2018-19
+82112
+246.45
+30.01
+5
+2019-20
+92129
+274.52
+29.80
+6
+2020-21
+116385
+215.99
+18.56
+Recently, VFPCK has exported 42 metric tons of produce including 4 metric tons of 
+vegetables.
+Infrastructure, geographical coverage, and governance
+There is a network of 290 VFPCK Farmer Markets (Swasraya Karshaka Samithi, SKS) 
+functioning across all 14 districts of Kerala with an annual average of one lakh MT of 
+produce and an annual turnover of Rs. 250‒3002 crores,  making it the single largest 
+organized marketing network of farmers’ markets in the sector in Kerala. The major 
+fruit crops handled by these markets include different types of bananas such as nendran, 
+njalipoovan, palayanthodan, and robusta, and a considerable quantity of jack, pineapple, 
+and papaya. Through these markets farmers trade an array of vegetable crops such as cowpea, 
+bitter gourd, snake gourd, cucumber, ash gourd, coccinea, brinjal, bhindi, tomato, chilly, 
+yams, and diascorea. Many cool-season vegetables like potato, carrot, cabbage, cauliflower, 
+beetroot, garlic, and coriander leaves are also traded through these markets. These markets 
+are managed by an executive committee constituted by master farmers from the associated 
+self-help groups with VFPCK officials as ex-officio members. These markets are closely 
+monitored, and the accounts are audited monthly by a chartered accountant.
+In response to the escalating demand for semi-processed, ready-to-cook, and ready-to-eat 
+food products in Kerala, VFPCK has launched the first outlet for branded vegetables in 
+the State with the brand name Thalir. Apart from this, infrastructure support has been 
+provided to establish a total of 63 eco-shop model outlets (Thalir Green outlets) across the 
+State to support farmers in the production and marketing of safe-to-eat produces. VFPCK 
+has also established two centres for the procurement, processing, and trading of jack fruit 
+at Wayanad & Idukki and a total of seven primary processing centres. The Council also 
+provided infrastructure and techno-managerial support to cut vegetable units, dehydrated 
+ripened banana units, packhouse for banana and vegetables, chips unit, tapioca processing 
+unit, and branded retail franchise outlets called Sasya.
+2This market system has been in place for the past two decades and had been showing a steady upward trend in growth till 2017-18 when the state witnessed the 
+worst flood in a century. Like other agrarian sectors, the flood has affected the fruit and vegetable sector also, and it was reflected in the drop in quantity and 
+turnover in the following year. Although it picked up the next year in terms of both quantity and value, the year 2020-21 has been disappointing in terms of price 
+realization. Owing to the economic crisis due to the COVID pandemic, there was a sharp decline in the average price realized by the commodities.
+53
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+Issues and challenges
+Even though VFPCK’s group marketing concept is considered a replicable model for good 
+participatory marketing, it did not perform with the same efficiency everywhere. The 
+concept of participation implies the existence of a homogenous group. However, on the 
+ground, a group is comprised of individuals with varying views and perceptions, who might 
+respond differently to the same issues. This characteristic of a group could be a strength 
+while solving unforeseen issues in market management but could be counter-productive 
+in some cases. If the marketing committee fails to identify good traders, or exhibits a lack 
+of commitment, it would result in these traders dominating the market, undermining the 
+possibilities of realizing better prices for the commodities. Though the auction system is 
+followed in most VFPCK markets, this tried and tested method for better price realization 
+will not be completely effective in markets where proper grading is not followed.
+Traders are not a homogeneous category and vary in their trading behaviour. Unfortunately, 
+even when a Government agency like HORTICORP procures the produce, there is a 
+considerable delay in payment which needs to be addressed. If there is a delay in payments 
+to the farmers, it would affect the timely execution of cultivation activities. This requires 
+constant follow-up and strict monitoring to recover the payment from these traders. 
+Strengthening these markets requires constant monitoring from the facilitators and support 
+from the State. Today, facilitators are overburdened with the tasks of managing 2‒4 such 
+markets, and an attempt to double vegetable production might put more pressure on them. 
+Improving staff strength could help in handling the increased inflow of produce.
+This model of group marketing has been replicated by various Government agencies. 
+Unfortunately, the number of markets established in some panchayats is not in proportion 
+to the production from that area. These markets established by various agencies target 
+the same farmers, and also seek the same set of traders, resulting in farmers losing their 
+bargaining power and the traders dictating the price. Often, the farmer markets find it 
+difficult to retain their member farmers as they are lured by the other markets or traders with 
+a temporary hike in price, affecting group cohesion. The same farmers enrol as members 
+in multiple organizations with the same objective. This brings in conflicts, questioning the 
+sustainability of those institutions.
+Financial support to farmers is channelled through different Government organizations, 
+viz. Krishi Bhavans, VFPCK, other organizations like Sanghamythri. However, the same 
+farmers are given differential financial aid by these organizations for the same activity. This 
+causes a shift in the loyalty of farmers, ultimately affecting the very foundation of farmer 
+collectivization built on trust and commitment. Self-reliance and self-governance were the 
+pillars on which the VFPCK markets have been built and this helped them endure a quarter-
+century-long journey successfully. All newly established marketing initiatives, except that 
+of VFPCK, are provided with initial capital which once drains out, might fail to keep the 
+interest of the stakeholders and break the system down.
+Though traders are an integral part of a marketing system, forming cartels and reducing 
+the price would ultimately make farming less profitable for the growers, forcing them to 
+State Planning Board
+54
+leave the profession. Eventually, the traders too will be forced to seek new means for their 
+livelihood while consumers will become more dependent on other States to meet their 
+requirements. The inevitable outcome would be the collapse of all these markets.
+Future prospects and strategies for integration
+Doubling vegetable production would demand efficient marketing avenues to dispose of the 
+marketable surplus at a reasonable price. If not planned and managed efficiently, this might 
+turn counter-productive with market glut and price fall. In this context, the following steps 
+could be taken for managing the current crisis,
+1.	
+The concept of panchayat-wise wholesale markets shall be initiated only where there is 
+sufficient produce and enough growers to run it sustainably. In areas with established 
+VFPCK markets, new markets should be avoided, or merged or integrated with the 
+existing VFPCK market. Beneficiaries in that area may be enrolled in a single market 
+and all the financial supports for fruits and vegetables are to be channelized through it. 
+2.	
+All Government funds for marketing of the produce should be routed through farmer 
+markets based on the quantity traded and the financial support provided for a particular 
+activity should be made uniform. 
+3.	
+Except in unavoidable circumstances, HORTICORP shall procure produce from the 
+local farmer markets, and not directly from the individual farmers.
+4.	
+The markets may be encouraged to engage in retail tie-ups with HORTICORP, 
+Kudumbashree, Civil supplies, Consumerfed, etc
+5.	
+Eco shops should handle only produce with GAP or PGS certificate, procured from 
+wholesale farmer markets under VFPCK or other Government agencies.
+6.	
+The members should be incentivized to grade their produce to be traded in a common 
+brand, echoing their uniqueness.
+7.	
+Damage to fruits and vegetables caused by careless handling during harvesting, 
+packing, transportation, storage, etc should be avoided. Proper training to farmers and 
+developing a protocol for post-harvest handling will help them get a better price for 
+their produce. Produce should be handled carefully and transported in crates, cartons, 
+and gunny bags having a brand logo.
+8.	
+Owing to its perishable nature, fruit and vegetable marketing involves tremendous 
+risk and hence, the markets need to be supported with market intervention to avoid 
+distress sales. Supports like market intervention, base price support, and periodically 
+revised sales promotion incentive are to be provided considering inflation accounting. 
+9.	
+At the time of glut, excess produce can be pooled district-wise for sale, if needed. 
+The support needed for this, including permission for using the premises of identified 
+spots, transportation support for pooling the produce, support for infrastructure, 
+labour, etc., have to be provided.
+10.	 Risk fund3,  a scheme intended to support farmers at the time of price fall by providing 
+fair price support and exigency, has been welcomed by the farmers. During the FY 
+3SKS consortium finalizes the base price for the financial year for the major crops in the district based on the cost of cultivation. These prices are reviewed at HQ 
+against MIC data and the base price for each quarter will be finalized. When the price of first-grade produce traded in the SKS falls below the base price the differ­
+ence between the approved base price and the actual price received by the member farmer will be reimbursed.
+55
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+2019-20, Rs. 60.86 lakhs was received as a contribution from GoK and Rs.40.57 
+lakhs was collected as a beneficiary contribution (1984 beneficiaries). This needs to be 
+continued and revised to support the growers.
+11.	 The base price scheme has been declared for only 16 selected fruits and vegetables and 
+does not include all the major crops of our farmers. The activities of the district level 
+price monitoring committee (DLPMC) which was constituted to declare the market 
+price of produce when it falls below the base price should be more effective for the 
+successful implementation of the scheme. It is imperative to provide timely assistance 
+to the farmers.
+12.	 The committee also fails to declare the base price for all the eligible items under the 
+scheme. Therefore, products that are not included in the base price scheme can be 
+supported with the risk fund scheme.
+13.	 Provision of infrastructure for farmers’ markets in the form of land and building would 
+provide an identity for the farmer market, space for the sorting, grading, and marketing 
+of produce, and reduce the expenses of the Samithi in terms of hire charges. The 
+presence of a permanent structure could instil a sense of ownership and pride among 
+the member farmers improving group cohesion and eventually, ensuring sustainability. 
+VFPCK provides the Samithies with land and buildings for trading. Generally, the 
+building consists of a trading hall, an office room, a room for the storage of inputs, 
+and an agro clinic which will provide technical information. Currently, only 126 out 
+of 290 VFPCK markets have their own building. Infrastructural supports need to be 
+provided for the construction of own building for other eligible markets and the fund 
+needs to be allotted for meeting the maintenance expenditure and modernization of 
+the existing buildings.
+14.	 In SKS, marketing of the produce is carried out twice or thrice a week and farmers face 
+difficulty due to a lack of storage facility. A modern cost-efficient storage facility should 
+be provided to reduce post-harvest losses.
+15.	 Support is sought for managing the other projects implemented by VFPCK such as the 
+establishment of Primary Processing Centres, VFPMC, branded retail outlets, and Jack 
+fruit Trading Centre, etc.
+16.	 Value addition can help in ensuring better price for produce, especially during market 
+glut. The value-added product should be procured and supplied by Government 
+agencies and SupplyCo.
+17.	 SKS produce should be branded. Linkages with large supply chains or companies can 
+ensure an assured market for such produce. Geotagging each plot of land and thus 
+maintaining the traceability of the crop output from the farm until it reaches the 
+customer could be undertaken.
+18.	 Among the 300 markets notified as nodal markets in Kerala under the base price 
+scheme, 250 are VFPCK markets. However, only less than 180 SKS are computerized. 
+In some areas, the sales details of many farmers could not be entered into the AIMS 
+portal within the stipulated time due to a lack of infrastructure support like computers 
+and internet facilities. This leads to a delay in entering the sales details of those 
+State Planning Board
+56
+farmers into the portal. Infrastructure facilities for technology-driven marketing with 
+computers and high-speed internet have to be supported.
+19.	 Our present accounting software for SKS is V-soft which was developed in-house. It is 
+a modest software and easy to manage, but owing to data security issues, the data is not 
+connected to a single server. Better accounting software like Tally needs to be installed 
+in all SKSs to handle the expected output from the doubling of vegetables.
+20.	 The possibility of integrating VFPCK markets with eNam needs to be explored to 
+facilitate pan-India trade of fruits and vegetable produced in the State. This has to 
+be carefully designed for better price discovery through a transparent auction process 
+based on the quality of produce along with timely online payment.
+21.	 Integration with other institutions needs to be done. Though some of the LSGDs 
+support VFPCK markets in isolated cases, it is not the norm for these LSGDs to provide 
+budgetary allocation for these markets. This must be revisited and activities of VFPCK 
+need to be supported by this well-acclaimed decentralized system of governance.
+22.	 VFPCK has been entrusted to form 70 FPOs to assist the farmers in areas of inputs, 
+production, processing and value addition, market linkages, credit linkages and use of 
+technology, etc. While forming the FPOs, the VFPCK self-help group will act as base 
+level clusters and the VFPCK farmer market can act as FPOs. The activities of VFPCK 
+markets could be integrated with the FPOs.
+23.	 Recently, VFPCK has ventured into exporting and initiated trading of fruits and 
+vegetables to different markets outside India, such as Kuwait, Dubai, Singapore, and 
+UK, under the brand ‘Thalir’, which needs to be promoted. Plans can be made to 
+export at least 10% of the produce in the SKS with the help of Government support 
+schemes.
+24.	 Support is also being sought for establishing more branded Thalir retail outlets, a 
+north-to-south distribution channel, and a platform for trading organic fruits and 
+vegetables.
+25.	 Continued support is also needed for existing GoK Projects such as the Rebuild Kerala 
+initiative ‘Project on strengthening market network in Kerala’, procurement, trading 
+& processing of jack fruit by VFPCK, market development activities of VFPCK, 
+bulking points, collection centre, agro clinics, Vipani audit fee, SKS computerisation 
+& maintenance, Vipaninet, MIC charges, support for post-harvest handling and value 
+addition units, pack houses, sales promotion incentive, market intervention support, 
+and common facility centre for farmer markets.
+To conclude, if supported with necessary resources, these markets could play a key role in 
+the promotion of vegetable cultivation to achieve the proposed goal of doubling vegetable 
+production in Kerala in the next five years. Hence, providing necessary support to these 
+markets is of paramount importance.
+57
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+7. REFORMING EXISTING GOVERNMENT 
+SCHEMES TO SUPPORT VEGETABLE PRODUCTION
+Reforming existing schemes to improve vegetable production was discussed. The 
+recommendations that evolved from the discussions are summarized below 
+Cafeteria mode outlay with Flexi Funds 
+The vegetable development programme is a prestigious programme of the department 
+launched in the first year of the 12th five-year plan. The outlay provided for the scheme for 
+the last 10 years are shown below
+Table 23: Annual outlay for vegetable development plan
+Year
+Outlay provided, Rs. lakhs
+2012-13
+4850
+2013-14
+6225
+2014-15
+7000
+2015-16
+7000
+2016-17
+7430
+2017-18
+8500
+2018-19
+8700
+2019-20
+7090
+2020-21
+6947
+2021-22
+7445
+Source: Dept of Agriculture Development and Farmers’ Welfare
+To bring more convergence and effectiveness to the schemes that are concerned with output 
+delivery, a cafeteria model allocation is suggested. Department should have flexibility in 
+reallocation between components. All the components could be categorized under two 
+categories, viz., essential and optional. Optional components can be varied depending on 
+the agroecological requirements for timely implementation.  Out of total outlay, 25 percent 
+is suggested as flexi funds under optional components. Government of India has already 
+adopted the flexi funds model in schemes.
+Substantial Increase in Outlay
+In order to double the production more marginal areas have to be brought under vegetable 
+cultivation and the outlay must be more than doubled for meeting the target. The annual 
+fund requirement is projected as Rs.150 crores and Rs.750 crore is projected over the 
+14th five-year plan period for the modified VDP. More and more marginal lands must be 
+cultivated where incremental output will be less, apart from technologies. Additional funds 
+are required to sustain the production in such land.
+State Planning Board
+58
+Inflation accounting in revision
+Along with the increase in outlay, the assistance under different components may be revised 
+once in three years to account for inflation. The practice of using old cost norms must be 
+ended, and the cost of cultivation as well as other requirements must be accounted in the 
+revision of assistance. 
+Green book model approval
+Similar to LSGD schemes, all the components under the VDP may be approved in April 
+itself so that agricultural officers can link with local body schemes for more convergence. 
+Some components are approved quite late and reach the Krishi bhavans after the season. 
+To avoid that, department schemes also may be approved before April end. Necessary 
+administrative systems must be put in place for this.
+Physical targets
+Scheme monitoring may be implemented with physical targets along with financial 
+targets. Now, more focus is given for financial achievements without looking to physical 
+achievements. More monitoring indicators may be developed for physical targets. 
+Production planning
+Production planning has not been attempted in vegetable production in a realistic manner. 
+A new mode of implementation will be initiated with production planning. But the most 
+important part is an expert group at the district level could be formed with statistical experts 
+to guide the production planning process. Crop specialists as well as statisticians could be 
+engaged in developing the production plan. A small budget provision of 5 lakhs per district 
+is suggested as the requirement for production plan preparation 
+Incentives in marketing
+Incentives may be provided to farmers for marketing in cluster markets, along with transport 
+support for transporting surplus produce in times of glut from one market to another. 
+Suggested funding is about 2 lakhs per cluster with markets, preferably A grade clusters
+Trader monitoring and incentivisation
+Traders are not registered with markets at present. A new system of registration may be 
+introduced for incentivizing the traders. Traders taking more quantities with maximum 
+price will be incentivized. Norms will be prepared for this. An amount of Rs.25000 per 
+cluster may be earmarked for this purpose
+Non-lapsable procurement fund
+Issues in marketing and difficulties in getting the amount due to the farmers from the 
+procurement agencies were discussed in detail. Procedural issues often delay the payments 
+for months together. Several farmers in Idukki have reportedly stopped vegetable cultivation 
+due to this issue. To ease the situation, the procedure may be modified so that the amount 
+could be deposited in Treasury itself but may be exempted from all treasury restrictions. 
+Assured and incentivized procurement price
+Assured price is the prerequisite for any production to sustain. A stable incentive 
+procurement price may be introduced along with production increase. The base price is 
+59
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+only a crisis price. An incentivized procurement price is required to attract more farmers 
+into vegetable cultivation.
+Storage at decentralized level
+Adequate capital investment is suggested for establishing cold storage and connected 
+infrastructure under a professional management. Exact fund requirement may be worked 
+out in subsequent meetings. The funds could be sourced from PACS or GOI. Professional 
+management, networking, logistics etc. are more important in this initiative.
+Interest-free credit
+A major reform proposed is the establishment of a system to provide interest-free credit to 
+farmers. As a token, an amount of Rs.10 crore is suggested to initiate the scheme.
+Protection against wild animals
+Human-animal conflict is a serious problem in several areas in the State. A separate budgetary 
+provision may be made to arrange for the protection of crops from wild animals. Boundary 
+protection, technology-based support and compensation are suggested as the components 
+for the scheme. The infrastructure construction, boundary fencing, etc. should be on a 
+participatory manner. An amount of Rs.50 crore may be provided to initiate the project.
+Reform in expansion of New technologies:
+Often, new technologies are introduced without sufficient background work. Before the 
+introduction of technologies, the required technical documents should be prepared, and 
+training should be provided. Quality monitoring of construction materials including those 
+used in micro irrigation in the field should be provided independently. The beneficiary 
+selection should be reformed and only interested beneficiaries need to be identified. A field 
+report on rain shelters and poly houses may be prepared. New technologies like aquaponics, 
+vertical farming, hydroponics, and aeroponics are to be introduced with all precautions and 
+support systems. Excessively subsidy-oriented technology introduction may be discouraged
+Inclusion of pests and diseases in crop insurance
+Crop insurance for vegetables to be made more attractive by including protection from 
+pests and diseases. The crop loss due to pests and diseases in vegetables is estimated at 
+3.6 lakh tonnes. A major reworking of crop insurance scheme is needed to incorporate 
+protection for pests and diseases. An amount of Rs.10 crore may be additionally provided 
+for compensating the modified crop insurance under VDP. Detailed technical parameters 
+could be worked out by an expert team.
+Reforms through AIMS Portal
+The DoA has decided to strengthen the prestigious AIMS portal. All assistance under VDP 
+may be provided through AIMS portal for faster service delivery to beneficiaries.  Private 
+portals are to be approached very carefully considering data security and other related 
+issues. The possibility of developing AIMS portal for marketing must also be explored and 
+expanded. Artificial intelligence and other modern IT technologies should be used under a 
+Government-sponsored mechanism after putting in place the appropriate data security and 
+data ownership agreements.
+State Planning Board
+60
+Faster support response for natural calamities: 
+Loss due to natural calamities are becoming a repetitive problem. Despite considerable 
+crop loss owing to natural calamities for the last three years, compensation has been delayed 
+in a number of cases. A mechanism may be delivered to provide NC assistance within a 
+stipulated period of one or two months.
+Lease land farming
+More encouragement is required for promoting lease land farming. Even though leasing is 
+illegal in Kerala, informal lease is widely practiced in food crops like vegetables, rice, and 
+banana. Several problems have been reported in extending assistance to such farmers due 
+to lack of documentation. Typically, the lease agreement is not shared by the landowners 
+or there may be no lease agreement at all. A farmer-friendly certificate system must be 
+introduced to those who cultivate crops on leased land. Moreover, the upper limit of 
+extending assistance may be increased to 15 acres from 5 acres at present. In the base price 
+scheme also, the upper limit of procurement has been enhanced from 5 acres to 15 acres. 
+The same may be applied to lease-land farmers in extending assistance under the VDP.
+Expansion of organic farming under certification and traceability
+Organic farming practices like certified organic agriculture, safe-to-eat mode of production, 
+Good Agricultural practices, Vrikshyurveda, and BPKP, are finding wide acceptance in 
+Kerala. A certification authority may be formed under the DoA for the certification of 
+organic agriculture. A traceability system must be introduced to ensure higher prices for 
+the farmers. A higher price must also be ensured. A pricing scheme may be worked out 
+to expand organic agriculture. KAU may provide a final package of practices for organic 
+agriculture based on the State-of-the-art, and replace the ad hoc package of practices released 
+more than 10 years ago. A marketing system also may be introduced for organic agriculture 
+under a common brand name. An amount of Rs.15 crore is suggested as a budget support 
+for these new initiatives.
+61
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+8. REVIEW OF AIMS PORTAL; SCOPE FOR BLOCKCHAIN-ENABLED 
+LOGISTICS AND INFRASTRUCTURE SUPPLY CHAIN BACKBONE 
+FOR AGRICULTURAL PRODUCE; SCOPE FOR 
+AGRI-STARTUP MISSION
+Agricultural Information Management System (AIMS) portal is a remarkable initiative by 
+the Government of Kerala to provide many crucial services to the farming community in 
+the State. It is effectively used to serve as a single window for data collection for planning 
+and dissemination of information to a multitude of stakeholders, viz. farmers, policymakers, 
+officials, traders, scholars, and the civil society.
+Suggestions:
+1.	
+Despite its comparative effectiveness, the design of the AIMS portal needs improvement. 
+The site has been noted to be very slow, particularly during the afternoons even when 
+accessed by trained personnel. Uploads and OTP generation is also tedious. If the site 
+is to be used to its full potential, the server capacity needs to be improved manifold.
+2.	
+User-friendliness must be ensured, keeping in mind that the portal targets farmers 
+who may not be highly conversant with computers. AIMS kiosks may be installed at 
+local Krishi Bhavans, VFPCK Markets, and other institutionalized markets with large 
+screens and voice assistance. Short instructional videos, Aadhar-linked population of 
+basic details, drop-down menus with ‘other’ option for additional information, and 
+user-friendly scanning facilities for photographs and documents must be ensured. 
+3.	
+The information required should be minimized to what is strictly necessary, and there 
+must be uniform requirements across the State. For instance, the lease land growers in 
+the Malappuram district were exempted from submitting the tax receipts of the owners 
+whereas many other farmers from other districts could not avail of the facility. 
+4.	
+When applying for claims, the cost of production, potential yield, ceiling, etc, need to 
+be fixed more realistically. For instance, as of now, the potential yield of banana is fixed 
+at 10 tonnes per ha which is far below the yield realized by a good farmer.
+5.	
+The market prices of the commodities need to be closely monitored and the declaration 
+of price fall by the District Collector needs to be done without any delay. 
+6.	
+Submission of details from the bills of an institutional market is mandatory for claiming 
+the base price. It could be simplified by linking the first entry in the market using a 
+unique ID to the claim submission.  
+7.	
+Presently, claim submission is a long process and this needs to be simplified further. 
+Claim settlement too, is delayed and steps are to be taken to address this issue. 
+8.	
+Appropriate and legally binding steps need to be taken to bring those farmers who 
+cultivate in lands without title deed (Patta) under the coverage of the AIMS portal. 
+As granting patta depends more on the State than the individual, these farmers who 
+contribute considerably to agriculture, must be brought under the purview of such 
+schemes.
+9.	
+An SMS update to the registered farmers is of utmost importance to ensure 
+accountability and transparency. This will help them update themselves about their 
+State Planning Board
+62
+stage of registration, application status of various services, submission of further 
+documents, missing information, approvals, sanction, and disbursement of assistance. 
+10.	 Once registered, reminders to the members could be sent through SMS with direct 
+links for further actions such as registering their next crop or applying for the base 
+price scheme. 
+11.	 After the portal is made user-friendly and accessible to the majority of the farmers, 
+farmers need to be incentivized enough to provide more data on the cost of 
+production, reporting of pests and disease outbreaks, irrigation, harvest details, price 
+realized, reporting price fall, etc. and they should be rewarded for doing so. This is of 
+paramount importance in generating more reliable and updated data to feed into the 
+policy-making process. 
+12.	 The same data could be used for providing sales promotion incentives to the growers 
+with additional incentive for mixed cropping and crop rotation, on top of the 
+production incentives.  
+13.	 The data thus generated should be made accessible to farmers, policymakers, officials, 
+traders, scholars, and civil society while protecting the privacy of the registered growers. 
+This could pave the way to the preparation of a production plan which could be able 
+to address the issues of crop diversification and market glut, thus making a step further 
+towards attaining the goal of economically viable, ecologically sound, and socially just 
+agriculture.
+BLOCKCHAIN-ENABLED LOGISTICS AND INFRASTRUCTURE SUPPLY CHAIN 
+BACKBONE FOR AGRICULTURAL PRODUCE IN KERALA
+Introduction
+The objectives of this scheme are
+1.	
+Assured markets and price realisation for farmers as the driver to increase production, 
+area of cultivation and income of farmers of vegetables, fruits, and tuber crops.
+2.	
+Decentralised and assured procurement for every possible region in Kerala, with no 
+farmer left without a procurement centre at their nearest proximity (ward level, at best) 
+3.	
+Enable all players – Government, LSGs, State marketing agencies, FPOs, PACs, 
+Kudumbashree, farmers, farmer collectives and private vendors, by providing them 
+with a professionally run, regulated and functioning logistics backbone and supply 
+chain system to plug in, register and function as a producer, procurement agency, 
+logistics operator and/or marketing agency.
+4.	
+Enable better demand mapping - area, crop, season and quantity wise, and help better 
+crop planning, production and supply so as to avoid market failures either due to 
+insufficiency or glut.
+Proposed idea
+Instead of State-assisted production support through schemes and subsidies, and a highly 
+inadequate market support through State-run marketing agencies and shops, the proposal 
+is to build, establish, and offer a professional end-to-end, blockchain-enabled logistics and 
+infrastructure supply chain backbone for agricultural produce (mainly vegetables/fruits/
+63
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+tuber crops) in Kerala. This can have the following core elements from the top end to the 
+bottom end 
+- A centralised blockchain-enabled information management and control system (IMCS) 
+with a registration and plug in option for producers, procurement agencies, logistics 
+agencies, and end suppliers. Each of these types of users may be provided an app to plug 
+into the system.
+- A cold chain transport logistics, with long haul capability for inter district movement and 
+short haul capability for local intra district movement. The cold chain transport logistics 
+can be electric driven as much as is practically possible. All these logistics that may be run 
+by various players should be connected to the IMCS. 
+- A chain of cold storages established at the block or other appropriate level, and operated 
+by various players, all connected to the IMCS.
+- A local chain of smaller storage systems, as need be, at the panchayath level, based on 
+assessment study and growth of production. Such storages may also be run by various 
+players and are also connected to the IMCS. 
+- Local (at best, ward level) centres/outlets that double as the procurement centre as well 
+as sales outlet, to which registered farmers can go and deliver their produce, their produce 
+checked for quality, weighed and data entered IMCS. These Local centres/shops may be 
+setup and run by any of the above players, including local panchayaths.
+Scheme of operations
+Presently, we do not have any modern system that looks at agriculture marketing through the 
+entire supply chain perspective. While the DAFW continues to run schemes that promote 
+crop production, it should additionally enable the professional and technical upgradation 
+including expanding the mandate of either the Horticorp or the VFPCK or facilitate a 
+collaborative institution that should build and professionally run a backbone supply chain 
+and IT infrastructure. 
+The operation of the system may be described simply as below.
+1.	
+A farmer, whether they be large, small, marginalised or landless, should be able to 
+register as a producer, if they have marketable surplus, and should be able to predict and 
+enter the expected crop, quantity and approximate periods of supply, in an application 
+like the AIMS that would be part of the IMCS. This leads to an estimate of crops and 
+quantities in a season. Accordingly, the IMCS may designate a local centre to which 
+the farmer can deliver their produce. This may be a centre nearest or most accessible to 
+them, preferably in the ward where they have the farm/home. 
+2.	
+Local centres are agencies that may be setup by any of the Government, LSGs, any 
+State-owned marketing agencies, FPOs, PACs, Kudumbashree, farmers, farmer 
+collectives and private vendors. They can be the shops already functioning such as 
+Horticorp, VFPCK, Eco shops etc. These are also to be registered with the IMCS and 
+have an app to enter and process procurements and sales data.
+3.	
+Once the farmers bring their produce to a designated centre, the personnel in charge of 
+State Planning Board
+64
+the local centre checks the quality of the produce, weigh and accept the produce. The 
+data is entered in the app with the register number of the farmer. The farmer gets the 
+payment at the Government fixed rates (MSP/Base price) within the stipulated period. 
+The quantity of produce is added automatically to the block chain. The produce could 
+get sold in their shop itself, and as it is done, the quantity is reduced from the central 
+data base. The produce may also move further up the supply chain.
+4.	
+The produce that is available and needs storage would then move out through 
+designated vehicles to one of the various levels of storage, at the panchayath/block 
+levels for further onward supply according to demand.
+5.	
+At the demand side, the registered traders or any agency that wishes to procure and 
+sell the produce may register and raise their demands prior itself, and depending on 
+availability, the produce gets organised at the storage/organising yards and the products 
+are delivered  to the demand side agencies upon payment. 
+6.	
+A stock taking and specific sale strategies for items that remain beyond a certain period 
+may then be taken at the Block/ District or State level depending on the nature and 
+quantity of the produce.
+Considerations 
+1.	
+The system needs a professional, technically sound, modern management agency with 
+good HR and trouble shooting skills. Such a team needs to be handpicked, trained, 
+and deployed.
+2.	
+Blockchain technology is a time tested one for supply chain management. It has its 
+costs but in terms of building transparency and full chain traceability, adopting this 
+could be critical.
+3.	
+Instead of looking for a new institution to run the system, we can upgrade either 
+the Horticorp or the VFPCK, or have a collaborative body that runs the system. 
+Alternatively, it may also be entrusted to a professional agency, which has proven 
+standards and experience.
+Way forward 
+This proposal cannot be fully implemented at a go, and needs very careful evaluation, 
+planning, designing, some restructuring, institution building and execution, preferably 
+with pilot projects and then gradual expansion to the whole State. 
+Before a DPR is prepared, we may generate a virtual model based on available data for a 
+district and do virtual runs to be convinced of having such a model. This can adopt the 
+blockchain technology so that the software system is also tested. Such a model can be 
+developed with the help of available resources in Kerala, such as engineering students, KAU 
+etc.
+The preparation of a DPR with a clear ToR may be entrusted to an agency of repute and 
+experience. 
+Resources
+A well-prepared DPR with estimates and field level time-lined action plans will help raise 
+65
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+resources for this ambitious project. One can look for resources from various sources, 
+including plan funds, infrastructure investment budget through NABARD refinancing, 
+equity contributions from major players in the supply chain or from individual investors, 
+like in the CIAL model, KIIFB borrowings, or even an ambitious attempt at the World 
+Bank fundings. 
+Endnote
+In this era of cutting-edge technology, drones, artificial intelligence and machine learning, 
+etc., one might wonder why these technology barely benefit farms and farmers. Even today, 
+farmers work the earth against all odds including weather and financial constraints, and 
+then wait for an almost non-functional and arbitrary market system, that even if it works, 
+never pays them a remunerative price. Farmers and entrepreneurs need to submit hard copy 
+documents every time they apply for benefits. It is time that we automate such systems, 
+and the best place to start is to make “Ease of Farming and Marketing” as that State policy.
+The automation of agriculture offices is a welcome mover, but it is of no use if the services 
+of such automated system does not positively and effectively make life easier for the farmers. 
+It would be apt to allow the process to start at the most needed market access and price 
+realisation, so that even while the income of the farmers improve, the production could be 
+doubled, as is the goal. 
+SCOPE OF KERALA AGRI START-UP MISSION
+An Agri startup mission is primarily geared to address the needs of early starters, innovators, 
+motivated young farmers, and entrepreneurs in the rural and agriculture field. It has the 
+following objectives.
+1.	
+To pro-actively scout for, identify, mentor, and incubate individuals/groups, potential 
+Start-ups, with planning, management, technology, training, financial hand holding 
+and other needs to make them evolve into viable and successful rural/agri entrepreneurs.
+2.	
+To ensure case-by-case needs assessment and need-based support for potential startups/ 
+entrepreneurs in rural/agri field and facilitate/mentor their growth.
+3.	
+To build quality in agri produce, larger reach of organised collective/cooperative 
+production, processing and market support and better realisation of farmer-level 
+income. 
+Proposed idea
+Presently, any person/group entering the field of agriculture with a vision that involves not 
+just farming but the building of their own enterprise around it, must follow the same pattern 
+of rigidly fixed schemes, becoming beneficiaries through the DoA system, approaching and 
+negotiating with finance agencies and banks, meeting serious roadblocks and in the process 
+of building such an enterprise, becoming fatigued. While technology support is available, 
+access is still limited with no professionally managed agency to bridge the gaps. 
+A one-stop centre, a professionally managed Kerala agri start-up mission, with both 
+centralised and regional expertise, and whose mandate is to identify and enable the growth of 
+agri start-ups and enterprises is the need of the time. This can have the following operations 
+State Planning Board
+66
+1.	
+A professional agency, the Kerala agri-start-up mission with regional centres/agencies 
+franchised/directly run, with expertise in agriculture field level enterprise building, 
+planning, management, training, technology linking, financial linking and marketing.
+2.	
+The agency can run skills programmes, scouting and identification exercises, incubation 
+and launch pad schemes, mentoring and training programmes, as well as long term 
+support programmes.
+3.	
+The agency would handhold the identified group through its incubation and fledgling 
+stages, till it matures to a self-reliant enterprise. 
+67
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+9. SUMMARY
+14TH FIVE YEAR PLAN – PROPOSAL FOR VEGETABLES
+Critical gaps in formulation and implementation of schemes during 13th plan
+•	
+Lack of integration between agencies, DoA, VFPCK, Horticorp, and LSGs in the 
+implementation of vegetable development schemes. 
+•	
+Inadequate mechanism to assure the quality and supply of seeds, grafted seedlings, 
+bioinputs, limited use of Agromet advisory service, poor adoption of soil test based 
+fertilizer application.
+•	
+Inadequate storage, transport, and marketing support.
+•	
+Lack of AEU-based crop production and marketing plan; no production plan or 
+staggered crop production for daily supply to potential markets
+•	
+Incomplete database about farmers and local vegetable production. Potential of IOT 
+not exploited.
+•	
+No proper support for farmers cultivating on leased land
+•	
+Identification of beneficiary and distribution of assistance is based on area and not on 
+production
+•	
+Lack of continued support for farmers availing assistance under protected cultivation.
+•	
+No convergence mechanism to accommodate social organizations involved in vegetable 
+cultivation. 
+Proposal for Vegetable Sector in Kerala : 14th five year plan
+1.	 Promote commercial vegetable cultivation in potential AEUs (1,2,3,8,9,10,11,12,13, 
+17,18,20,21,22,23) through cluster approach to increase the production of vegetables 
+from 15.7 lakh tones in 2019-20  to 31.4 lakh tones by  end of the 14th Five Year 
+Plan. Adopt location specific production protocol with respect to season of cultivation, 
+soil management, selection of varieties/hybrids, stress management, harvesting and 
+marketing. The production potential in each AEU should be identified and target-based 
+production based on the 15 AEUs should be planned accordingly. The production of 
+vegetables should be targeted according to the potential of each locality, such that there 
+will not be any excess production of a single vegetable which can result in market glut.
+2.	 More emphasis should be given to the attainment of the physical plan target than the 
+financial plan at the field level. A road map for the formulation of a production plan 
+needs to be done for staggered vegetable farming, not only in commercial fields but 
+also in the homesteads and institutions. Explore the feasibility of establishing “market 
+intelligence” centres to provide an idea of the possibility of the potential crop which the 
+farmers can grow in the coming season to fetch maximum price in markets. 
+3.	 Promote scientific organic farming that stresses safe-to-eat vegetables. A campaign to 
+“Eat local food” needs to be popularised to ensure the marketing of farmers’ produce 
+via responsible branding. Promote kitchen gardens with a thrust on organic farming 
+and waste recycling. Functioning of pesticide residue detection labs in three zones of 
+Kerala should be strengthened for detecting the presence of new pesticide molecules in 
+vegetables.
+State Planning Board
+68
+4.	 Adopt a comprehensive policy for popularizing hybrids/HYVs with respect to seed 
+source,  nutrient schedule, training, pruning, and pest management. Promote cultivation 
+of market- friendly vegetables like seedless watermelon, coleus, hot chilli, beans and 
+cauliflower among commercial growers after identifying potential AEUs.  Quality of 
+Seeds marketed by Private seed companies should be regulated. Independent agency 
+should be entrusted for seed testing to ensure quality of seed produced by farmers as 
+well as by different agencies. 
+5.	 State/District seed production plan may be prepared for seed and planting material 
+production and marketing involving/linking various agencies including KAU, VFPCK, 
+DoA, NSC, and identified private seed companies. Promote participatory farmer seed 
+production in self pollinated crops like cowpea.  Functioning of farms under State 
+DoA may be improved through purchase of nucleus seeds of new varieties, improving 
+infrastructure facilities of the farms/nurseries for enhancing quantity and quality of 
+planting materials etc. Assist seed multiplication and popularization of new varieties of 
+vegetables released by KAU. Establish a State level seed certification agency as envisaged 
+in Seed Act.
+6.	 Promote nutrigarden concept in all households and flats with a stress on rain shelter 
+vegetable production, terrace farming, vertical garden, container cultivation, and 
+promoting Panchamam in nutrigardens with a minimum of five crops, viz, moringa, 
+chilli, curry leaf, cow pea and papaya. 
+7.	 Popularise rain shelter, low-cost polyhouse, and net-house cultivation of vegetables so 
+that crops like salad cucumber, yard-long bean, grafted chilli, and cherry tomato can be 
+grown.  Establishment of shade net-house nurseries is to be encouraged for the supply 
+of seedlings and grafted seedlings, and such nurseries may be recognized by the State 
+DoA. Grafted seedlings may be used in the case of hybrids and units at the block level 
+may be trained for the production of grafted seedlings. 
+8.	 Promote soil test-based fertilizer application for commercial farming with a thrust on 
+INM. Ensure soil testing as a part of all production schemes and promote campaign 
+approach for periodic soil testing with the participation and coordination of all agencies. 
+Establish three referral labs for detailed soil testing. Promote ready-to-use mixtures like 
+Sampoorna, and Ayar.
+9.	 Agromet advisory services should be improved with location-specific bulletins for each 
+AEU and farmers may be selected and involved in data collection and dissemination of 
+weather-based advisory service.  
+10.	Popularise open precision farming, mechanization with emphasis on solar pump sets 
+and solar-based fencing to prevent the attack of wild animals in vegetable-growing 
+clusters. Promote polyhouse vegetable cultivation in appropriate areas with continuous 
+training and assistance to farmers.   Adopt modern techniques like hydroponics, 
+aquaponics, vertical farming in urban and semi urban clusters.
+11.	Adopt IPM, biocontrol agents such as Trichogramma, Trichoderma, Pseudomonas, 
+Piriformospora, new botanicals, neem soap, Pongamia soap, pheromone traps, other 
+types of traps, ecological engineering- promote marigold cultivation once in a year in 
+69
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+commercial growing tracts, adopt non-host plant cultivation, explore newer pesticide 
+molecules with low toxicity, promote pesticide literacy. On-farm production of 
+bioagents should be promoted in each cluster. Implement crop insurance against the 
+incidence of identified pest and diseases beyond a threshold level.
+12.	Research should be focused on development of high quality hybrids and varieties, 
+pest and disease resistance. Tapping potential of modern technology, addressing the 
+challenge of climate change, conservation of local vegetable gene pool, promoting 
+biological control in stress management, new value addition protocol for popular 
+vegetables. Tropical vegetable research centre should be established to coordinate and 
+prioritize vegetable research.  
+13.	Promote convergence involving  DoA, VFPCK, Horticorp, LSGs and Kudumbashree, 
+and integration of the roles and responsibilities of all the stake holders pooling all the 
+available resources at various levels of LSGIs. A three-tier production plan of vegetables 
+involving panchayat-level support for the arrangement of seeds, planting materials, 
+and production inputs, block-level support for procurement as well as marketing and 
+district-level support for value addition of the products should be followed. 
+14.	There should be a professionally managed, IT-enabled decentralized procurement and 
+marketing system, and this should ensure remunerative price to the producers. The huge 
+potential of FPOs/FPCs and co-operatives should be exploited in the next five years 
+in the field of procurement, value addition, and marketing of vegetables. Necessary 
+changes should be incorporated in the project guidelines to achieve these objectives of 
+increasing production, productivity, sustainability, employment generation and income 
+increase of vegetable farmers.
+15.	More schemes should be devised on FLD for advanced technologies like aeroponics, 
+hydroponics, and vertical farming, bee keeping : technology may be adapted and 
+tested from research institutes  before popularising: after successful field testing using 
+schemes during the first three or four seasons, schemes may be devised for assistance to 
+beneficiaries on such technologies 
+16.	Production linked subsidy and separate assistance may form part of the subsidy schemes 
+(differential subsidy rates for cucurbits/cool season vegetables/leafy vegetables). Improve 
+assistance to Commercial Cultivation of Vegetables (cluster) by 25 to 50% from current 
+rate. Bring farmers cultivating in lease land also under subsidy regime.
+17.	Assistance to production of State plan projects may be increased by availing more funds 
+from MIDH/CSS schemes. Promote INM, Agromet bulletins, Pesticide literacy and 
+post harvest management in campaign mode using Krishi Paadashala
+18.	Procurement and marketing of vegetables should be streamlined by defining clear roles 
+to Horticorp, VFPCK and DoA. For handling farmer’s produce, establish hygienically 
+designed and easily cleanable district procurement with sufficient storage capacity in 
+each district. Install cold storage facilities for highly perishable commodities at Idukki, 
+Palghat, and Wayanad. Establish retail outlets in every LSG all over Kerala with the 
+help of LSGI and Primary Co-operative Societies. Promote temperature-controlled 
+supply chain facilities linked with district procurement centres in all municipalities 
+State Planning Board
+70
+and corporations. Establish processing centres at production clusters with the help of 
+Primary Co-operative Societies. 
+19.	Vegetable and Fruit Promotion Council Keralam (VFPCK), with a network of 290 
+Farmers’ Markets (Swasraya Karshaka Samithi, SKS) handles over one lakh MT of 
+produce worth 250‒300 crores annually. As group marketing involves bulking the 
+farm produce at a single point, providing infrastructure support to these markets is of 
+paramount importance. Those areas, where there exists an already established VFPCK 
+market, shall be avoided while initiating any new State-funded market, or such markets 
+could be integrated with the existing VFPCK market. Channelling all the financial 
+support for fruits and vegetables through these farmer markets based on the quantity 
+traded would ensure accountability and transparency. VFPCK is primarily involving in 
+wholesale and by providing linkages to other State-organized ventures like Supplyco, 
+Consumerfed, PDS, and mid-day meals, etc., and with logistic support to the council, 
+a substantial share of these produce from the farmers’ markets could be distributed to 
+the consumers at a reasonable price. FPOs could be effectively utilized for organizing 
+this. Moreover, it should be a priority to develop the online under the Thalir brand. 
+Though it has initiated export activities, it could be made a profitable venture only if 
+rejections could be managed through branded outlets. Modernization of these markets 
+with computerization and high-speed internet is necessary with the technological 
+change. All these need to be done in a mission mode assessing the realistic quantity of 
+production and demand in the market. To ensure that the farmers continue to take up 
+vegetable cultivation as a profitable and sustainable venture, and to ensure their welfare, 
+the pricing in all platforms involved in the trading of the produce needs to be regulated 
+through State legislation.   
+20.	Cafeteria model allocation is suggested to bring more convergence and effectiveness of 
+schemes in output delivery. All the components could be categorized as either essential 
+or optional. Out of total outlay, 25 percent is suggested as flexi funds under the 
+optional components. More than double the outlay is required for meeting the target 
+of doubling vegetable production. The annual fund requirement is projected as Rs.150 
+crores. Along with the increase in outlay, the assistance under different components may 
+be revised once in three years to account for inflation. Similar to LSGD schemes, all 
+the components under the VDP may be approved in April itself similar to green book 
+model. A new mode of implementation may be initiated with production planning.
+21.	Incentives may be provided to farmers for participation in cluster markets as well as a 
+transport support for transporting surplus produce from one market to another in times 
+of glut. A new system of registration of traders may be introduced for incentivizing 
+them. Traders taking more quantities with maximum price may be incentivized. 
+Assured price is the prerequisite for any production to sustain. A stable incentivized 
+procurement price may be introduced along with production increase and the creation 
+of a non-lapsable procurement fund for assured payment for the farmers.
+22.	A major reform is proposed to provide interest free credit to farmers. A major scheme 
+is suggested for the protection of crop from wild animal attack. Crop insurance for 
+71
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+vegetables to be made more attractive by including pests and diseases also. Often 
+new technologies are introduced without sufficient background work. Before the 
+introduction of technologies, relevant technical documents should be prepared and 
+personnel should be trained. More encouragement for promoting lease-land farming is 
+required. In lease-land farming a farmer-friendly certificate system must be introduced 
+to help engage more farmers. Similarly, the upper limit of extending assistance may be 
+increased to 15 acres from the current 5 acres with adequate budget provision. 
+23.	All assistance under VDP may be provided through the AIMS portal, which needs 
+to be revamped, for faster service delivery to beneficiaries.  Private portals are to be 
+approached very carefully considering the data security and other connected issues. 
+The possibility of developing the AIMS portal for marketing also to be explored and 
+expanded. 
+24.	Different modes of organic farming are gaining popularity in the State. A certification 
+authority may be formed under the DoA for the certification of organic agriculture. 
+Export potential of ethnic vegetables under organic branding should be explored. 
+25.	Explore the scope of establishing a professional, end-to-end, blockchain-enabled 
+logistics and infrastructure supply chain backbone for agricultural produce (mainly 
+vegetables/fruits/tuber crops) in Kerala.  Promote Agri startups.
+State Planning Board
+72
+10.ANNEXURE 1
+ 
+Department of Economics and Statistics, Kerala 
+73
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+AREA UNDER CROPS 2018-19 
+(Area in Ha) 
+Sl. 
+No. 
+District 
+Tapioca 
+Tubers 
+Autumn 
+Winter 
+Summer 
+ 
+ 
+ 
+ 
+Total 
+Elephant Foot 
+Yam 
+Colocasia 
+Yarn (Kachil) 
+Sweet Potato 
+Koorka 
+Nanakizhangu 
+Other Tubers 
+ 
+ 
+ 
+ 
+Total 
+1 2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+1 Thiruvananthapuram 
+3306.06 
+3495.3 
+6236.47 13037.83 
+313.1 
+486.75 
+46.67 
+11.94 
+0.96 
+24.35 
+99.48 
+983.25 
+2 Kollam 
+2832.59 
+4383.51 
+5693.53 12909.63 1005.86 
+1268.41 
+414.89 
+2.09 
+1.76 
+56.59 
+59.42 
+2809.02 
+3 Pathanamthltta 
+684.34 
+1457.58 
+2540.51 
+4682.43 
+993.07 
+1128.6 
+397.32 
+1.53 
+1.78 
+59.01 
+1.77 
+2583.08 
+4 Alappuzha 
+204.84 
+552.63 
+1098.24 
+1855.71 
+473.79 
+580.19 
+135.02 
+4.38 
+2.25 
+33.91 
+0.16 
+1229.7 
+5 Kottayam 
+788.35 
+2207.69 
+2964.31 
+5960.35 
+400.29 
+395.14 
+72.63 
+0.23 
+0.53 
+4.18 
+0 
+873 
+6 Idukki 
+1141.91 
+2158.48 
+2661.86 
+5962.25 
+552.57 
+567.02 
+162.03 
+4.5 
+22.84 
+2.89 
+10.07 
+1321.92 
+7 Ernakulam 
+999.74 
+989.45 
+3032.91 
+5022.1 
+214.37 
+184.43 
+19.82 
+3.17 
+38.61 
+2.07 
+0.75 
+463.22 
+8 Thrissur 
+221.2 
+222.03 
+533.03 
+976.26 
+46.3 
+140.12 
+6.39 
+2.26 
+167.06 
+0.06 
+22.21 
+384.4 
+9 Palakkad 
+437.88 
+482.46 
+804.81 
+1725.15 
+588.51 
+378.47 
+21.63 
+51.22 
+648.37 
+16.42 
+134.99 
+1839.61 
+10 Malappuram 
+1118.64 
+1076.6 
+2743.1 
+4938.34 
+497.78 
+428.98 
+47.67 
+44.62 
+33.99 
+11.16 
+68.36 
+1132.56 
+11 Kozhikode 
+221.58 
+422.46 
+716 
+1360.04 
+185.47 
+454.95 
+26.25 
+10.59 
+4.8 
+3.38 
+56.6 
+742.04 
+12 Wayanad 
+191.8 
+231.08 
+800.4 
+1223.28 
+737.55 
+160 
+48.25 
+2.8 
+1.53 
+0.04 
+0.3 
+950.47 
+13 Kannur 
+226.77 
+595.61 
+978.3 
+1800.68 
+116.17 
+322.78 
+16.43 
+19.92 
+4.52 
+1.32 
+53.37 
+534.51 
+14 Kasaragod 
+59.05 
+216.65 
+144.41 
+420.11 
+32.71 
+81.32 
+6.53 
+51.16 
+1.51 
+0 
+0.81 
+174.04 
+State Total 
+12434.75 18491.53 30947.88 61874.16 6157.54 
+6577.16 1421.53 
+210.41 
+930.51 
+215.38 
+508.29 
+16020.82 
+State Planning Board
+74
+ANNEXURE II
+New technologies for vegetable crop production
+Hydroponics 
+Hydroponics is a technology for growing plants in nutrient solutions (water and fertilizers) 
+with or without the use of an artificial medium (e.g. sand, gravel, vermiculite, rockwool, 
+peat moss, sawdust) to provide mechanical support. Liquid hydroponic systems have no 
+other supporting medium for the plant roots; aggregate systems have a solid medium of 
+support. Hydroponic systems are further categorized as open (i.e., once the nutrient solu­
+tion is delivered to the plant roots, it is not reused) or closed (i.e., surplus solution is recov­
+ered, replenished, and recycled). 
+The principal advantages of hydroponics include high crop yield, crop production where 
+no suitable soil exists, more efficient use of water and fertilizers, minimal use of land area, 
+and suitability for mechanization and disease control. A major advantage of hydroponics, as 
+compared with growth of plants in soil, is the isolation of the crop from the underlying soil, 
+which often has problems associated with disease, salinity, or poor structure and drainage. 
+The costly and time consuming tasks of soil sterilization and cultivation are unnecessary 
+in hydroponic systems and a rapid turnaround of crops is readily achieved. Because of its 
+significantly higher costs, successful applications of hydroponic technology are limited to 
+crops of high economic value, to specific regions, and often to specific times of the year 
+when comparable OFA crops are not readily available. Repeated pricing studies have shown 
+that only high-quality, garden-type vegetables viz., tomatoes, cucumbers, and specialty let­
+tuce can provide breakeven or better revenues in hydroponic systems. These vegetables 
+along with eggplant, peppers, melons, strawberries and herbs are grown commercially in 
+hydroponic systems.  
+Different hydroponic systems
+Two different hydroponic systems are used to produce vegetables: the gravel flow, or re-cir­
+culating system, and the open bag, or drain to waste system.
+In the drain-to-waste (open bag) system, plants are grown in containers and nutrient solu­
+tion is supplied to plants by means of a dripper, for up to 12 times per day. The number of 
+irrigation cycles per day depends on temperature and the growth stage of plants. The crops 
+in the drain to waste system grow tall and need to be trained and pruned so that they grow 
+upwards as a single stem.
+In the gravel flow system, the nutrient solution is re-circulated and the roots of the plants 
+stand in a thin film of nutrient solution all the time. Gravel or sand is used most often as 
+growth medium. A PG project in KAU attempted to standardize the technique of hydro­
+ponic cultivation of tomato in a rain shelter. The experiment was laid out with 13 treat­
+ments comprising of two hydroponic methods: a) Deep Flow Technique, b) Ebb and Flow 
+Technique; two nutrient solutions: a) Cooper’s solution, b) Hoagland’s solution and three 
+growing media: a) coco peat, b) expanded clay pellets, c) pebbles and a control where the 
+plants were grown in soil with POP recommendations. The results showed that plants in 
+75
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+soil with POP recommendations showed superiority for plant height, days to first flower 
+appearance, days to first fruit set, days to first harvest, fruits per plant, duration of the 
+crop, number of harvests, yield per plant, and average fruit weight over the hydroponic 
+treatments. Among the hydroponic treatments, F2S1M1, (a combination of Ebb and Flow 
+Technique, Cooper’s solution and coco peat) was the best with respect to growth, yield per 
+plant, and benefit-cost ratio . The yield per unit area was also high for this treatment and 
+this was on par with the plants grown in soil. Out of the two nutrient solutions tested, 
+Cooper’s solution was significantly better. The growth and yield parameters were signifi­
+cantly influenced by the growing media and were the best in coco peat, followed by pebbles.
+Aeroponics. This is a form of hydroponics. Nutrient and water mixture is sprayed in caged 
+roots under dark at certain intervals with the help of sensors. This conserves water, space 
+and is less cumbersome. It demands constant supervision and has disadvantages as listed 
+under hydroponics.
+Aquaponics. Involves production of fish and vegetables with same input resource of water 
+and nutrients. Feed is given to the fishes in the pond not to the vegetables or plants grown as 
+hydroponics. Fish pond or tank water is used  as hydroponics or aeroponics with or without 
+additional fertigation. This results in effective utilization of fish pond water and its nutrients 
+for production of vegetables/plants simultaneously with added returns on input resources. 
+Plants  act as biofilter for the recycled water to fish pond.
+VERTICAL FARMING
+Vertical farming generally refers to the growing of crops - mostly vegetables, ornamentals, 
+and herbs on stacks of indoor shelves using artificial light and nutrient solutions, without 
+much sunshine and soil. Such farms are not dependent  on seasons/controlled environ­
+ment and have ability to enhance production round  the year with little risk of crop fail­
+ure. Further, they give fresh quality produce  without the need for a favourable climate, 
+healthy soil, and high water consumption, and above all, saves on labour, which is a scarce 
+commodity today. Vertical farming has  the  potential to sustain the ever-increasing world 
+population especially in the urban areas, thus providing food security. Vertical production 
+of mushrooms, hydroponic green fodder, some vegetables and fruits and even  poultry birds 
+are either in practice already or at an advanced stage of practice. 
+Green, living, or bio walls 
+These are used in ornamental horticulture. These are comprised of a free-standing space or 
+part of a building that is partially or completely covered with attractive vegetation luxuri­
+antly growing in an organic or inorganic medium and in some cases, soil also. 
+Sky greens – the world’s first hydraulic driven vertical farm
+The Singapore-based company Sky Greens has developed a revolutionary vertical farming 
+system which is also the world’s first low carbon, hydraulic-driven farm. The vegetables are 
+planted on shelves that keep on rotating throughout the day. For garden walls, selection of 
+suitable plants is the single most important factor in its success. Plants thriving well in local 
+climate are the best option. Besides, they should have compact growth providing thick and 
+dense cover. Plants having short growth habit, shallow fibrous root system and longer life 
+State Planning Board
+76
+cycle are best suited for this purpose. They also need to be capable of coping both full sun 
+and full shade according to the location. 
+Important Features of Vertical Farming
+Vertical farms enable the producer to:
+• Grow food 24 hours a day, 365 days a year
+• Protect crops from unpredictable and harmful weather
+• Re-use of water collected from the indoor environment
+• Provide jobs for residents/communities
+• Minimize use of pesticides/fertilizers/ herbicides
+• Drastic reduction and dependence on fossil fuels
+• Prevent crop loss from storage/shipping/ long transportation
+• Stop agricultural runoff, water saving up to 90% 
+TERRACE GARDENING
+Best containers to grow crops
+Based on experiments done at IFSRS, KAU with cowpea, bhindi, chilli, brinjal, Amaranthus, 
+and cabbage, it was found that the best container for growing vegetables is plastic sack with 
+60 cm height and 45 cm diameter capable of holding 20-24 kg potting media. The greater 
+volume of growing media results in better root proliferation and yield when compared to 
+earthen pot, uv stabilized grow bag and polythene bags. Moreover, the small pores of the 
+sack permits better aeration of the potting media and root zone. However, it has a durability 
+of 1-1 ½ years only. 
+The cost of a good plastic sack ranges from Rs.18-20/-. 
+Regarding durability, UV stabilized grow bags were found to be durable for 2-2 ½ years and 
+costs only Rs.15 per bag.
+Low-cost drip irrigation system
+Based on trials with Amaranthus and bhindi it was found that crop yield under drip irriga­
+tion was significantly higher than conventional irrigations.  The water use was 39 per cent 
+more under conventional irrigation when compared to the low-cost drip system. Water 
+productivity was 80-85 per cent more under the low-cost drip irrigation system. An entire 
+unit of the drip irrigation system, comprising of 100 m length of pipe, connectors filter etc. 
+costs Rs.849/- only and is manufactured by Jain Irrigation Systems (Jain Drip Kit) (IFSRS, 
+2014).
+Ideal growing media for raising crops in pots on terraces
+Crop
+Best growing media
+Amaranthus
+Soil: rock dust: cow dung 1:½:1
+Cowpea
+Soil: rock dust: vermicompost 1: ½:1
+Chilli
+Soil: rock dust: cow dung 1: ½ :1
+Brinjal
+Cow dung: coir pith 1:1 (soil less)
+77
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+Bhindi
+Cow dung: coir pith 1:1 (soil less)
+The positive effect of rock dust is evident and can be attributed to the micronutrient  pres­
+ent in it besides trace amounts of major and secondary nutrients(based on chemical analy­
+sis). Hence, it can be considered for use as a substitute for sand which is difficult to obtain. 
+Moreover, rock dust (Rs.2/- per kg) is cheaper than sand.
+Foliar fertilization vis-a-vis fertilization as per the package of practices recommendations
+In Amaranthus and brinjal, higher yield was obtained by adopting fertilization as per the 
+Package of practices recommendations, while in bhindi and bush cowpea significantly high­
+er yield was obtained with foliar fertilization (19:19:19 @ 5 g litre-1 +0.5 ml Stanowet). 
+Applying of  inorganic fertilizers to the soil in the grow bag will leach out along with irriga­
+tion water and react with the cement floor of the terrace, which will in the long run damage 
+the terrace. Hence, this practice has to be dispensed with on terraces. It is in this context 
+that, foliar fertilization assumes importance. In foliar fertilization the inorganic fertilizer 
+does not come in contact with the terrace floor and results in reasonably good yield.
+State Planning Board
+78
+APPENDIX-1
+79
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+State Planning Board
+80
+81
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+State Planning Board
+82
+83
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+State Planning Board
+84
+85
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+State Planning Board
+86
+87
+How Can Kerala Double Its Vegetable Production In The Next Five Years
+State Planning Board
+88
+89
+How Can Kerala Double Its Vegetable Production In The Next Five Years

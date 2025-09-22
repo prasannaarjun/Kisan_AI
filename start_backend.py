@@ -34,9 +34,10 @@ def install_dependencies():
 def start_server():
     """Start the FastAPI server"""
     print("Starting KisanAI backend server...")
-    os.chdir('backend')
     try:
-        subprocess.run([sys.executable, 'app.py'])
+        # Add backend to Python path and run as module
+        sys.path.insert(0, os.path.join(os.getcwd(), 'backend'))
+        subprocess.run([sys.executable, '-m', 'backend.app'])
     except KeyboardInterrupt:
         print("\nServer stopped by user")
     except Exception as e:

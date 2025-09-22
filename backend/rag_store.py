@@ -88,7 +88,51 @@ class RAGStore:
         return results
     
     def load_sample_knowledge_base(self):
-        """Load sample agricultural knowledge base"""
+        """Load agricultural knowledge base from actual documents"""
+        documents = []
+        data_dir = "data/extracted_text/content/extracted_text"
+        
+        if not os.path.exists(data_dir):
+            logger.warning(f"Data directory {data_dir} not found, using sample data")
+            self._load_sample_documents()
+            return
+        
+        # Load all text files from the directory
+        for filename in os.listdir(data_dir):
+            if filename.endswith('.txt'):
+                filepath = os.path.join(data_dir, filename)
+                try:
+                    with open(filepath, 'r', encoding='utf-8') as f:
+                        content = f.read().strip()
+                    
+                    if content:  # Only add non-empty documents
+                        # Extract topic from filename
+                        topic = filename.replace('.txt', '').replace('_', ' ').lower()
+                        
+                        documents.append({
+                            'text': content,
+                            'metadata': {
+                                'filename': filename,
+                                'topic': topic,
+                                'source': 'agricultural_documents'
+                            }
+                        })
+                        
+                        logger.info(f"Loaded document: {filename} ({len(content)} characters)")
+                        
+                except Exception as e:
+                    logger.error(f"Error loading {filename}: {e}")
+                    continue
+        
+        if documents:
+            self.add_documents(documents)
+            logger.info(f"Loaded {len(documents)} agricultural documents from {data_dir}")
+        else:
+            logger.warning("No documents found, using sample data")
+            self._load_sample_documents()
+    
+    def _load_sample_documents(self):
+        """Load sample agricultural knowledge base as fallback"""
         sample_docs = [
             {
                 'text': 'Wheat rust disease is a fungal infection that causes yellow-orange pustules on leaves. It spreads through wind and can be controlled with fungicides like propiconazole.',

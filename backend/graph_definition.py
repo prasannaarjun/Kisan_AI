@@ -4,10 +4,11 @@ LangGraph definition for the conversational AI pipeline
 import logging
 from typing import Dict, Any, List, TypedDict
 from langgraph.graph import StateGraph, END
-from transcription_engine import TranscriptionEngine
-from rag_store import RAGStore
-from conversation_manager import ConversationManager
-from persistence import ChatPersistence
+from .transcription_engine import TranscriptionEngine
+from .rag_store import RAGStore
+from .conversation_manager import ConversationManager
+from .tts_engine import TTSEngine
+from .persistence import ChatPersistence
 from datetime import datetime
 
 logger = logging.getLogger(__name__)
@@ -26,6 +27,8 @@ class ConversationState(TypedDict):
     
     # Output
     ai_response: str
+    audio_response: bytes
+    audio_sample_rate: int
     final_output: Dict[str, Any]
 
 class ConversationGraph:
@@ -33,6 +36,7 @@ class ConversationGraph:
         self.transcription_engine = TranscriptionEngine()
         self.rag_store = RAGStore()
         self.conversation_manager = ConversationManager()
+        self.tts_engine = TTSEngine()
         self.persistence = ChatPersistence()
         
         # Initialize RAG store with sample data
@@ -50,6 +54,7 @@ class ConversationGraph:
         workflow.add_node("lang_detect_node", self.lang_detect_node)
         workflow.add_node("rag_node", self.rag_node)
         workflow.add_node("llm_node", self.llm_node)
+        workflow.add_node("tts_node", self.tts_node)
         workflow.add_node("conversation_node", self.conversation_node)
         workflow.add_node("persistence_node", self.persistence_node)
         workflow.add_node("output_node", self.output_node)
@@ -60,12 +65,74 @@ class ConversationGraph:
         workflow.add_edge("stt_node", "lang_detect_node")
         workflow.add_edge("lang_detect_node", "rag_node")
         workflow.add_edge("rag_node", "llm_node")
-        workflow.add_edge("llm_node", "conversation_node")
+        workflow.add_edge("llm_node", "tts_node")
+        workflow.add_edge("tts_node", "conversation_node")
         workflow.add_edge("conversation_node", "persistence_node")
         workflow.add_edge("persistence_node", "output_node")
         workflow.add_edge("output_node", END)
         
         return workflow.compile()
+    
+    def _filter_rag_content_for_tts(self, text: str) -> str:
+        """Filter out RAG-specific content that shouldn't be spoken"""
+        if not text:
+            return text
+        
+        # Remove RAG search indicators and metadata
+        filtered_text = text
+        
+        # Remove source file references
+        import re
+        filtered_text = re.sub(r'Source: [^\n]+', '', filtered_text)
+        filtered_text = re.sub(r'Document: [^\n]+', '', filtered_text)
+        filtered_text = re.sub(r'File: [^\n]+', '', filtered_text)
+        
+        # Remove chunk metadata
+        filtered_text = re.sub(r'Chunk ID: [^\n]+', '', filtered_text)
+        filtered_text = re.sub(r'Score: [0-9.]+', '', filtered_text)
+        
+        # Remove technical metadata
+        filtered_text = re.sub(r'Document Type: [^\n]+', '', filtered_text)
+        filtered_text = re.sub(r'Section: [^\n]+', '', filtered_text)
+        
+        # Remove RAG-specific formatting
+        filtered_text = re.sub(r'\[RAG\]', '', filtered_text)
+        filtered_text = re.sub(r'\[SEARCH\]', '', filtered_text)
+        filtered_text = re.sub(r'\[RETRIEVED\]', '', filtered_text)
+        
+        # Remove "Based on agricultural knowledge:" and everything after it
+        filtered_text = re.sub(r'Based on agricultural knowledge:.*', '', filtered_text, flags=re.DOTALL)
+        
+        # Remove document headers and metadata patterns
+        filtered_text = re.sub(r'PACKAGE OF PRACTICES RECOMMENDATIONS.*?(?=\n\n|\n[A-Z]|$)', '', filtered_text, flags=re.DOTALL)
+        filtered_text = re.sub(r'DIRECTORATE OF EXTENSION.*?(?=\n\n|\n[A-Z]|$)', '', filtered_text, flags=re.DOTALL)
+        filtered_text = re.sub(r'KERALA AGRICULTURAL UNIVERSITY.*?(?=\n\n|\n[A-Z]|$)', '', filtered_text, flags=re.DOTALL)
+        filtered_text = re.sub(r'THRISSUR.*?(?=\n\n|\n[A-Z]|$)', '', filtered_text, flags=re.DOTALL)
+        filtered_text = re.sub(r'KERALA, INDIA.*?(?=\n\n|\n[A-Z]|$)', '', filtered_text, flags=re.DOTALL)
+        
+        # Remove edition and publication info
+        filtered_text = re.sub(r'\d+th edition.*?(?=\n\n|\n[A-Z]|$)', '', filtered_text, flags=re.DOTALL)
+        filtered_text = re.sub(r'First published.*?(?=\n\n|\n[A-Z]|$)', '', filtered_text, flags=re.DOTALL)
+        filtered_text = re.sub(r'MEMBERS OF.*?(?=\n\n|\n[A-Z]|$)', '', filtered_text, flags=re.DOTALL)
+        
+        # Remove numbered lists that are metadata
+        filtered_text = re.sub(r'\n\d+\s+[A-Z][^.\n]*', '', filtered_text)
+        
+        # Remove titles and headers
+        filtered_text = re.sub(r'Chief Editor.*?(?=\n\n|\n[A-Z]|$)', '', filtered_text, flags=re.DOTALL)
+        filtered_text = re.sub(r'Editors.*?(?=\n\n|\n[A-Z]|$)', '', filtered_text, flags=re.DOTALL)
+        filtered_text = re.sub(r'Director.*?(?=\n\n|\n[A-Z]|$)', '', filtered_text, flags=re.DOTALL)
+        
+        # Remove multiple whitespace and clean up
+        filtered_text = re.sub(r'\n\s*\n', '\n', filtered_text)
+        filtered_text = re.sub(r' +', ' ', filtered_text)
+        filtered_text = filtered_text.strip()
+        
+        # If text becomes too short after filtering, return original
+        if len(filtered_text) < 20:
+            return text
+        
+        return filtered_text
     
     def stt_node(self, state: ConversationState) -> ConversationState:
         """Speech-to-Text node"""
@@ -160,6 +227,39 @@ class ConversationGraph:
         
         return state
     
+    def tts_node(self, state: ConversationState) -> ConversationState:
+        """Text-to-Speech node - filters RAG content before generating audio"""
+        try:
+            ai_response = state.get("ai_response", "")
+            language = state.get("language", "en")
+            
+            if not ai_response:
+                state["audio_response"] = b""
+                return state
+            
+            # Filter out RAG-specific content before TTS
+            filtered_text = self._filter_rag_content_for_tts(ai_response)
+            
+            logger.info(f"Original text length: {len(ai_response)}")
+            logger.info(f"Filtered text length: {len(filtered_text)}")
+            logger.info("Generating speech from filtered AI response")
+            
+            # Generate speech using filtered text
+            tts_result = self.tts_engine.synthesize_speech(
+                text=filtered_text,
+                language=language
+            )
+            
+            state["audio_response"] = tts_result.get("audio_data", b"")
+            state["audio_sample_rate"] = tts_result.get("sample_rate", 22050)
+            logger.info(f"Generated audio: {len(state['audio_response'])} bytes, sample rate: {state['audio_sample_rate']}Hz")
+            
+        except Exception as e:
+            logger.error(f"Error in TTS node: {e}")
+            state["audio_response"] = b""
+        
+        return state
+    
     def conversation_node(self, state: ConversationState) -> ConversationState:
         """Conversation management node"""
         try:
@@ -226,6 +326,8 @@ class ConversationGraph:
                 "language": state.get("language", "en"),
                 "user_text": state.get("transcription", ""),
                 "ai_text": state.get("ai_response", ""),
+                "audio_response": state.get("audio_response", b""),
+                "audio_sample_rate": state.get("audio_sample_rate", 22050),
                 "context_docs": state.get("context_docs", []),
                 "timestamp": str(datetime.now())
             }
@@ -240,6 +342,7 @@ class ConversationGraph:
                 "language": "en",
                 "user_text": "",
                 "ai_text": "Error processing request",
+                "audio_response": b"",
                 "context_docs": [],
                 "timestamp": str(datetime.now())
             }
@@ -269,6 +372,7 @@ class ConversationGraph:
                 detected_language="",
                 context_docs=[],
                 ai_response="",
+                audio_response=b"",
                 final_output={}
             )
             
@@ -284,6 +388,7 @@ class ConversationGraph:
                 "language": "en",
                 "user_text": "",
                 "ai_text": "Error processing request",
+                "audio_response": b"",
                 "context_docs": [],
                 "timestamp": str(datetime.now())
             }
